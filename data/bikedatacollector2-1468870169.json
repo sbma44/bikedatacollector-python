@@ -1,692 +1,692 @@
 {
-  "-KMzUE6WlgbqgTpgWh2O": {
-    "coordTimestamp": 1468870214.000113,
-    "msg": "timestamp: 1468870214945",
-    "coord": [
-      -77.03256254091582,
-      38.91325214415687
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870226.426506
-  },
-  "-KMzUGDvlj8Bn0g5Wt8g": {
-    "coordTimestamp": 1468870234.000099,
-    "msg": "timestamp: 1468870234947",
-    "coord": [
-      -77.03278717592082,
-      38.91324707310545
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870235.092241
-  },
-  "-KMzU6hksAxK0c8uATep": {
-    "coordTimestamp": 1468870189.999994,
-    "msg": "timestamp: 1468870193954",
-    "coord": [
-      -77.03265205964169,
-      38.91341508835453
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870196.107038
-  },
-  "-KMzUE6ZsXnwfe7lwZJa": {
-    "coordTimestamp": 1468870214.000113,
-    "msg": "timestamp: 1468870215948",
-    "coord": [
-      -77.03256254091582,
-      38.91325214415687
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870226.429717
-  },
-  "-KMzUJQR0hELdu_LWYnA": {
-    "coordTimestamp": 1468870237.000113,
-    "msg": "timestamp: 1468870240946",
-    "coord": [
-      -77.03278717592082,
-      38.91324707310545
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870248.181198
-  },
-  "-KMzUFTyFIpYhJkmh5X0": {
-    "coordTimestamp": 1468870231.000051,
-    "msg": "timestamp: 1468870231947",
-    "coord": [
-      -77.03278717592082,
-      38.91324707310545
-    ],
-    "horizontalAccuracy": 30,
-    "timestamp": 1468870232.024015
-  },
-  "-KMzUE6hYt84Izxq4b6M": {
-    "coordTimestamp": 1468870214.000113,
-    "msg": "timestamp: 1468870217948",
-    "coord": [
-      -77.03256254091582,
-      38.91325214415687
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870226.438093
-  },
-  "-KMzUJQnbZrUtKEGKi1C": {
-    "coordTimestamp": 1468870237.000113,
-    "msg": "timestamp: 1468870245948",
-    "coord": [
-      -77.03278717592082,
-      38.91324707310545
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870248.204231
-  },
-  "-KMzU6wPHrnf1yV5yUpH": {
-    "coordTimestamp": 1468870196.000063,
-    "msg": "timestamp: 1468870196945",
-    "coord": [
-      -77.03265583149812,
-      38.91338906254518
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870197.043068
-  },
-  "-KMzU8zMkomIIoxRHWca": {
-    "coordTimestamp": 1468870198.99996,
-    "msg": "timestamp: 1468870202947",
-    "coord": [
-      -77.03263747513017,
-      38.91335788186538
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870205.424059
-  },
-  "-KMzU97Z_h6knk06aH3X": {
-    "coordTimestamp": 1468870205.490618,
-    "msg": "timestamp: 1468870205948",
-    "coord": [
-      -77.03258676461598,
-      38.91331006310779
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870206.01353
-  },
-  "-KMzUE76Z8MB1TMcyLW8": {
-    "coordTimestamp": 1468870214.000113,
-    "msg": "timestamp: 1468870224944",
-    "coord": [
-      -77.03256254091582,
-      38.91325214415687
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870226.464831
-  },
-  "-KMzU3zhyTT4Rcl6SWmD": {
-    "coordTimestamp": 1468870183.999994,
-    "msg": "timestamp: 1468870184978",
-    "coord": [
-      -77.03265205964169,
-      38.91341508835453
-    ],
-    "horizontalAccuracy": 30,
-    "timestamp": 1468870184.966305
-  },
-  "-KMzUJQUqq-rFxwfKYOb": {
-    "coordTimestamp": 1468870237.000113,
-    "msg": "timestamp: 1468870241945",
-    "coord": [
-      -77.03278717592082,
-      38.91324707310545
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870248.184102
-  },
-  "-KMzU8zAnDZnszxLLrxY": {
-    "coordTimestamp": 1468870198.99996,
-    "msg": "timestamp: 1468870200944",
-    "coord": [
-      -77.03263747513017,
-      38.91335788186538
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870205.412218
-  },
-  "-KMzUFxKFF2La8cTc3fZ": {
-    "coordTimestamp": 1468870233.000124,
-    "msg": "timestamp: 1468870233944",
-    "coord": [
-      -77.03278717592082,
-      38.91324707310545
-    ],
-    "horizontalAccuracy": 30,
-    "timestamp": 1468870233.966576
-  },
-  "-KMzUJQNayxD99lveuNZ": {
-    "coordTimestamp": 1468870237.000113,
-    "msg": "timestamp: 1468870239951",
-    "coord": [
-      -77.03278717592082,
-      38.91324707310545
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870248.177957
-  },
-  "-KMzU9qyXQePqckehruk": {
-    "coordTimestamp": 1468870207.999965,
-    "msg": "timestamp: 1468870208944",
-    "coord": [
-      -77.03257310211382,
-      38.91329640060562
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870208.983362
-  },
-  "-KMzU6hgUprKBmaXtOMc": {
-    "coordTimestamp": 1468870189.999994,
-    "msg": "timestamp: 1468870192948",
-    "coord": [
-      -77.03265205964169,
-      38.91341508835453
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870196.101886
-  },
-  "-KMzUJr2lii7WBbeNuXi": {
-    "coordTimestamp": 1468870248.283133,
-    "msg": "timestamp: 1468870249946",
-    "coord": [
-      -77.03278717592082,
-      38.91324707310545
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870249.948804
-  },
-  "-KMzUJQ-8rmTp2bSAE7A": {
-    "coordTimestamp": 1468870237.000113,
-    "msg": "timestamp: 1468870237946",
-    "coord": [
-      -77.03278717592082,
-      38.91324707310545
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870248.153244
-  },
-  "-KMzUE6vR_PNqwGfUGxf": {
-    "coordTimestamp": 1468870214.000113,
-    "msg": "timestamp: 1468870221948",
-    "coord": [
-      -77.03256254091582,
-      38.91325214415687
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870226.45275
-  },
-  "-KMzU4iFhKU4u1qnZd9o": {
-    "coordTimestamp": 1468870186.999994,
-    "msg": "timestamp: 1468870187948",
-    "coord": [
-      -77.03265205964169,
-      38.91341508835453
-    ],
-    "horizontalAccuracy": 30,
-    "timestamp": 1468870187.945839
-  },
-  "-KMzUAqynSVRilQZxExR": {
-    "coordTimestamp": 1468870212.000113,
-    "msg": "timestamp: 1468870212946",
-    "coord": [
-      -77.03255281790814,
-      38.91325549691814
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870213.079086
-  },
-  "-KMzU7AjAZnM8zCvAWg0": {
-    "coordTimestamp": 1468870197.0001,
-    "msg": "timestamp: 1468870197946",
-    "coord": [
-      -77.03265063471815,
-      38.91337330456722
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870198.024447
-  },
-  "-KMzUEy__-53Yt0kArkR": {
-    "coordTimestamp": 1468870228.999962,
-    "msg": "timestamp: 1468870229945",
-    "coord": [
-      -77.0327070449265,
-      38.91321321021664
-    ],
-    "horizontalAccuracy": 50,
-    "timestamp": 1468870229.950544
-  },
-  "-KMzUJQpqtFTXKu3iE09": {
-    "coordTimestamp": 1468870237.000113,
-    "msg": "timestamp: 1468870246949",
-    "coord": [
-      -77.03278717592082,
-      38.91324707310545
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870248.2064
-  },
-  "-KMzU6hZGofwYB6U-MUc": {
-    "coordTimestamp": 1468870189.999994,
-    "msg": "timestamp: 1468870190945",
-    "coord": [
-      -77.03265205964169,
-      38.91341508835453
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870196.09308
-  },
-  "-KMzU8zFiLgeks4CCeJ5": {
-    "coordTimestamp": 1468870198.99996,
-    "msg": "timestamp: 1468870201948",
-    "coord": [
-      -77.03263747513017,
-      38.91335788186538
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870205.417237
-  },
-  "-KMzU7QkdUsHqlu7GOsx": {
-    "coordTimestamp": 1468870198.000023,
-    "msg": "timestamp: 1468870198946",
-    "coord": [
-      -77.03264594085238,
-      38.91336379110712
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870199.049145
-  },
-  "-KMzU8z0zGrCK1Nd0FOM": {
-    "coordTimestamp": 1468870198.99996,
-    "msg": "timestamp: 1468870199944",
-    "coord": [
-      -77.03263747513017,
-      38.91335788186538
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870205.402937
-  },
-  "-KMzUB3xdhU19aOeLWMV": {
-    "coordTimestamp": 1468870213.000114,
-    "msg": "timestamp: 1468870213944",
-    "coord": [
-      -77.03256254091582,
-      38.91325214415687
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870213.974967
-  },
-  "-KMzU6huaTqKZRD82FtF": {
-    "coordTimestamp": 1468870189.999994,
-    "msg": "timestamp: 1468870195948",
-    "coord": [
-      -77.03265205964169,
-      38.91341508835453
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870196.115411
-  },
-  "-KMzUJQcCBFMjQLCMWKO": {
-    "coordTimestamp": 1468870237.000113,
-    "msg": "timestamp: 1468870242946",
-    "coord": [
-      -77.03278717592082,
-      38.91324707310545
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870248.193285
-  },
-  "-KMzU9NYgA_BSAEtxX7m": {
-    "coordTimestamp": 1468870205.999985,
-    "msg": "timestamp: 1468870206944",
-    "coord": [
-      -77.03257779597959,
-      38.91330436341363
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870207.036909
-  },
-  "-KMzU4TwTxvkls1Ty81q": {
-    "coordTimestamp": 1468870185.999994,
-    "msg": "timestamp: 1468870186944",
-    "coord": [
-      -77.03265205964169,
-      38.91341508835453
-    ],
-    "horizontalAccuracy": 30,
-    "timestamp": 1468870186.965935
-  },
-  "-KMzUEVW_EwtLr7mhpqK": {
-    "coordTimestamp": 1468870226.470961,
-    "msg": "timestamp: 1468870227948",
-    "coord": [
-      -77.03260813846907,
-      38.91319736841965
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870228.026909
-  },
-  "-KMzUE6q06AKx-K_DQRH": {
-    "coordTimestamp": 1468870214.000113,
-    "msg": "timestamp: 1468870220948",
-    "coord": [
-      -77.03256254091582,
-      38.91325214415687
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870226.447405
-  },
   "-KMzUJQrG6y214HVxYpC": {
+    "coord": [
+      -77.03278717592082,
+      38.91324707310545
+    ],
     "coordTimestamp": 1468870237.000113,
+    "timestamp": 1468870248.208336,
     "msg": "timestamp: 1468870247949",
-    "coord": [
-      -77.03278717592082,
-      38.91324707310545
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870248.208336
-  },
-  "-KMzUA5w4_ROyXxQcs_k": {
-    "coordTimestamp": 1468870208.999993,
-    "msg": "timestamp: 1468870209947",
-    "coord": [
-      -77.03256488784871,
-      38.91329044945437
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870210.005261
-  },
-  "-KMzUGSKmfo7FnO209tF": {
-    "coordTimestamp": 1468870235.000079,
-    "msg": "timestamp: 1468870235948",
-    "coord": [
-      -77.03278717592082,
-      38.91324707310545
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870236.014066
-  },
-  "-KMzUE7AELLszO-b1EZ9": {
-    "coordTimestamp": 1468870214.000113,
-    "msg": "timestamp: 1468870225949",
-    "coord": [
-      -77.03256254091582,
-      38.91325214415687
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870226.468611
-  },
-  "-KMzUJQhqiQ4h6H2drXk": {
-    "coordTimestamp": 1468870237.000113,
-    "msg": "timestamp: 1468870244946",
-    "coord": [
-      -77.03278717592082,
-      38.91324707310545
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870248.198551
-  },
-  "-KMzUFDyOcqX4BqGunce": {
-    "coordTimestamp": 1468870230.000068,
-    "msg": "timestamp: 1468870230949",
-    "coord": [
-      -77.0327070449265,
-      38.91321321021664
-    ],
-    "horizontalAccuracy": 30,
-    "timestamp": 1468870230.999841
+    "horizontalAccuracy": 10
   },
   "-KMzU3mAWfSztpqideIu": {
-    "coordTimestamp": 1468870182.999993,
-    "msg": "timestamp: 1468870183947",
     "coord": [
       -77.03265205964169,
       38.91341508835453
     ],
-    "horizontalAccuracy": 50,
-    "timestamp": 1468870184.101479
+    "coordTimestamp": 1468870182.999993,
+    "timestamp": 1468870184.101479,
+    "msg": "timestamp: 1468870183947",
+    "horizontalAccuracy": 50
   },
   "-KMzUK5It3O6y1tFV1A8": {
-    "coordTimestamp": 1468870249.383071,
-    "msg": "timestamp: 1468870250946",
     "coord": [
       -77.03277024447641,
       38.91319816470045
     ],
-    "horizontalAccuracy": 30,
-    "timestamp": 1468870250.924537
+    "coordTimestamp": 1468870249.383071,
+    "timestamp": 1468870250.924537,
+    "msg": "timestamp: 1468870250946",
+    "horizontalAccuracy": 30
   },
-  "-KMzU9bGc78-Ws-4opHD": {
-    "coordTimestamp": 1468870206.999992,
-    "msg": "timestamp: 1468870207944",
+  "-KMzUJQhqiQ4h6H2drXk": {
     "coord": [
-      -77.0325772930654,
-      38.91329870562899
+      -77.03278717592082,
+      38.91324707310545
     ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870207.97833
+    "coordTimestamp": 1468870237.000113,
+    "timestamp": 1468870248.198551,
+    "msg": "timestamp: 1468870244946",
+    "horizontalAccuracy": 10
   },
-  "-KMzU3ViegOWEMnE7ffk": {
-    "coordTimestamp": 1468870176.831823,
-    "msg": "timestamp: 1468870182946",
+  "-KMzUGSKmfo7FnO209tF": {
     "coord": [
-      -77.03264100917913,
-      38.91340251360712
+      -77.03278717592082,
+      38.91324707310545
     ],
-    "horizontalAccuracy": 65,
-    "timestamp": 1468870182.98625
+    "coordTimestamp": 1468870235.000079,
+    "timestamp": 1468870236.014066,
+    "msg": "timestamp: 1468870235948",
+    "horizontalAccuracy": 10
+  },
+  "-KMzU4iFhKU4u1qnZd9o": {
+    "coord": [
+      -77.03265205964169,
+      38.91341508835453
+    ],
+    "coordTimestamp": 1468870186.999994,
+    "timestamp": 1468870187.945839,
+    "msg": "timestamp: 1468870187948",
+    "horizontalAccuracy": 30
   },
   "-KMzUJQLCGANl0GfyUTs": {
+    "coord": [
+      -77.03278717592082,
+      38.91324707310545
+    ],
     "coordTimestamp": 1468870237.000113,
+    "timestamp": 1468870248.175444,
     "msg": "timestamp: 1468870238948",
-    "coord": [
-      -77.03278717592082,
-      38.91324707310545
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870248.175444
-  },
-  "-KMzUJQfTeWpD5W_aWk0": {
-    "coordTimestamp": 1468870237.000113,
-    "msg": "timestamp: 1468870243945",
-    "coord": [
-      -77.03278717592082,
-      38.91324707310545
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870248.196128
-  },
-  "-KMzU8zPNZP6Y-io5asX": {
-    "coordTimestamp": 1468870198.99996,
-    "msg": "timestamp: 1468870203945",
-    "coord": [
-      -77.03263747513017,
-      38.91335788186538
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870205.427294
-  },
-  "-KMzUFiWTEoNIoWFJGry": {
-    "coordTimestamp": 1468870232.000041,
-    "msg": "timestamp: 1468870232947",
-    "coord": [
-      -77.03278717592082,
-      38.91324707310545
-    ],
-    "horizontalAccuracy": 30,
-    "timestamp": 1468870233.018107
+    "horizontalAccuracy": 10
   },
   "-KMzUAagFMDnu841O4qF": {
-    "coordTimestamp": 1468870211.000113,
-    "msg": "timestamp: 1468870211947",
     "coord": [
       -77.03255172826073,
       38.91326932705837
     ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870212.037848
+    "coordTimestamp": 1468870211.000113,
+    "timestamp": 1468870212.037848,
+    "msg": "timestamp: 1468870211947",
+    "horizontalAccuracy": 10
   },
-  "-KMzUJcadsIFiPUUyjEd": {
-    "coordTimestamp": 1468870248.283133,
-    "msg": "timestamp: 1468870248945",
+  "-KMzUE6ZsXnwfe7lwZJa": {
+    "coord": [
+      -77.03256254091582,
+      38.91325214415687
+    ],
+    "coordTimestamp": 1468870214.000113,
+    "timestamp": 1468870226.429717,
+    "msg": "timestamp: 1468870215948",
+    "horizontalAccuracy": 10
+  },
+  "-KMzUJQR0hELdu_LWYnA": {
     "coord": [
       -77.03278717592082,
       38.91324707310545
     ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870249.02304
+    "coordTimestamp": 1468870237.000113,
+    "timestamp": 1468870248.181198,
+    "msg": "timestamp: 1468870240946",
+    "horizontalAccuracy": 10
   },
-  "-KMzU4z-iFt9KE3J95AN": {
-    "coordTimestamp": 1468870187.999993,
-    "msg": "timestamp: 1468870188950",
+  "-KMzUE6aRMjppjo9GIwT": {
+    "coord": [
+      -77.03256254091582,
+      38.91325214415687
+    ],
+    "coordTimestamp": 1468870214.000113,
+    "timestamp": 1468870226.431899,
+    "msg": "timestamp: 1468870216944",
+    "horizontalAccuracy": 10
+  },
+  "-KMzUFxKFF2La8cTc3fZ": {
+    "coord": [
+      -77.03278717592082,
+      38.91324707310545
+    ],
+    "coordTimestamp": 1468870233.000124,
+    "timestamp": 1468870233.966576,
+    "msg": "timestamp: 1468870233944",
+    "horizontalAccuracy": 30
+  },
+  "-KMzUE6nLPC5Q9FYpbik": {
+    "coord": [
+      -77.03256254091582,
+      38.91325214415687
+    ],
+    "coordTimestamp": 1468870214.000113,
+    "timestamp": 1468870226.444539,
+    "msg": "timestamp: 1468870219947",
+    "horizontalAccuracy": 10
+  },
+  "-KMzU4Fl3DE5LLmuTCig": {
     "coord": [
       -77.03265205964169,
       38.91341508835453
     ],
-    "horizontalAccuracy": 30,
-    "timestamp": 1468870189.017547
+    "coordTimestamp": 1468870184.999994,
+    "timestamp": 1468870186.058836,
+    "msg": "timestamp: 1468870185945",
+    "horizontalAccuracy": 30
   },
-  "-KMzUANAJTzyxuBttzKi": {
-    "coordTimestamp": 1468870210.000149,
-    "msg": "timestamp: 1468870210946",
+  "-KMzU6hcOKNAxaIgdqIP": {
     "coord": [
-      -77.03255717649779,
-      38.91328173227507
+      -77.03265205964169,
+      38.91341508835453
     ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870211.108884
-  },
-  "-KMzUEkYbrNRciwhHJTl": {
-    "coordTimestamp": 1468870228.005319,
-    "msg": "timestamp: 1468870228949",
-    "coord": [
-      -77.03286089857825,
-      38.9132602624474
-    ],
-    "horizontalAccuracy": 65,
-    "timestamp": 1468870229.052953
-  },
-  "-KMzUE71Jc7BMkJa2y0h": {
-    "coordTimestamp": 1468870214.000113,
-    "msg": "timestamp: 1468870223946",
-    "coord": [
-      -77.03256254091582,
-      38.91325214415687
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870226.45951
-  },
-  "-KMzUE6nLPC5Q9FYpbik": {
-    "coordTimestamp": 1468870214.000113,
-    "msg": "timestamp: 1468870219947",
-    "coord": [
-      -77.03256254091582,
-      38.91325214415687
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870226.444539
-  },
-  "-KMzUEG-OH16ZcFACS5W": {
-    "coordTimestamp": 1468870226.470961,
-    "msg": "timestamp: 1468870226947",
-    "coord": [
-      -77.03260813846907,
-      38.91319736841965
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870227.033491
+    "coordTimestamp": 1468870189.999994,
+    "timestamp": 1468870196.097214,
+    "msg": "timestamp: 1468870191944",
+    "horizontalAccuracy": 10
   },
   "-KMzU8zTfRptzxU1FVQk": {
-    "coordTimestamp": 1468870198.99996,
-    "msg": "timestamp: 1468870204948",
     "coord": [
       -77.03263747513017,
       38.91335788186538
     ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870205.431803
+    "coordTimestamp": 1468870198.99996,
+    "timestamp": 1468870205.431803,
+    "msg": "timestamp: 1468870204948",
+    "horizontalAccuracy": 10
   },
-  "-KMzU6hcOKNAxaIgdqIP": {
-    "coordTimestamp": 1468870189.999994,
-    "msg": "timestamp: 1468870191944",
+  "-KMzUE7AELLszO-b1EZ9": {
+    "coord": [
+      -77.03256254091582,
+      38.91325214415687
+    ],
+    "coordTimestamp": 1468870214.000113,
+    "timestamp": 1468870226.468611,
+    "msg": "timestamp: 1468870225949",
+    "horizontalAccuracy": 10
+  },
+  "-KMzU6hZGofwYB6U-MUc": {
     "coord": [
       -77.03265205964169,
       38.91341508835453
     ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870196.097214
+    "coordTimestamp": 1468870189.999994,
+    "timestamp": 1468870196.09308,
+    "msg": "timestamp: 1468870190945",
+    "horizontalAccuracy": 10
   },
-  "-KMzUE6aRMjppjo9GIwT": {
-    "coordTimestamp": 1468870214.000113,
-    "msg": "timestamp: 1468870216944",
+  "-KMzU8zFiLgeks4CCeJ5": {
     "coord": [
-      -77.03256254091582,
-      38.91325214415687
+      -77.03263747513017,
+      38.91335788186538
     ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870226.431899
+    "coordTimestamp": 1468870198.99996,
+    "timestamp": 1468870205.417237,
+    "msg": "timestamp: 1468870201948",
+    "horizontalAccuracy": 10
   },
   "-KMzUE6xK1kGMu4ARV0U": {
-    "coordTimestamp": 1468870214.000113,
-    "msg": "timestamp: 1468870222945",
     "coord": [
       -77.03256254091582,
       38.91325214415687
     ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870226.45485
+    "coordTimestamp": 1468870214.000113,
+    "timestamp": 1468870226.45485,
+    "msg": "timestamp: 1468870222945",
+    "horizontalAccuracy": 10
   },
-  "-KMzUGwNaNImvqlukOt9": {
-    "coordTimestamp": 1468870237.000113,
-    "msg": "timestamp: 1468870236948",
+  "-KMzU9qyXQePqckehruk": {
+    "coord": [
+      -77.03257310211382,
+      38.91329640060562
+    ],
+    "coordTimestamp": 1468870207.999965,
+    "timestamp": 1468870208.983362,
+    "msg": "timestamp: 1468870208944",
+    "horizontalAccuracy": 10
+  },
+  "-KMzU8zAnDZnszxLLrxY": {
+    "coord": [
+      -77.03263747513017,
+      38.91335788186538
+    ],
+    "coordTimestamp": 1468870198.99996,
+    "timestamp": 1468870205.412218,
+    "msg": "timestamp: 1468870200944",
+    "horizontalAccuracy": 10
+  },
+  "-KMzUJQpqtFTXKu3iE09": {
     "coord": [
       -77.03278717592082,
       38.91324707310545
     ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870238.001613
+    "coordTimestamp": 1468870237.000113,
+    "timestamp": 1468870248.2064,
+    "msg": "timestamp: 1468870246949",
+    "horizontalAccuracy": 10
   },
-  "-KMzU6hoCyWGs9_Ppnqz": {
-    "coordTimestamp": 1468870189.999994,
-    "msg": "timestamp: 1468870194948",
+  "-KMzUJQnbZrUtKEGKi1C": {
     "coord": [
-      -77.03265205964169,
-      38.91341508835453
+      -77.03278717592082,
+      38.91324707310545
     ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870196.109497
+    "coordTimestamp": 1468870237.000113,
+    "timestamp": 1468870248.204231,
+    "msg": "timestamp: 1468870245948",
+    "horizontalAccuracy": 10
   },
-  "-KMzU5MTxFTqRweo4Lp5": {
-    "coordTimestamp": 1468870189.999994,
-    "msg": "timestamp: 1468870189944",
-    "coord": [
-      -77.03265205964169,
-      38.91341508835453
-    ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870190.583845
-  },
-  "-KMzUE6k2K3a3DNFXI_C": {
-    "coordTimestamp": 1468870214.000113,
-    "msg": "timestamp: 1468870218945",
+  "-KMzUE6vR_PNqwGfUGxf": {
     "coord": [
       -77.03256254091582,
       38.91325214415687
     ],
-    "horizontalAccuracy": 10,
-    "timestamp": 1468870226.441668
+    "coordTimestamp": 1468870214.000113,
+    "timestamp": 1468870226.45275,
+    "msg": "timestamp: 1468870221948",
+    "horizontalAccuracy": 10
   },
-  "-KMzU4Fl3DE5LLmuTCig": {
-    "coordTimestamp": 1468870184.999994,
-    "msg": "timestamp: 1468870185945",
+  "-KMzU6huaTqKZRD82FtF": {
     "coord": [
       -77.03265205964169,
       38.91341508835453
     ],
-    "horizontalAccuracy": 30,
-    "timestamp": 1468870186.058836
+    "coordTimestamp": 1468870189.999994,
+    "timestamp": 1468870196.115411,
+    "msg": "timestamp: 1468870195948",
+    "horizontalAccuracy": 10
+  },
+  "-KMzU3zhyTT4Rcl6SWmD": {
+    "coord": [
+      -77.03265205964169,
+      38.91341508835453
+    ],
+    "coordTimestamp": 1468870183.999994,
+    "timestamp": 1468870184.966305,
+    "msg": "timestamp: 1468870184978",
+    "horizontalAccuracy": 30
+  },
+  "-KMzUJcadsIFiPUUyjEd": {
+    "coord": [
+      -77.03278717592082,
+      38.91324707310545
+    ],
+    "coordTimestamp": 1468870248.283133,
+    "timestamp": 1468870249.02304,
+    "msg": "timestamp: 1468870248945",
+    "horizontalAccuracy": 10
+  },
+  "-KMzUJQfTeWpD5W_aWk0": {
+    "coord": [
+      -77.03278717592082,
+      38.91324707310545
+    ],
+    "coordTimestamp": 1468870237.000113,
+    "timestamp": 1468870248.196128,
+    "msg": "timestamp: 1468870243945",
+    "horizontalAccuracy": 10
+  },
+  "-KMzU6hgUprKBmaXtOMc": {
+    "coord": [
+      -77.03265205964169,
+      38.91341508835453
+    ],
+    "coordTimestamp": 1468870189.999994,
+    "timestamp": 1468870196.101886,
+    "msg": "timestamp: 1468870192948",
+    "horizontalAccuracy": 10
+  },
+  "-KMzUEVW_EwtLr7mhpqK": {
+    "coord": [
+      -77.03260813846907,
+      38.91319736841965
+    ],
+    "coordTimestamp": 1468870226.470961,
+    "timestamp": 1468870228.026909,
+    "msg": "timestamp: 1468870227948",
+    "horizontalAccuracy": 10
+  },
+  "-KMzUE6q06AKx-K_DQRH": {
+    "coord": [
+      -77.03256254091582,
+      38.91325214415687
+    ],
+    "coordTimestamp": 1468870214.000113,
+    "timestamp": 1468870226.447405,
+    "msg": "timestamp: 1468870220948",
+    "horizontalAccuracy": 10
+  },
+  "-KMzUFTyFIpYhJkmh5X0": {
+    "coord": [
+      -77.03278717592082,
+      38.91324707310545
+    ],
+    "coordTimestamp": 1468870231.000051,
+    "timestamp": 1468870232.024015,
+    "msg": "timestamp: 1468870231947",
+    "horizontalAccuracy": 30
+  },
+  "-KMzU6hksAxK0c8uATep": {
+    "coord": [
+      -77.03265205964169,
+      38.91341508835453
+    ],
+    "coordTimestamp": 1468870189.999994,
+    "timestamp": 1468870196.107038,
+    "msg": "timestamp: 1468870193954",
+    "horizontalAccuracy": 10
+  },
+  "-KMzUEG-OH16ZcFACS5W": {
+    "coord": [
+      -77.03260813846907,
+      38.91319736841965
+    ],
+    "coordTimestamp": 1468870226.470961,
+    "timestamp": 1468870227.033491,
+    "msg": "timestamp: 1468870226947",
+    "horizontalAccuracy": 10
+  },
+  "-KMzUEkYbrNRciwhHJTl": {
+    "coord": [
+      -77.03286089857825,
+      38.9132602624474
+    ],
+    "coordTimestamp": 1468870228.005319,
+    "timestamp": 1468870229.052953,
+    "msg": "timestamp: 1468870228949",
+    "horizontalAccuracy": 65
+  },
+  "-KMzUEy__-53Yt0kArkR": {
+    "coord": [
+      -77.0327070449265,
+      38.91321321021664
+    ],
+    "coordTimestamp": 1468870228.999962,
+    "timestamp": 1468870229.950544,
+    "msg": "timestamp: 1468870229945",
+    "horizontalAccuracy": 50
+  },
+  "-KMzU6hoCyWGs9_Ppnqz": {
+    "coord": [
+      -77.03265205964169,
+      38.91341508835453
+    ],
+    "coordTimestamp": 1468870189.999994,
+    "timestamp": 1468870196.109497,
+    "msg": "timestamp: 1468870194948",
+    "horizontalAccuracy": 10
+  },
+  "-KMzU9NYgA_BSAEtxX7m": {
+    "coord": [
+      -77.03257779597959,
+      38.91330436341363
+    ],
+    "coordTimestamp": 1468870205.999985,
+    "timestamp": 1468870207.036909,
+    "msg": "timestamp: 1468870206944",
+    "horizontalAccuracy": 10
+  },
+  "-KMzU9bGc78-Ws-4opHD": {
+    "coord": [
+      -77.0325772930654,
+      38.91329870562899
+    ],
+    "coordTimestamp": 1468870206.999992,
+    "timestamp": 1468870207.97833,
+    "msg": "timestamp: 1468870207944",
+    "horizontalAccuracy": 10
+  },
+  "-KMzUGDvlj8Bn0g5Wt8g": {
+    "coord": [
+      -77.03278717592082,
+      38.91324707310545
+    ],
+    "coordTimestamp": 1468870234.000099,
+    "timestamp": 1468870235.092241,
+    "msg": "timestamp: 1468870234947",
+    "horizontalAccuracy": 10
+  },
+  "-KMzU4TwTxvkls1Ty81q": {
+    "coord": [
+      -77.03265205964169,
+      38.91341508835453
+    ],
+    "coordTimestamp": 1468870185.999994,
+    "timestamp": 1468870186.965935,
+    "msg": "timestamp: 1468870186944",
+    "horizontalAccuracy": 30
+  },
+  "-KMzUJQNayxD99lveuNZ": {
+    "coord": [
+      -77.03278717592082,
+      38.91324707310545
+    ],
+    "coordTimestamp": 1468870237.000113,
+    "timestamp": 1468870248.177957,
+    "msg": "timestamp: 1468870239951",
+    "horizontalAccuracy": 10
+  },
+  "-KMzUJQcCBFMjQLCMWKO": {
+    "coord": [
+      -77.03278717592082,
+      38.91324707310545
+    ],
+    "coordTimestamp": 1468870237.000113,
+    "timestamp": 1468870248.193285,
+    "msg": "timestamp: 1468870242946",
+    "horizontalAccuracy": 10
+  },
+  "-KMzU7AjAZnM8zCvAWg0": {
+    "coord": [
+      -77.03265063471815,
+      38.91337330456722
+    ],
+    "coordTimestamp": 1468870197.0001,
+    "timestamp": 1468870198.024447,
+    "msg": "timestamp: 1468870197946",
+    "horizontalAccuracy": 10
+  },
+  "-KMzUJQ-8rmTp2bSAE7A": {
+    "coord": [
+      -77.03278717592082,
+      38.91324707310545
+    ],
+    "coordTimestamp": 1468870237.000113,
+    "timestamp": 1468870248.153244,
+    "msg": "timestamp: 1468870237946",
+    "horizontalAccuracy": 10
+  },
+  "-KMzU97Z_h6knk06aH3X": {
+    "coord": [
+      -77.03258676461598,
+      38.91331006310779
+    ],
+    "coordTimestamp": 1468870205.490618,
+    "timestamp": 1468870206.01353,
+    "msg": "timestamp: 1468870205948",
+    "horizontalAccuracy": 10
+  },
+  "-KMzUE6k2K3a3DNFXI_C": {
+    "coord": [
+      -77.03256254091582,
+      38.91325214415687
+    ],
+    "coordTimestamp": 1468870214.000113,
+    "timestamp": 1468870226.441668,
+    "msg": "timestamp: 1468870218945",
+    "horizontalAccuracy": 10
+  },
+  "-KMzU8z0zGrCK1Nd0FOM": {
+    "coord": [
+      -77.03263747513017,
+      38.91335788186538
+    ],
+    "coordTimestamp": 1468870198.99996,
+    "timestamp": 1468870205.402937,
+    "msg": "timestamp: 1468870199944",
+    "horizontalAccuracy": 10
+  },
+  "-KMzUA5w4_ROyXxQcs_k": {
+    "coord": [
+      -77.03256488784871,
+      38.91329044945437
+    ],
+    "coordTimestamp": 1468870208.999993,
+    "timestamp": 1468870210.005261,
+    "msg": "timestamp: 1468870209947",
+    "horizontalAccuracy": 10
+  },
+  "-KMzU4z-iFt9KE3J95AN": {
+    "coord": [
+      -77.03265205964169,
+      38.91341508835453
+    ],
+    "coordTimestamp": 1468870187.999993,
+    "timestamp": 1468870189.017547,
+    "msg": "timestamp: 1468870188950",
+    "horizontalAccuracy": 30
+  },
+  "-KMzUE71Jc7BMkJa2y0h": {
+    "coord": [
+      -77.03256254091582,
+      38.91325214415687
+    ],
+    "coordTimestamp": 1468870214.000113,
+    "timestamp": 1468870226.45951,
+    "msg": "timestamp: 1468870223946",
+    "horizontalAccuracy": 10
+  },
+  "-KMzUJQUqq-rFxwfKYOb": {
+    "coord": [
+      -77.03278717592082,
+      38.91324707310545
+    ],
+    "coordTimestamp": 1468870237.000113,
+    "timestamp": 1468870248.184102,
+    "msg": "timestamp: 1468870241945",
+    "horizontalAccuracy": 10
+  },
+  "-KMzU5MTxFTqRweo4Lp5": {
+    "coord": [
+      -77.03265205964169,
+      38.91341508835453
+    ],
+    "coordTimestamp": 1468870189.999994,
+    "timestamp": 1468870190.583845,
+    "msg": "timestamp: 1468870189944",
+    "horizontalAccuracy": 10
+  },
+  "-KMzUE76Z8MB1TMcyLW8": {
+    "coord": [
+      -77.03256254091582,
+      38.91325214415687
+    ],
+    "coordTimestamp": 1468870214.000113,
+    "timestamp": 1468870226.464831,
+    "msg": "timestamp: 1468870224944",
+    "horizontalAccuracy": 10
+  },
+  "-KMzUE6hYt84Izxq4b6M": {
+    "coord": [
+      -77.03256254091582,
+      38.91325214415687
+    ],
+    "coordTimestamp": 1468870214.000113,
+    "timestamp": 1468870226.438093,
+    "msg": "timestamp: 1468870217948",
+    "horizontalAccuracy": 10
+  },
+  "-KMzUAqynSVRilQZxExR": {
+    "coord": [
+      -77.03255281790814,
+      38.91325549691814
+    ],
+    "coordTimestamp": 1468870212.000113,
+    "timestamp": 1468870213.079086,
+    "msg": "timestamp: 1468870212946",
+    "horizontalAccuracy": 10
+  },
+  "-KMzU8zPNZP6Y-io5asX": {
+    "coord": [
+      -77.03263747513017,
+      38.91335788186538
+    ],
+    "coordTimestamp": 1468870198.99996,
+    "timestamp": 1468870205.427294,
+    "msg": "timestamp: 1468870203945",
+    "horizontalAccuracy": 10
+  },
+  "-KMzUE6WlgbqgTpgWh2O": {
+    "coord": [
+      -77.03256254091582,
+      38.91325214415687
+    ],
+    "coordTimestamp": 1468870214.000113,
+    "timestamp": 1468870226.426506,
+    "msg": "timestamp: 1468870214945",
+    "horizontalAccuracy": 10
+  },
+  "-KMzUB3xdhU19aOeLWMV": {
+    "coord": [
+      -77.03256254091582,
+      38.91325214415687
+    ],
+    "coordTimestamp": 1468870213.000114,
+    "timestamp": 1468870213.974967,
+    "msg": "timestamp: 1468870213944",
+    "horizontalAccuracy": 10
+  },
+  "-KMzUJr2lii7WBbeNuXi": {
+    "coord": [
+      -77.03278717592082,
+      38.91324707310545
+    ],
+    "coordTimestamp": 1468870248.283133,
+    "timestamp": 1468870249.948804,
+    "msg": "timestamp: 1468870249946",
+    "horizontalAccuracy": 10
+  },
+  "-KMzU6wPHrnf1yV5yUpH": {
+    "coord": [
+      -77.03265583149812,
+      38.91338906254518
+    ],
+    "coordTimestamp": 1468870196.000063,
+    "timestamp": 1468870197.043068,
+    "msg": "timestamp: 1468870196945",
+    "horizontalAccuracy": 10
+  },
+  "-KMzUANAJTzyxuBttzKi": {
+    "coord": [
+      -77.03255717649779,
+      38.91328173227507
+    ],
+    "coordTimestamp": 1468870210.000149,
+    "timestamp": 1468870211.108884,
+    "msg": "timestamp: 1468870210946",
+    "horizontalAccuracy": 10
+  },
+  "-KMzU8zMkomIIoxRHWca": {
+    "coord": [
+      -77.03263747513017,
+      38.91335788186538
+    ],
+    "coordTimestamp": 1468870198.99996,
+    "timestamp": 1468870205.424059,
+    "msg": "timestamp: 1468870202947",
+    "horizontalAccuracy": 10
+  },
+  "-KMzUGwNaNImvqlukOt9": {
+    "coord": [
+      -77.03278717592082,
+      38.91324707310545
+    ],
+    "coordTimestamp": 1468870237.000113,
+    "timestamp": 1468870238.001613,
+    "msg": "timestamp: 1468870236948",
+    "horizontalAccuracy": 10
+  },
+  "-KMzUFDyOcqX4BqGunce": {
+    "coord": [
+      -77.0327070449265,
+      38.91321321021664
+    ],
+    "coordTimestamp": 1468870230.000068,
+    "timestamp": 1468870230.999841,
+    "msg": "timestamp: 1468870230949",
+    "horizontalAccuracy": 30
+  },
+  "-KMzU3ViegOWEMnE7ffk": {
+    "coord": [
+      -77.03264100917913,
+      38.91340251360712
+    ],
+    "coordTimestamp": 1468870176.831823,
+    "timestamp": 1468870182.98625,
+    "msg": "timestamp: 1468870182946",
+    "horizontalAccuracy": 65
+  },
+  "-KMzUFiWTEoNIoWFJGry": {
+    "coord": [
+      -77.03278717592082,
+      38.91324707310545
+    ],
+    "coordTimestamp": 1468870232.000041,
+    "timestamp": 1468870233.018107,
+    "msg": "timestamp: 1468870232947",
+    "horizontalAccuracy": 30
+  },
+  "-KMzU7QkdUsHqlu7GOsx": {
+    "coord": [
+      -77.03264594085238,
+      38.91336379110712
+    ],
+    "coordTimestamp": 1468870198.000023,
+    "timestamp": 1468870199.049145,
+    "msg": "timestamp: 1468870198946",
+    "horizontalAccuracy": 10
   }
 }

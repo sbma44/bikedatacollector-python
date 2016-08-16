@@ -1,0 +1,6838 @@
+{
+  "-KO24f9rTaLvPi12bPbE": {
+    "coordTimestamp": 1470004376.000103,
+    "timestamp": 1470004376.288454,
+    "coord": [
+      -77.01588906129473,
+      38.91259472993237
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24HXig2i-bS7sf8kU": {
+    "timestamp": 1470004275.415871,
+    "msg": "113900/0/300"
+  },
+  "-KO23xmFCuq2bmVBb0i1": {
+    "coordTimestamp": 1470004190.000103,
+    "timestamp": 1470004190.393986,
+    "coord": [
+      -77.00649725280422,
+      38.91164902135628
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO244MWJw4HVB2drRvv": {
+    "timestamp": 1470004221.451024,
+    "msg": "60021/5/300"
+  },
+  "-KO24jIeqh8tT4UetC1Q": {
+    "coordTimestamp": 1470004393.000103,
+    "timestamp": 1470004393.235623,
+    "coord": [
+      -77.01701612218936,
+      38.91265300571817
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24i8ghpFsOcmZIObA": {
+    "coordTimestamp": 1470004388.000102,
+    "timestamp": 1470004388.501743,
+    "coord": [
+      -77.01673298150023,
+      38.91265644229847
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO244OAU-rpExcIfPlF": {
+    "timestamp": 1470004221.556436,
+    "msg": "60139/5/300"
+  },
+  "-KO240qGPWCVfCwjxpeW": {
+    "timestamp": 1470004207.034481,
+    "msg": "45600/153/300"
+  },
+  "-KO23voK2e1nWr2iNa5k": {
+    "timestamp": 1470004182.335041,
+    "msg": "20914/286/263"
+  },
+  "-KO23s5R0N0LmnBq0SFD": {
+    "timestamp": 1470004167.109499,
+    "msg": "5646/300/177"
+  },
+  "-KO24Ki9mEBDAp1VO5YX": {
+    "timestamp": 1470004288.435806,
+    "msg": "126966/0/300"
+  },
+  "-KO24QzeHkK5nU0ur3yH": {
+    "timestamp": 1470004314.131406,
+    "msg": "152699/81/300"
+  },
+  "-KO24EzTeON1qNe3dxJH": {
+    "timestamp": 1470004264.967474,
+    "msg": "103454/0/195"
+  },
+  "-KO247xYZtGwhfpLRD-Y": {
+    "timestamp": 1470004236.173103,
+    "msg": "74726/0/300"
+  },
+  "-KO23xOGv2_Y2Gzt0dDh": {
+    "timestamp": 1470004188.794313,
+    "msg": "27326/0/300"
+  },
+  "-KO24MBRL_mG8_IPZGBf": {
+    "timestamp": 1470004294.469594,
+    "msg": "133049/0/300"
+  },
+  "-KO24Hm_UXc55pTCIbvT": {
+    "timestamp": 1470004276.430631,
+    "msg": "114997/80/300"
+  },
+  "-KO24tN3GSMlsCgzKhZE": {
+    "coordTimestamp": 1470004434.000103,
+    "timestamp": 1470004434.477573,
+    "coord": [
+      -77.01914633304114,
+      38.91260853466443
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24Ur5roxlIr14K-5J": {
+    "timestamp": 1470004329.967596,
+    "msg": "168533/300/0"
+  },
+  "-KO246qp4NQUWkRvlAaY": {
+    "timestamp": 1470004231.646809,
+    "msg": "69918/300/0"
+  },
+  "-KO24JgFTXsCeK8gPo6T": {
+    "timestamp": 1470004284.217786,
+    "msg": "122761/0/300"
+  },
+  "-KO23tZYQNrHe7HnZTB8": {
+    "timestamp": 1470004173.132642,
+    "msg": "11697/28/31"
+  },
+  "-KO23tEXP8LD7udGo-z2": {
+    "timestamp": 1470004171.787431,
+    "msg": "10331/216/192"
+  },
+  "-KO23tcq_tLH9i_bTKey": {
+    "timestamp": 1470004173.407469,
+    "msg": "11965/32/22"
+  },
+  "-KO24O0qrVt4VjOYdIip": {
+    "timestamp": 1470004301.983251,
+    "msg": "140499/0/300"
+  },
+  "-KO24UlOqleo7yhVdcMP": {
+    "timestamp": 1470004329.603001,
+    "msg": "168144/0/300"
+  },
+  "-KO248xUoTPBFo8-HNNv": {
+    "coordTimestamp": 1470004240.000103,
+    "timestamp": 1470004240.264702,
+    "coord": [
+      -77.00642567135114,
+      38.91249307900566
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24GIVPCpO3M1Oxd-Z": {
+    "timestamp": 1470004270.34538,
+    "msg": "108881/300/292"
+  },
+  "-KO23w2VSxEVLpFXs3LI": {
+    "timestamp": 1470004183.305531,
+    "msg": "21871/280/278"
+  },
+  "-KO24AEhWj0s6kP6jcR0": {
+    "timestamp": 1470004245.527026,
+    "msg": "84060/300/85"
+  },
+  "-KO242-BhQNIxAbl-ENp": {
+    "timestamp": 1470004211.765707,
+    "msg": "50320/0/300"
+  },
+  "-KO24Atv1uOrt7zpc5zd": {
+    "timestamp": 1470004248.228678,
+    "msg": "86775/0/300"
+  },
+  "-KO24F_oBAZzlVDfvWDJ": {
+    "coordTimestamp": 1470004267.000103,
+    "timestamp": 1470004267.421794,
+    "coord": [
+      -77.0081152167404,
+      38.91259242073616
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23skGB1Tv2PWgpO2E": {
+    "timestamp": 1470004169.787171,
+    "msg": "8352/217/189"
+  },
+  "-KO240nyi0h_lKpUrrjf": {
+    "timestamp": 1470004206.887243,
+    "msg": "45411/36/300"
+  },
+  "-KO24Crv8rJaLxy8B50K": {
+    "coordTimestamp": 1470004256.000103,
+    "timestamp": 1470004256.293055,
+    "coord": [
+      -77.00731148128398,
+      38.91258612088983
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO249zLpyL4lFuzgA2n": {
+    "timestamp": 1470004244.479923,
+    "msg": "82986/0/300"
+  },
+  "-KO245fSJ1KwMdfj-OwJ": {
+    "timestamp": 1470004226.822316,
+    "msg": "65358/33/300"
+  },
+  "-KO24DlY4mBG2tBlGl2W": {
+    "timestamp": 1470004259.98037,
+    "msg": "98483/209/300"
+  },
+  "-KO241Xs6shsnCoWghEQ": {
+    "timestamp": 1470004209.889995,
+    "msg": "48409/0/300"
+  },
+  "-KO24SErZ2zsqVxhImjG": {
+    "coordTimestamp": 1470004319.000103,
+    "timestamp": 1470004319.265063,
+    "coord": [
+      -77.01211179755774,
+      38.91261452471379
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23zJPqWawpAsUnGD1": {
+    "timestamp": 1470004196.675595,
+    "msg": "34929/300/0"
+  },
+  "-KO23v1i2A7VGq3JaLgT": {
+    "timestamp": 1470004179.1598,
+    "msg": "17711/215/136"
+  },
+  "-KO24Rvx9XnzS4BmH9Ia": {
+    "timestamp": 1470004317.990846,
+    "msg": "156550/129/300"
+  },
+  "-KO24uL5ZYlPNt6wXCea": {
+    "coordTimestamp": 1470004438.000103,
+    "timestamp": 1470004438.447576,
+    "coord": [
+      -77.01912650591112,
+      38.91260851326411
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23uEhM4j6e1OH8zFL": {
+    "timestamp": 1470004175.89426,
+    "msg": "14445/142/165"
+  },
+  "-KO24-9LaSoJ8BA_yPA1": {
+    "timestamp": 1470004200.127651,
+    "msg": "38642/0/300"
+  },
+  "-KO24UViOWkmfvB7_KGI": {
+    "timestamp": 1470004328.535778,
+    "msg": "167078/300/238"
+  },
+  "-KO244p-vcpMvwdrhJQH": {
+    "coordTimestamp": 1470004223.000103,
+    "timestamp": 1470004223.337431,
+    "coord": [
+      -77.00640630915481,
+      38.91241227745908
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23uDLKRpmC8jgOVHI": {
+    "timestamp": 1470004175.807567,
+    "msg": "14385/0/99"
+  },
+  "-KO242k2AmyyPPqCYlkA": {
+    "timestamp": 1470004214.828608,
+    "msg": "53409/0/300"
+  },
+  "-KO243YYz1phr25lAHuH": {
+    "timestamp": 1470004218.124512,
+    "msg": "56706/231/11"
+  },
+  "-KO24l4BlHdW93i0jy3t": {
+    "coordTimestamp": 1470004400.000103,
+    "timestamp": 1470004400.501984,
+    "coord": [
+      -77.01741753153225,
+      38.91264273788678
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24fOvdd8wOAWbKcQR": {
+    "coordTimestamp": 1470004377.000103,
+    "timestamp": 1470004377.252953,
+    "coord": [
+      -77.01594466409006,
+      38.91259472993237
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO249EGbFaoZxRJy93Y": {
+    "timestamp": 1470004241.402961,
+    "msg": "79894/0/300"
+  },
+  "-KO23vuyBAW-HFcBPJpE": {
+    "timestamp": 1470004182.759252,
+    "msg": "21338/300/268"
+  },
+  "-KO24Bu0LjP6htOho6As": {
+    "coordTimestamp": 1470004252.000103,
+    "timestamp": 1470004252.33085,
+    "coord": [
+      -77.00693780563493,
+      38.91263703819263
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24P1pXRIvJrGDl688": {
+    "timestamp": 1470004306.142931,
+    "msg": "144712/300/183"
+  },
+  "-KO24JOYOoIsGCxGFB0i": {
+    "timestamp": 1470004283.020377,
+    "msg": "121566/256/300"
+  },
+  "-KO245VByJj-PLF0msCH": {
+    "timestamp": 1470004226.101301,
+    "msg": "64648/0/300"
+  },
+  "-KO24Qm7jQjDSXXwcA9Z": {
+    "timestamp": 1470004313.265733,
+    "msg": "151846/180/300"
+  },
+  "-KO24Oz9XrhGdGDTCIzE": {
+    "timestamp": 1470004305.908013,
+    "msg": "144153/160/300"
+  },
+  "-KO24SiNKJadFJO1RQSX": {
+    "timestamp": 1470004321.217621,
+    "msg": "159745/0/300"
+  },
+  "-KO244Yaepg8TyZZevap": {
+    "timestamp": 1470004222.224049,
+    "msg": "60804/16/300"
+  },
+  "-KO242LQiO-67kzvB5NZ": {
+    "coordTimestamp": 1470004213.000103,
+    "timestamp": 1470004213.188993,
+    "coord": [
+      -77.00643857948202,
+      38.91239081978696
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO2406kSuc8N6Bel4ko": {
+    "timestamp": 1470004204.05766,
+    "msg": "42550/0/300"
+  },
+  "-KO24FZU6svpr6UMLele": {
+    "timestamp": 1470004267.337588,
+    "msg": "105860/97/0"
+  },
+  "-KO242E2kz5qyCy_q-qL": {
+    "timestamp": 1470004212.716534,
+    "msg": "51279/300/68"
+  },
+  "-KO24PJaAHQicIOQLAey": {
+    "timestamp": 1470004307.279883,
+    "msg": "145817/0/300"
+  },
+  "-KO24K4vJxoRIPV3hoW4": {
+    "timestamp": 1470004285.860922,
+    "msg": "124409/186/123"
+  },
+  "-KO24DMli0gnQRb2-fDe": {
+    "timestamp": 1470004258.331147,
+    "msg": "96569/0/300"
+  },
+  "-KO24Fh9LLM6TGeGlKxy": {
+    "timestamp": 1470004267.891753,
+    "msg": "106425/0/300"
+  },
+  "-KO24ACr1RYrR_yzb-Lm": {
+    "coordTimestamp": 1470004245.000103,
+    "timestamp": 1470004245.408912,
+    "coord": [
+      -77.00646246790606,
+      38.91264688692885
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24EnqLFoh-gELUxoE": {
+    "timestamp": 1470004264.223331,
+    "msg": "102760/0/300"
+  },
+  "-KO23tdXw2iMueMFuyYZ": {
+    "timestamp": 1470004173.451961,
+    "msg": "12027/31/40"
+  },
+  "-KO242yz9ncgAgF0zCo0": {
+    "timestamp": 1470004215.784512,
+    "msg": "54323/0/300"
+  },
+  "-KO24NVsnnB0gL2G8cgn": {
+    "timestamp": 1470004299.874088,
+    "msg": "138056/300/199"
+  },
+  "-KO24V34WlcuM_L4j6Be": {
+    "timestamp": 1470004330.799644,
+    "msg": "169002/0/300"
+  },
+  "-KO23xn3db1LmOYDCeBR": {
+    "timestamp": 1470004190.446094,
+    "msg": "29019/0/300"
+  },
+  "-KO245FdJepk5-nADMvG": {
+    "timestamp": 1470004225.106315,
+    "msg": "63686/10/300"
+  },
+  "-KO24HwiOi-d0qgmuM5w": {
+    "timestamp": 1470004277.080113,
+    "msg": "115632/0/300"
+  },
+  "-KO23yFJ7GKC2Ym00s5k": {
+    "coordTimestamp": 1470004192.000103,
+    "timestamp": 1470004192.317847,
+    "coord": [
+      -77.00646540157217,
+      38.9117111731683
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO243gki0P1mRxoM1G_": {
+    "timestamp": 1470004218.713948,
+    "msg": "57292/300/35"
+  },
+  "-KO246_iPxyPY8HYFR_9": {
+    "timestamp": 1470004230.551979,
+    "msg": "69059/0/300"
+  },
+  "-KO23taKihCJxxuMQfHC": {
+    "coordTimestamp": 1470004173.000103,
+    "timestamp": 1470004173.246789,
+    "coord": [
+      -77.00705858885964,
+      38.9114519209032
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO247aCjXTypMBX6BQN": {
+    "timestamp": 1470004234.678733,
+    "msg": "73259/300/101"
+  },
+  "-KO24VFr-ouoDv2Lpr78": {
+    "timestamp": 1470004331.616267,
+    "msg": "170171/0/300"
+  },
+  "-KO23yJCVbHBpmLaTGvH": {
+    "timestamp": 1470004192.566998,
+    "msg": "31092/300/208"
+  },
+  "-KO23xJHDgJMfoWS9_lz": {
+    "timestamp": 1470004188.475629,
+    "msg": "27007/300/124"
+  },
+  "-KO23t6nXHfJWXnwA2wR": {
+    "timestamp": 1470004171.292533,
+    "msg": "9862/208/180"
+  },
+  "-KO24FSFzS5sRQwtn5r3": {
+    "timestamp": 1470004266.873652,
+    "msg": "105415/0/278"
+  },
+  "-KO247R2sFZp4pVeTaTs": {
+    "timestamp": 1470004234.028295,
+    "msg": "72470/0/300"
+  },
+  "-KO24RUw8l55HXEgabNn": {
+    "timestamp": 1470004316.197798,
+    "msg": "154755/102/300"
+  },
+  "-KO24DBacWphuLNejWVV": {
+    "timestamp": 1470004257.615409,
+    "msg": "96148/0/169"
+  },
+  "-KO24SCHVUYGPOLuwqaY": {
+    "timestamp": 1470004319.099752,
+    "msg": "157679/224/300"
+  },
+  "-KO248qA6csNayaK62ps": {
+    "timestamp": 1470004239.796611,
+    "msg": "78368/0/300"
+  },
+  "-KO23uT9pTW_SGdgACj3": {
+    "timestamp": 1470004176.820582,
+    "msg": "15351/0/300"
+  },
+  "-KO24OPmxKWONwXCoYmu": {
+    "timestamp": 1470004303.579634,
+    "msg": "142070/0/300"
+  },
+  "-KO23yZ_zGXwIZU-Ny0H": {
+    "timestamp": 1470004193.614373,
+    "msg": "32116/0/300"
+  },
+  "-KO24u4wzuZhEEkde4XU": {
+    "coordTimestamp": 1470004437.000103,
+    "timestamp": 1470004437.413811,
+    "coord": [
+      -77.01913196986425,
+      38.91260851886896
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23wiDBKvMQ7lAkKC5": {
+    "timestamp": 1470004186.040233,
+    "msg": "24608/300/166"
+  },
+  "-KO23uzoJHRgK5lyxgef": {
+    "timestamp": 1470004178.973434,
+    "msg": "17518/200/116"
+  },
+  "-KO247DvZsOIvhCgt6xk": {
+    "timestamp": 1470004233.189062,
+    "msg": "71745/0/300"
+  },
+  "-KO24BrMOVECYjKGZzll": {
+    "timestamp": 1470004252.16018,
+    "msg": "90642/0/300"
+  },
+  "-KO23srbtIW6cnHKUL2k": {
+    "coordTimestamp": 1470004170.000103,
+    "timestamp": 1470004170.256724,
+    "coord": [
+      -77.00705858885964,
+      38.9114519209032
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO2431O1k2qQDHx6x7j": {
+    "timestamp": 1470004216.002447,
+    "msg": "54539/0/300"
+  },
+  "-KO24ELRMUp8ERnWnozi": {
+    "coordTimestamp": 1470004262.000103,
+    "timestamp": 1470004262.341739,
+    "coord": [
+      -77.00782983716635,
+      38.91259018389334
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24_5_biyU_s3G39u9": {
+    "coordTimestamp": 1470004351.000103,
+    "timestamp": 1470004351.439033,
+    "coord": [
+      -77.0142026525708,
+      38.91263125467944
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24C8U3uBPYmmqiRei": {
+    "timestamp": 1470004253.320745,
+    "msg": "91760/0/300"
+  },
+  "-KO246tWgP6f35zDCmzI": {
+    "timestamp": 1470004231.81896,
+    "msg": "70400/0/300"
+  },
+  "-KO24ssXeU3wI8JD_hBf": {
+    "coordTimestamp": 1470004432.000103,
+    "timestamp": 1470004432.459414,
+    "coord": [
+      -77.01914243218198,
+      38.91260853007864
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24Z4LxrxqlFZLAKth": {
+    "coordTimestamp": 1470004347.000103,
+    "timestamp": 1470004347.263303,
+    "coord": [
+      -77.01388673864027,
+      38.91262513589012
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24MN9bzhHC6aAnnYN": {
+    "timestamp": 1470004295.219689,
+    "msg": "133751/0/300"
+  },
+  "-KO23w5Te5paD8ns-x74": {
+    "timestamp": 1470004183.495705,
+    "msg": "22073/0/280"
+  },
+  "-KO2487CCwZ5QqyngG_E": {
+    "timestamp": 1470004236.85507,
+    "msg": "75406/0/300"
+  },
+  "-KO23wV8HS9lJYpB7aVJ": {
+    "timestamp": 1470004185.138623,
+    "msg": "23719/220/117"
+  },
+  "-KO249yEFGsuCWE4Sx52": {
+    "coordTimestamp": 1470004244.000104,
+    "timestamp": 1470004244.40822,
+    "coord": [
+      -77.00644687756616,
+      38.91261327549714
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO240igADBk25m6jfUJ": {
+    "timestamp": 1470004206.549382,
+    "msg": "45104/41/300"
+  },
+  "-KO244CgvVw0d4uScqEu": {
+    "timestamp": 1470004220.8213,
+    "msg": "59361/8/300"
+  },
+  "-KO24E2Pb48bKNyvANXd": {
+    "timestamp": 1470004261.123199,
+    "msg": "99569/0/300"
+  },
+  "-KO24BkpCbPjv_bOXlpA": {
+    "timestamp": 1470004251.742476,
+    "msg": "89841/0/300"
+  },
+  "-KO24F_qMvrQX53vIH1U": {
+    "timestamp": 1470004267.423796,
+    "msg": "105972/300/61"
+  },
+  "-KO243dtMVRQ0A-Zhuit": {
+    "timestamp": 1470004218.530297,
+    "msg": "57109/300/32"
+  },
+  "-KO23slYwfW-Wx_3m0Qg": {
+    "timestamp": 1470004169.868225,
+    "msg": "8422/215/111"
+  },
+  "-KO24s5T-1kksxe5Ka81": {
+    "coordTimestamp": 1470004429.000103,
+    "timestamp": 1470004429.255925,
+    "coord": [
+      -77.0189230509277,
+      38.91260829569426
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO243lAA1sxt6z_2eD7": {
+    "timestamp": 1470004218.996454,
+    "msg": "57572/0/37"
+  },
+  "-KO23x13IyptjHqPb5nX": {
+    "coordTimestamp": 1470004187.000103,
+    "timestamp": 1470004187.309629,
+    "coord": [
+      -77.00659104630071,
+      38.9116110094254
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO23z8Al37_QWcDNDBs": {
+    "timestamp": 1470004195.957006,
+    "msg": "34469/0/300"
+  },
+  "-KO242q1k_GrlSvfIn6Y": {
+    "coordTimestamp": 1470004215.000103,
+    "timestamp": 1470004215.211962,
+    "coord": [
+      -77.00642785064596,
+      38.91241190027344
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO242JCfOdULk_ee9UZ": {
+    "timestamp": 1470004213.046447,
+    "msg": "51570/0/300"
+  },
+  "-KO23t5iaBc-ZWbp7ucp": {
+    "timestamp": 1470004171.223849,
+    "msg": "9796/208/180"
+  },
+  "-KO246k7UXwdj9PosqjK": {
+    "timestamp": 1470004231.217862,
+    "msg": "69777/0/300"
+  },
+  "-KO23sI1kVj3vVLH-ySL": {
+    "timestamp": 1470004167.915418,
+    "msg": "6467/300/175"
+  },
+  "-KO23viVz--7-NSBSBgn": {
+    "timestamp": 1470004181.961528,
+    "msg": "20536/281/248"
+  },
+  "-KO243d2vTN1S0zEEwPq": {
+    "timestamp": 1470004218.476233,
+    "msg": "57058/300/27"
+  },
+  "-KO24UshzLtiBLU7XY3B": {
+    "timestamp": 1470004330.070993,
+    "msg": "168650/0/300"
+  },
+  "-KO23r96FH2E45GVZ24_": {
+    "coordTimestamp": 1470004163.000107,
+    "timestamp": 1470004163.249107,
+    "coord": [
+      -77.00705775066932,
+      38.91146482903409
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO24Cbf9HTq7E0ZSkDh": {
+    "coordTimestamp": 1470004255.000103,
+    "timestamp": 1470004255.252169,
+    "coord": [
+      -77.00720382425061,
+      38.91258527659624
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24UxLWUTImNi4DuNg": {
+    "coordTimestamp": 1470004330.000103,
+    "timestamp": 1470004330.367465,
+    "coord": [
+      -77.01253227311099,
+      38.91261975301352
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO2442xjnspABeMQFyg": {
+    "timestamp": 1470004220.198751,
+    "msg": "58733/0/300"
+  },
+  "-KO24tbITZ_WdO3BPoeB": {
+    "coordTimestamp": 1470004435.000104,
+    "timestamp": 1470004435.452149,
+    "coord": [
+      -77.01914841803955,
+      38.91260853670255
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23yDsvGEKJwcyyCay": {
+    "timestamp": 1470004192.225262,
+    "msg": "30706/0/300"
+  },
+  "-KO23wW83Af2a3Jt6a7v": {
+    "coordTimestamp": 1470004185.000103,
+    "timestamp": 1470004185.202429,
+    "coord": [
+      -77.00668090030273,
+      38.91162852760303
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23sBUvfVDRuqBBeb4": {
+    "timestamp": 1470004167.496323,
+    "msg": "6022/300/175"
+  },
+  "-KO24TOyuSVimQepY0SU": {
+    "timestamp": 1470004324.008081,
+    "msg": "162510/0/300"
+  },
+  "-KO23pRIjmonLSWqx7At": {
+    "coordTimestamp": 1470004156.213857,
+    "timestamp": 1470004156.220346,
+    "coord": [
+      -77.0072109718593,
+      38.91164742879468
+    ],
+    "horizontalAccuracy": 30
+  },
+  "-KO24amOI8KTgCb-jqXR": {
+    "coordTimestamp": 1470004358.000103,
+    "timestamp": 1470004358.338415,
+    "coord": [
+      -77.01468856386782,
+      38.9126056298266
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO242v10zrYlHBXqC_D": {
+    "timestamp": 1470004215.531701,
+    "msg": "54033/0/300"
+  },
+  "-KO2409khBvH5s3qnBjl": {
+    "timestamp": 1470004204.249605,
+    "msg": "42753/0/300"
+  },
+  "-KO24J4_fVl--CqXogAH": {
+    "timestamp": 1470004281.743024,
+    "msg": "119948/0/300"
+  },
+  "-KO24HdvZejL7m7JY0VR": {
+    "timestamp": 1470004275.876369,
+    "msg": "114404/124/300"
+  },
+  "-KO23w6gmkMXcZFJh4SG": {
+    "timestamp": 1470004183.57409,
+    "msg": "22144/300/280"
+  },
+  "-KO2452Xz6kVUbeLFHQz": {
+    "timestamp": 1470004224.267562,
+    "msg": "62852/5/300"
+  },
+  "-KO23yPymJgczgP_G-r_": {
+    "timestamp": 1470004192.999622,
+    "msg": "31527/0/300"
+  },
+  "-KO24LTqEvqp3O_72ACm": {
+    "timestamp": 1470004291.551363,
+    "msg": "130072/251/221"
+  },
+  "-KO23u-Q8W7XBPCK6XQ4": {
+    "timestamp": 1470004174.916967,
+    "msg": "13346/300/49"
+  },
+  "-KO2465VhB7V6xlAFINP": {
+    "timestamp": 1470004228.553896,
+    "msg": "67103/30/300"
+  },
+  "-KO23wSX3fzfV7ZbQyB7": {
+    "timestamp": 1470004184.971482,
+    "msg": "23531/229/172"
+  },
+  "-KO23rvpvQQMwZ0YCOUz": {
+    "timestamp": 1470004166.430559,
+    "msg": "5002/300/179"
+  },
+  "-KO24IkLbyiR0O0Q_uY9": {
+    "coordTimestamp": 1470004280.000103,
+    "timestamp": 1470004280.384058,
+    "coord": [
+      -77.00898921972112,
+      38.91260099156309
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO247MA-gpUbxQBcUQL": {
+    "timestamp": 1470004233.716222,
+    "msg": "72257/0/300"
+  },
+  "-KO24RXfKKoSh75o33VB": {
+    "timestamp": 1470004316.372555,
+    "msg": "154940/297/300"
+  },
+  "-KO24b-utl8P7btv2YGQ": {
+    "coordTimestamp": 1470004359.000103,
+    "timestamp": 1470004359.267722,
+    "coord": [
+      -77.01474807145132,
+      38.91260467496495
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23vNyCPuF5LPGudi8": {
+    "timestamp": 1470004180.583157,
+    "msg": "19122/249/247"
+  },
+  "-KO23vXoL8rqmGlzjR41": {
+    "coordTimestamp": 1470004181.000103,
+    "timestamp": 1470004181.214089,
+    "coord": [
+      -77.0068655536296,
+      38.9115827205022
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23wBL9T4jgAESqIId": {
+    "timestamp": 1470004183.871973,
+    "msg": "22428/287/177"
+  },
+  "-KO24NoDGBapaUMPab8V": {
+    "timestamp": 1470004301.111897,
+    "msg": "139676/0/300"
+  },
+  "-KO24GeehRv0c5T-aPOY": {
+    "timestamp": 1470004271.82785,
+    "msg": "110325/0/300"
+  },
+  "-KO23us2bo-LHThV7UM1": {
+    "timestamp": 1470004178.476487,
+    "msg": "17052/128/228"
+  },
+  "-KO24Wr-oGWlpscojFbr": {
+    "timestamp": 1470004338.153559,
+    "msg": "176703/0/300"
+  },
+  "-KO243ihq5SyFnvskw9G": {
+    "timestamp": 1470004218.839112,
+    "msg": "57412/300/39"
+  },
+  "-KO2421cLUTBwyprzqMg": {
+    "timestamp": 1470004211.921549,
+    "msg": "50466/0/300"
+  },
+  "-KO24rATzakSfHBhPAf2": {
+    "coordTimestamp": 1470004425.000103,
+    "timestamp": 1470004425.479911,
+    "coord": [
+      -77.01892421522643,
+      38.91260829722285
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24MZfP1Qsku4Lss6Q": {
+    "timestamp": 1470004296.021027,
+    "msg": "134554/300/136"
+  },
+  "-KO24AyRiK38syHg3dje": {
+    "timestamp": 1470004248.517743,
+    "msg": "86993/0/300"
+  },
+  "-KO247rHphc_sY96h67_": {
+    "timestamp": 1470004235.771766,
+    "msg": "74311/0/300"
+  },
+  "-KO244_Rfe0SZV48V71z": {
+    "coordTimestamp": 1470004222.000103,
+    "timestamp": 1470004222.341552,
+    "coord": [
+      -77.00640630915481,
+      38.91241227745908
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO240v2xHJo1FJNv712": {
+    "timestamp": 1470004207.340392,
+    "msg": "45914/0/300"
+  },
+  "-KO23u_lddt_zbJOj8Qj": {
+    "coordTimestamp": 1470004177.000103,
+    "timestamp": 1470004177.306959,
+    "coord": [
+      -77.00698759413977,
+      38.91151528809118
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO245lXi2V0mtK0Ek7K": {
+    "timestamp": 1470004227.211552,
+    "msg": "65793/27/300"
+  },
+  "-KO246xRMql_R_IR_F0g": {
+    "timestamp": 1470004232.069408,
+    "msg": "70609/0/300"
+  },
+  "-KO24HTX7PJYvx7OLKNp": {
+    "timestamp": 1470004275.147452,
+    "msg": "113687/0/300"
+  },
+  "-KO23yr2cTCLrvornNix": {
+    "timestamp": 1470004194.796202,
+    "msg": "33344/0/300"
+  },
+  "-KO24Vh_UB9pjl3Bjk_k": {
+    "timestamp": 1470004333.454226,
+    "msg": "172024/0/300"
+  },
+  "-KO24O4qcMJpER2qqPhH": {
+    "timestamp": 1470004302.239674,
+    "msg": "140803/0/300"
+  },
+  "-KO24PxmCq-TM-tSn3Ii": {
+    "timestamp": 1470004309.915539,
+    "msg": "148439/0/300"
+  },
+  "-KO23vz_f8YURaNRKxEf": {
+    "timestamp": 1470004183.054127,
+    "msg": "21608/300/293"
+  },
+  "-KO24LvTA8WmbtHCRHWP": {
+    "timestamp": 1470004293.383616,
+    "msg": "131908/0/300"
+  },
+  "-KO24hdO8k3nfSrJG91E": {
+    "coordTimestamp": 1470004386.000103,
+    "timestamp": 1470004386.434675,
+    "coord": [
+      -77.01656643308421,
+      38.91261352695423
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23x62rHp8sgjtXA4X": {
+    "timestamp": 1470004187.628549,
+    "msg": "26164/300/109"
+  },
+  "-KO24G_VjeQ4cTMnythy": {
+    "coordTimestamp": 1470004271.000103,
+    "timestamp": 1470004271.497748,
+    "coord": [
+      -77.0083834847901,
+      38.91259452357217
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24MJfudRmqa2pfKDU": {
+    "timestamp": 1470004294.996726,
+    "msg": "133567/0/300"
+  },
+  "-KO24WOLEXbLJUUPyaDf": {
+    "timestamp": 1470004336.255228,
+    "msg": "174677/0/300"
+  },
+  "-KO23tVdpXPGXvpYPUcn": {
+    "timestamp": 1470004172.882534,
+    "msg": "11446/29/217"
+  },
+  "-KO23tLYq-UkTKF6HQqh": {
+    "coordTimestamp": 1470004172.000103,
+    "timestamp": 1470004172.236521,
+    "coord": [
+      -77.00705858885964,
+      38.9114519209032
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO23scfjRT1lIbOLygU": {
+    "timestamp": 1470004169.30063,
+    "msg": "7865/220/190"
+  },
+  "-KO24LrzoCu1WSgSm8Y7": {
+    "timestamp": 1470004293.160341,
+    "msg": "131712/0/300"
+  },
+  "-KO23s1P0UL6_GCYrPEv": {
+    "timestamp": 1470004166.85168,
+    "msg": "5422/300/174"
+  },
+  "-KO23sCpNqSv1CB90NBK": {
+    "timestamp": 1470004167.583017,
+    "msg": "6139/300/177"
+  },
+  "-KO24Rf4L0BWfMdHzIAc": {
+    "timestamp": 1470004316.910229,
+    "msg": "155475/102/300"
+  },
+  "-KO24Q3l3RkhPK9hPg2q": {
+    "timestamp": 1470004310.362696,
+    "msg": "148905/0/300"
+  },
+  "-KO23ut676weNxAhjAXv": {
+    "timestamp": 1470004178.544627,
+    "msg": "17112/124/230"
+  },
+  "-KO24SFptQi6naKmQ-Lb": {
+    "timestamp": 1470004319.326345,
+    "msg": "157898/0/300"
+  },
+  "-KO24IH2ZYqKS8FPvEg1": {
+    "timestamp": 1470004278.444302,
+    "msg": "116991/0/300"
+  },
+  "-KO24P0AEVaaQmaumtcA": {
+    "timestamp": 1470004306.036923,
+    "msg": "144552/290/300"
+  },
+  "-KO24lIAvPnYwY5ig19v": {
+    "coordTimestamp": 1470004401.000103,
+    "timestamp": 1470004401.396965,
+    "coord": [
+      -77.01747880324443,
+      38.91263867266375
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO244HVlM_pAOlNRv3N": {
+    "timestamp": 1470004221.129209,
+    "msg": "59706/7/300"
+  },
+  "-KO24Ann4NNQlMKZSch6": {
+    "timestamp": 1470004247.836749,
+    "msg": "86353/0/300"
+  },
+  "-KO24JSgcI4gHfyhIjH9": {
+    "coordTimestamp": 1470004283.000103,
+    "timestamp": 1470004283.285412,
+    "coord": [
+      -77.00929753951641,
+      38.91259820136951
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO2400SHZfqWwJGBanR": {
+    "timestamp": 1470004203.65435,
+    "msg": "42178/0/300"
+  },
+  "-KO23w8T7mxuTeXibUVZ": {
+    "timestamp": 1470004183.687352,
+    "msg": "22259/300/284"
+  },
+  "-KO24DgPTyTqQqz-XjMl": {
+    "timestamp": 1470004259.653895,
+    "msg": "98143/0/300"
+  },
+  "-KO23xS9W2umK87ScSH6": {
+    "timestamp": 1470004189.043585,
+    "msg": "27598/0/130"
+  },
+  "-KO23sdYfRto1fhEYkNj": {
+    "timestamp": 1470004169.356104,
+    "msg": "7939/217/174"
+  },
+  "-KO23sNRIhjaXocRgHai": {
+    "timestamp": 1470004168.261707,
+    "msg": "6826/58/151"
+  },
+  "-KO247jFSKmAaJLhg1Qx": {
+    "coordTimestamp": 1470004235.000103,
+    "timestamp": 1470004235.257844,
+    "coord": [
+      -77.00640630915481,
+      38.91241227745908
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24peUzcRFlbLWbFux": {
+    "coordTimestamp": 1470004419.000103,
+    "timestamp": 1470004419.27216,
+    "coord": [
+      -77.01867800205946,
+      38.91260796959424
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24MunfsSZwx_QZAFS": {
+    "coordTimestamp": 1470004297.000103,
+    "timestamp": 1470004297.436998,
+    "coord": [
+      -77.01044900673878,
+      38.91259828085639
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24HKQxHQOOXYlE2GU": {
+    "timestamp": 1470004274.56432,
+    "msg": "112948/300/97"
+  },
+  "-KO24UZw9-BYRaNU9cVO": {
+    "timestamp": 1470004328.805862,
+    "msg": "167341/0/300"
+  },
+  "-KO24iadlpTBgyFtprM7": {
+    "coordTimestamp": 1470004390.000103,
+    "timestamp": 1470004390.354095,
+    "coord": [
+      -77.0168531779917,
+      38.91266172289747
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24FMeJNKlzkhewH7z": {
+    "timestamp": 1470004266.515794,
+    "msg": "105076/0/218"
+  },
+  "-KO24JhFaHdF9jh7yeS_": {
+    "coordTimestamp": 1470004284.000103,
+    "timestamp": 1470004284.281797,
+    "coord": [
+      -77.00937596793665,
+      38.91259786100257
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24PpuHEIkCGpjyEr_": {
+    "timestamp": 1470004309.411459,
+    "msg": "147952/300/194"
+  },
+  "-KO24IDs5OlcsdfSqU0D": {
+    "timestamp": 1470004278.242076,
+    "msg": "116787/0/300"
+  },
+  "-KO23xEHkT2KTyeqd20e": {
+    "timestamp": 1470004188.155996,
+    "msg": "26703/300/130"
+  },
+  "-KO24MxknQur-VWJ1QKD": {
+    "timestamp": 1470004297.626028,
+    "msg": "136161/300/168"
+  },
+  "-KO23zhOhqi7EnBv-K3J": {
+    "timestamp": 1470004198.274664,
+    "msg": "36797/0/300"
+  },
+  "-KO244WQwFJUUxxZFXMs": {
+    "timestamp": 1470004222.084329,
+    "msg": "60657/6/300"
+  },
+  "-KO23s_Ioi4bWL7A9hOp": {
+    "timestamp": 1470004169.084499,
+    "msg": "7659/300/196"
+  },
+  "-KO23yzXhfvCDrTqU0Ji": {
+    "timestamp": 1470004195.339185,
+    "msg": "33882/0/300"
+  },
+  "-KO246zQyGVDhorob9t3": {
+    "coordTimestamp": 1470004232.000103,
+    "timestamp": 1470004232.196926,
+    "coord": [
+      -77.00640630915481,
+      38.91241227745908
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23zwjTwLca3nWtWrk": {
+    "coordTimestamp": 1470004199.000103,
+    "timestamp": 1470004199.256925,
+    "coord": [
+      -77.00645500801224,
+      38.91190856698799
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO23v0PEMOdfvz0c_MM": {
+    "timestamp": 1470004179.075996,
+    "msg": "17609/225/127"
+  },
+  "-KO24Meq9o_DD9ecJ3D4": {
+    "coordTimestamp": 1470004296.000103,
+    "timestamp": 1470004296.415517,
+    "coord": [
+      -77.01037925784476,
+      38.91259824366061
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24D9DLmAngAg36DIp": {
+    "timestamp": 1470004257.463188,
+    "msg": "95977/0/300"
+  },
+  "-KO24ErJv68FjEgOV-gB": {
+    "timestamp": 1470004264.445915,
+    "msg": "102981/0/300"
+  },
+  "-KO23vE51w4hgipA1TW_": {
+    "timestamp": 1470004179.951809,
+    "msg": "18494/300/238"
+  },
+  "-KO243PtcMbwpCdKO0PU": {
+    "timestamp": 1470004217.570296,
+    "msg": "56143/300/7"
+  },
+  "-KO240RBtp82-NgUPd-Y": {
+    "timestamp": 1470004205.365442,
+    "msg": "43896/67/300"
+  },
+  "-KO24IAd0KdQvaDD-0Bn": {
+    "timestamp": 1470004278.035112,
+    "msg": "116557/0/300"
+  },
+  "-KO243XpMwN7JvDDmOZ7": {
+    "timestamp": 1470004218.078795,
+    "msg": "56647/300/9"
+  },
+  "-KO24F5KSiYs9poJfwae": {
+    "coordTimestamp": 1470004265.000103,
+    "timestamp": 1470004265.40662,
+    "coord": [
+      -77.00801783474162,
+      38.91259165745814
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24P5KtIZbCSUYmzvX": {
+    "timestamp": 1470004306.367062,
+    "msg": "144913/0/300"
+  },
+  "-KO23z4P-8uUZPu4nnGF": {
+    "timestamp": 1470004195.716113,
+    "msg": "34262/0/300"
+  },
+  "-KO245j5Y48hiWDnipN5": {
+    "timestamp": 1470004227.05566,
+    "msg": "65625/29/300"
+  },
+  "-KO23yds29qa363m8Y8p": {
+    "timestamp": 1470004193.953319,
+    "msg": "32512/0/300"
+  },
+  "-KO24US0Xnr-cYu2SNj3": {
+    "coordTimestamp": 1470004328.000103,
+    "timestamp": 1470004328.298767,
+    "coord": [
+      -77.01252822720562,
+      38.91261970970338
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23xCrjOxfz9YoRsdK": {
+    "timestamp": 1470004188.064751,
+    "msg": "26606/300/122"
+  },
+  "-KO24VuhXaAjui-tMqX4": {
+    "timestamp": 1470004334.294932,
+    "msg": "172688/0/300"
+  },
+  "-KO243LoRsC8cAxWj8yi": {
+    "timestamp": 1470004217.309372,
+    "msg": "55895/300/20"
+  },
+  "-KO24La07a33iU8QX04q": {
+    "timestamp": 1470004292.010965,
+    "msg": "130577/0/300"
+  },
+  "-KO24QT8lqzO3J3xRUMl": {
+    "timestamp": 1470004311.986384,
+    "msg": "150545/154/300"
+  },
+  "-KO24GWX7meSQexVxBK9": {
+    "timestamp": 1470004271.243298,
+    "msg": "109791/0/298"
+  },
+  "-KO24FWwG_FWH5LTazPt": {
+    "timestamp": 1470004267.173817,
+    "msg": "105699/281/300"
+  },
+  "-KO23yHLmEEGpi7JYkGP": {
+    "timestamp": 1470004192.447944,
+    "msg": "30980/0/300"
+  },
+  "-KO245i6YFB2niAjnvRl": {
+    "timestamp": 1470004226.992972,
+    "msg": "65565/28/300"
+  },
+  "-KO24TE03_KmsJ1HfrIY": {
+    "timestamp": 1470004323.306505,
+    "msg": "161879/0/158"
+  },
+  "-KO24ZaGcK6c-gZ3-Ng3": {
+    "coordTimestamp": 1470004349.000103,
+    "timestamp": 1470004349.370243,
+    "coord": [
+      -77.01403333812674,
+      38.91261826272952
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23ur5ClBlnayVPLdF": {
+    "timestamp": 1470004178.415635,
+    "msg": "16985/300/196"
+  },
+  "-KO24WogPEfQu_4Kc7MG": {
+    "timestamp": 1470004338.005154,
+    "msg": "176515/0/300"
+  },
+  "-KO24QDRsiyho39Bdnh-": {
+    "timestamp": 1470004310.981163,
+    "msg": "149524/0/300"
+  },
+  "-KO23xXy3uiWGOvbqu3v": {
+    "coordTimestamp": 1470004189.000103,
+    "timestamp": 1470004189.415424,
+    "coord": [
+      -77.00652767911274,
+      38.91162965915996
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO24RoSxvfhucvuHKo_": {
+    "timestamp": 1470004317.510721,
+    "msg": "156052/122/300"
+  },
+  "-KO24QGD8EBfif2b5fbX": {
+    "timestamp": 1470004311.159671,
+    "msg": "149718/117/137"
+  },
+  "-KO24DjN3hWLaYFBZPTN": {
+    "timestamp": 1470004259.841565,
+    "msg": "98292/186/300"
+  },
+  "-KO23zU-TXum_rLRrzV9": {
+    "coordTimestamp": 1470004197.000103,
+    "timestamp": 1470004197.353998,
+    "coord": [
+      -77.00645668439287,
+      38.91184440351921
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO24-Cn_XuBYZLgHhT6": {
+    "timestamp": 1470004200.349111,
+    "msg": "38865/0/300"
+  },
+  "-KO24FBE91LwASw2XRVg": {
+    "timestamp": 1470004265.78458,
+    "msg": "104327/80/123"
+  },
+  "-KO24T7k0FQ7eNV8lq5p": {
+    "timestamp": 1470004322.905666,
+    "msg": "161450/300/0"
+  },
+  "-KO2472ci6BUc3sCFg_p": {
+    "timestamp": 1470004232.465835,
+    "msg": "71016/0/300"
+  },
+  "-KO24JSIoEQ_8Z2Bp5kt": {
+    "timestamp": 1470004283.260964,
+    "msg": "121838/0/0"
+  },
+  "-KO240XB-bRZmYi8H2jg": {
+    "timestamp": 1470004205.749609,
+    "msg": "44283/227/300"
+  },
+  "-KO23yWirf50ixLguIQc": {
+    "timestamp": 1470004193.431188,
+    "msg": "31956/300/0"
+  },
+  "-KO23x8KFZQDzBZOnEA4": {
+    "timestamp": 1470004187.774684,
+    "msg": "26342/300/124"
+  },
+  "-KO24HoxtKJi_eUTvajy": {
+    "timestamp": 1470004276.582656,
+    "msg": "115113/0/300"
+  },
+  "-KO24GtC4-KzpJCdOC2X": {
+    "timestamp": 1470004272.758711,
+    "msg": "111267/0/300"
+  },
+  "-KO24LdyxPns4shSPMkx": {
+    "coordTimestamp": 1470004292.000104,
+    "timestamp": 1470004292.263385,
+    "coord": [
+      -77.01002168716514,
+      38.91259805360542
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24upjYGys_At5WeEQ": {
+    "coordTimestamp": 1470004440.000103,
+    "timestamp": 1470004440.473023,
+    "coord": [
+      -77.01913207267353,
+      38.91260851937849
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23wmtKdEsyKTDj2kV": {
+    "timestamp": 1470004186.338801,
+    "msg": "24909/0/145"
+  },
+  "-KO24VNVE9kDGDrkEksi": {
+    "timestamp": 1470004332.105476,
+    "msg": "170685/0/300"
+  },
+  "-KO24KBhRiKDezc4YyQB": {
+    "timestamp": 1470004286.294908,
+    "msg": "124841/0/300"
+  },
+  "-KO241QaTcHVsj1kdDyQ": {
+    "timestamp": 1470004209.424057,
+    "msg": "47967/0/300"
+  },
+  "-KO24DOxKno7Jl9f_toe": {
+    "timestamp": 1470004258.470152,
+    "msg": "96976/254/277"
+  },
+  "-KO242CtejJGyG6QRdRj": {
+    "timestamp": 1470004212.642881,
+    "msg": "51214/80/27"
+  },
+  "-KO24pA4shVcvm555jVR": {
+    "coordTimestamp": 1470004417.000103,
+    "timestamp": 1470004417.262296,
+    "coord": [
+      -77.01854900464137,
+      38.91265878923136
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24-xpUfyDrHQASgbG": {
+    "timestamp": 1470004203.42281,
+    "msg": "41953/0/300"
+  },
+  "-KO23sPeRE--FYWaxH0D": {
+    "coordTimestamp": 1470004168.000103,
+    "timestamp": 1470004168.40408,
+    "coord": [
+      -77.00705858885964,
+      38.9114519209032
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO24XhKeeIygLblGl1R": {
+    "timestamp": 1470004341.630393,
+    "msg": "180112/0/300"
+  },
+  "-KO244QRd5fNPQU8BV6l": {
+    "timestamp": 1470004221.702211,
+    "msg": "60287/3/300"
+  },
+  "-KO23t1yAmjsBCPGZqKl": {
+    "timestamp": 1470004170.983434,
+    "msg": "9513/228/177"
+  },
+  "-KO24TiU2KEWgydbuEYj": {
+    "coordTimestamp": 1470004325.000103,
+    "timestamp": 1470004325.320912,
+    "coord": [
+      -77.01245456271863,
+      38.91261891891096
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23t4dTrn9nIWgAg2J": {
+    "timestamp": 1470004171.155101,
+    "msg": "9709/225/179"
+  },
+  "-KO23x_h4Tb3RwbUnnol": {
+    "timestamp": 1470004189.590699,
+    "msg": "28131/0/300"
+  },
+  "-KO24BOW-r1hzV658765": {
+    "timestamp": 1470004250.250731,
+    "msg": "88663/10/300"
+  },
+  "-KO23th9hLjZdXBVAzCi": {
+    "timestamp": 1470004173.684026,
+    "msg": "12166/32/56"
+  },
+  "-KO243ftRdvl9ZbGDzEp": {
+    "timestamp": 1470004218.658746,
+    "msg": "57220/300/33"
+  },
+  "-KO2449aQSo60IXWEeor": {
+    "timestamp": 1470004220.623961,
+    "msg": "59148/0/300"
+  },
+  "-KO243xHVZXieavKxTHi": {
+    "timestamp": 1470004219.771366,
+    "msg": "57998/0/300"
+  },
+  "-KO23uyRmQzD7-Gugsrc": {
+    "timestamp": 1470004178.885588,
+    "msg": "17452/194/116"
+  },
+  "-KO24KhbSuq5DXCKSu21": {
+    "coordTimestamp": 1470004288.000103,
+    "timestamp": 1470004288.40077,
+    "coord": [
+      -77.00965695847117,
+      38.91259786100257
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24OoEyGl330dYaVsx": {
+    "timestamp": 1470004305.208391,
+    "msg": "143769/300/0"
+  },
+  "-KO24QrvoEvH5bCqdFYV": {
+    "timestamp": 1470004313.636119,
+    "msg": "152218/135/300"
+  },
+  "-KO23xHtUeneP6UaJfbp": {
+    "coordTimestamp": 1470004188.000103,
+    "timestamp": 1470004188.386655,
+    "coord": [
+      -77.00655835687834,
+      38.91161821786213
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO24oT1um_-zioymVBI": {
+    "coordTimestamp": 1470004414.000103,
+    "timestamp": 1470004414.379527,
+    "coord": [
+      -77.01834428509756,
+      38.9126075257925
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24VTEK9Vpbwq5VZFQ": {
+    "timestamp": 1470004332.472109,
+    "msg": "171028/300/115"
+  },
+  "-KO24PQiD3TSPkMBwMOT": {
+    "timestamp": 1470004307.736008,
+    "msg": "146264/0/300"
+  },
+  "-KO240vKZSvkqkrNpg7I": {
+    "coordTimestamp": 1470004207.000103,
+    "timestamp": 1470004207.358305,
+    "coord": [
+      -77.00647059835214,
+      38.91221547037262
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO24VjuhvMIVrjn_OGa": {
+    "timestamp": 1470004333.603414,
+    "msg": "172135/0/300"
+  },
+  "-KO249My6edr9nT-i5xi": {
+    "timestamp": 1470004241.959288,
+    "msg": "80514/0/229"
+  },
+  "-KO24c-zJALoV39ow9e2": {
+    "coordTimestamp": 1470004363.000103,
+    "timestamp": 1470004363.368287,
+    "coord": [
+      -77.01500522627612,
+      38.91260054979944
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24V6AErIa8_uTulXI": {
+    "timestamp": 1470004330.997073,
+    "msg": "169573/0/300"
+  },
+  "-KO242dF4OcYcBk-8Nsp": {
+    "timestamp": 1470004214.394042,
+    "msg": "52934/0/300"
+  },
+  "-KO2477gG-Sd7IXzIl4N": {
+    "timestamp": 1470004232.789983,
+    "msg": "71343/0/300"
+  },
+  "-KO243bR5u9v6yPj3vhA": {
+    "timestamp": 1470004218.373403,
+    "msg": "56903/300/20"
+  },
+  "-KO24AP3-4drPA46SpJy": {
+    "timestamp": 1470004246.189156,
+    "msg": "84746/242/261"
+  },
+  "-KO23vL9ykQm8IOzhICc": {
+    "timestamp": 1470004180.404074,
+    "msg": "18958/300/290"
+  },
+  "-KO24hO3AKo-9gI3fSjV": {
+    "coordTimestamp": 1470004385.000103,
+    "timestamp": 1470004385.389228,
+    "coord": [
+      -77.01649739035929,
+      38.9125920431734
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24cF_UnIH7vWl0t14": {
+    "coordTimestamp": 1470004364.000103,
+    "timestamp": 1470004364.366354,
+    "coord": [
+      -77.01506665121997,
+      38.91259956436584
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24QJz4L4kYt_sxcYq": {
+    "coordTimestamp": 1470004311.000103,
+    "timestamp": 1470004311.400508,
+    "coord": [
+      -77.01162023233337,
+      38.9125989035037
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24Mf09h_aRBEA4I59": {
+    "timestamp": 1470004296.426316,
+    "msg": "134996/0/300"
+  },
+  "-KO24FyR0dRYGqM3UZ8H": {
+    "timestamp": 1470004268.997572,
+    "msg": "107535/271/300"
+  },
+  "-KO2460FkN2AuMseGIbG": {
+    "coordTimestamp": 1470004228.000103,
+    "timestamp": 1470004228.217951,
+    "coord": [
+      -77.00640630915481,
+      38.91241227745908
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23qAjVbXOwZ0jUSer": {
+    "coordTimestamp": 1470004158.99999,
+    "timestamp": 1470004159.256789,
+    "coord": [
+      -77.00705775066932,
+      38.91146482903409
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24aZ93lc6ZAAhwmOU": {
+    "coordTimestamp": 1470004357.000103,
+    "timestamp": 1470004357.42752,
+    "coord": [
+      -77.01463687568321,
+      38.91260645934353
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24rrXoj99YiRE3nQf": {
+    "coordTimestamp": 1470004428.000103,
+    "timestamp": 1470004428.299768,
+    "coord": [
+      -77.0189230509277,
+      38.91260829569426
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23wlEFctNuPQulQsD": {
+    "timestamp": 1470004186.232982,
+    "msg": "24762/300/198"
+  },
+  "-KO241O5d27Gypke39dZ": {
+    "coordTimestamp": 1470004209.000103,
+    "timestamp": 1470004209.263665,
+    "coord": [
+      -77.00646967634279,
+      38.91228411815959
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO24TUay8_CfoFDcXu7": {
+    "coordTimestamp": 1470004324.000102,
+    "timestamp": 1470004324.368041,
+    "coord": [
+      -77.01238767136601,
+      38.9126182009815
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24DzhJQWLaRn7bI-c": {
+    "timestamp": 1470004260.887192,
+    "msg": "99346/0/300"
+  },
+  "-KO246kLiBo1PNWg81_S": {
+    "coordTimestamp": 1470004231.000103,
+    "timestamp": 1470004231.231793,
+    "coord": [
+      -77.00640630915481,
+      38.91241227745908
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24B52n3fUHT2U5Llb": {
+    "timestamp": 1470004249.00464,
+    "msg": "87475/0/300"
+  },
+  "-KO246d8VJPR5NTZJ4D2": {
+    "timestamp": 1470004230.770343,
+    "msg": "69303/0/300"
+  },
+  "-KO24lkYlrsR7TuHE9_7": {
+    "coordTimestamp": 1470004403.000103,
+    "timestamp": 1470004403.276665,
+    "coord": [
+      -77.0176082198294,
+      38.91263502653587
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24EdnuqjhaOTyLNfT": {
+    "timestamp": 1470004263.58045,
+    "msg": "102124/0/300"
+  },
+  "-KO244Kmb0o65w2y0QwL": {
+    "timestamp": 1470004221.339751,
+    "msg": "59923/5/300"
+  },
+  "-KO24L486eGHS1xeHPi-": {
+    "timestamp": 1470004289.90647,
+    "msg": "128463/188/300"
+  },
+  "-KO24NJP7tAaITGUVtf2": {
+    "timestamp": 1470004299.075572,
+    "msg": "137594/0/300"
+  },
+  "-KO244j77ZhQcIcysHhc": {
+    "timestamp": 1470004222.961192,
+    "msg": "61491/0/300"
+  },
+  "-KO24It3wHzihr0kxHpJ": {
+    "timestamp": 1470004280.941467,
+    "msg": "119479/0/300"
+  },
+  "-KO24T37jHY7rdv4_4Cc": {
+    "timestamp": 1470004322.609743,
+    "msg": "161181/0/300"
+  },
+  "-KO24S-BR45PM0lsY1jt": {
+    "coordTimestamp": 1470004318.000103,
+    "timestamp": 1470004318.261768,
+    "coord": [
+      -77.01208335573028,
+      38.91261361672914
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24TERJmvrNh6K0Iqs": {
+    "coordTimestamp": 1470004323.000103,
+    "timestamp": 1470004323.333637,
+    "coord": [
+      -77.0121450586521,
+      38.91261558657686
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24KO3WAS4cCSQIV-r": {
+    "timestamp": 1470004287.085923,
+    "msg": "125640/25/300"
+  },
+  "-KO24nxaGCualek6PRw7": {
+    "coordTimestamp": 1470004412.000103,
+    "timestamp": 1470004412.30404,
+    "coord": [
+      -77.01819143265207,
+      38.91263649336892
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO241uh1sWRizDuU6tK": {
+    "coordTimestamp": 1470004211.000103,
+    "timestamp": 1470004211.414115,
+    "coord": [
+      -77.0064586122306,
+      38.91233889389682
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO245l3MvoAtAA95Ajv": {
+    "coordTimestamp": 1470004227.000102,
+    "timestamp": 1470004227.181491,
+    "coord": [
+      -77.00640630915481,
+      38.91241227745908
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO248OjHaw8HJjp_d1S": {
+    "timestamp": 1470004237.976275,
+    "msg": "76510/92/300"
+  },
+  "-KO23v_4fiBIH_rxy-dm": {
+    "timestamp": 1470004181.358676,
+    "msg": "19923/300/157"
+  },
+  "-KO24BD20-Sp974O-GgF": {
+    "coordTimestamp": 1470004249.000102,
+    "timestamp": 1470004249.516718,
+    "coord": [
+      -77.00675901964028,
+      38.91264738984304
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24NfvNL7sqU37Gk2c": {
+    "timestamp": 1470004300.580563,
+    "msg": "139096/0/300"
+  },
+  "-KO23soZpQ-X8ugn6fla": {
+    "timestamp": 1470004170.061528,
+    "msg": "8596/212/179"
+  },
+  "-KO23shvv1xttlitYu7E": {
+    "timestamp": 1470004169.636837,
+    "msg": "8189/218/193"
+  },
+  "-KO244GdnvDIDbwNpOp2": {
+    "timestamp": 1470004221.076243,
+    "msg": "59656/7/300"
+  },
+  "-KO245mrPLKgVkxxLSYh": {
+    "timestamp": 1470004227.296581,
+    "msg": "65844/26/300"
+  },
+  "-KO24C7bVnCTejg6GdrI": {
+    "coordTimestamp": 1470004253.000103,
+    "timestamp": 1470004253.265047,
+    "coord": [
+      -77.00703863993009,
+      38.91265644229847
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23vRN4JT3BZ5WAqvH": {
+    "timestamp": 1470004180.801352,
+    "msg": "19359/252/248"
+  },
+  "-KO23xXLW8lorOBTZmWF": {
+    "timestamp": 1470004189.375851,
+    "msg": "27896/300/145"
+  },
+  "-KO23tpM1vLZoiDR8gpv": {
+    "timestamp": 1470004174.20855,
+    "msg": "12778/49/31"
+  },
+  "-KO23sq9b-zu-8Q6dlNs": {
+    "timestamp": 1470004170.163534,
+    "msg": "8697/216/144"
+  },
+  "-KO24Ak4Zlt0sgeqTK9p": {
+    "timestamp": 1470004247.599,
+    "msg": "86132/152/300"
+  },
+  "-KO23vmH3IY2gs4Wv_ou": {
+    "timestamp": 1470004182.203163,
+    "msg": "20773/300/258"
+  },
+  "-KO23rsopPwdiw-YUv0Z": {
+    "timestamp": 1470004166.237582,
+    "msg": "RANGE:300"
+  },
+  "-KO23vrJQGam952_56L9": {
+    "timestamp": 1470004182.525371,
+    "msg": "21077/273/232"
+  },
+  "-KO24KFFO9SKyfWen793": {
+    "timestamp": 1470004286.521186,
+    "msg": "125098/0/300"
+  },
+  "-KO24QRumV1SZaOlzwYi": {
+    "timestamp": 1470004311.907407,
+    "msg": "150448/291/300"
+  },
+  "-KO24N9U8gTH8JtnFJR6": {
+    "coordTimestamp": 1470004298.000104,
+    "timestamp": 1470004298.4408,
+    "coord": [
+      -77.01053597258579,
+      38.91259832722375
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO243naONNCv2ESo2i9": {
+    "coordTimestamp": 1470004219.000103,
+    "timestamp": 1470004219.151646,
+    "coord": [
+      -77.00641796000022,
+      38.91241667795825
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23vAFA0PYDRsmn_ne": {
+    "timestamp": 1470004179.70598,
+    "msg": "18273/300/170"
+  },
+  "-KO23yoszZLQSKc2Lx-v": {
+    "timestamp": 1470004194.657786,
+    "msg": "33179/0/300"
+  },
+  "-KO243SjebYugNM_n7Ph": {
+    "timestamp": 1470004217.753154,
+    "msg": "56329/300/6"
+  },
+  "-KO24HC5_slofn3B8NqX": {
+    "timestamp": 1470004274.031226,
+    "msg": "112463/0/300"
+  },
+  "-KO24Up-qqbYGhJvN1bi": {
+    "timestamp": 1470004329.833706,
+    "msg": "168353/0/300"
+  },
+  "-KO24PMYZscrq57qaY9O": {
+    "coordTimestamp": 1470004307.000103,
+    "timestamp": 1470004307.468264,
+    "coord": [
+      -77.01132247930218,
+      38.91259874503945
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24QvHCyV3fqty8xcd": {
+    "timestamp": 1470004313.851828,
+    "msg": "152407/176/300"
+  },
+  "-KO249HDdClaACIN_6g-": {
+    "timestamp": 1470004241.592058,
+    "msg": "80165/300/66"
+  },
+  "-KO24NmOj33sKBgRg0r3": {
+    "timestamp": 1470004300.995077,
+    "msg": "139536/0/300"
+  },
+  "-KO24RVeoRSN7WGXfu2G": {
+    "coordTimestamp": 1470004316.000103,
+    "timestamp": 1470004316.243263,
+    "coord": [
+      -77.01204242355743,
+      38.91261231029104
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO248C8WUO48fcZriw-": {
+    "timestamp": 1470004237.170757,
+    "msg": "75715/0/300"
+  },
+  "-KO24-lnhXqXuQUhU3TL": {
+    "timestamp": 1470004202.652254,
+    "msg": "41203/0/300"
+  },
+  "-KO24KtzCN8_JNQfSREi": {
+    "timestamp": 1470004289.193046,
+    "msg": "127708/0/300"
+  },
+  "-KO24RWSgDIl_NfDW1wM": {
+    "timestamp": 1470004316.294459,
+    "msg": "154871/300/269"
+  },
+  "-KO23tOrENlX5B_PSd9q": {
+    "timestamp": 1470004172.448681,
+    "msg": "11009/30/199"
+  },
+  "-KO248fecOUXz69dMQg-": {
+    "timestamp": 1470004239.123836,
+    "msg": "77701/23/300"
+  },
+  "-KO24rdtSkW3YLQvRawE": {
+    "coordTimestamp": 1470004427.000103,
+    "timestamp": 1470004427.426901,
+    "coord": [
+      -77.0189226455841,
+      38.91260829518473
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24NOjtUFPlJ_QUiiD": {
+    "timestamp": 1470004299.416193,
+    "msg": "137943/0/300"
+  },
+  "-KO24Wf6-YWZLYGzxeiV": {
+    "timestamp": 1470004337.392676,
+    "msg": "175934/0/300"
+  },
+  "-KO23wqsJERBYuWerrDl": {
+    "timestamp": 1470004186.593655,
+    "msg": "25154/300/137"
+  },
+  "-KO2443IldchtRXxDxoo": {
+    "coordTimestamp": 1470004220.000103,
+    "timestamp": 1470004220.220358,
+    "coord": [
+      -77.00640630915481,
+      38.91241227745908
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24KSEvCEufNfb6MVH": {
+    "coordTimestamp": 1470004287.000103,
+    "timestamp": 1470004287.352233,
+    "coord": [
+      -77.00959479650919,
+      38.91259786100257
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24-5_n5UKI4Ux4QJh": {
+    "timestamp": 1470004199.887092,
+    "msg": "38466/0/300"
+  },
+  "-KO24DrsmebqoDAQVoso": {
+    "timestamp": 1470004260.385806,
+    "msg": "98818/150/300"
+  },
+  "-KO24KmrXybE4vAzwExD": {
+    "timestamp": 1470004288.736643,
+    "msg": "127118/300/0"
+  },
+  "-KO24EKiTjQC_C7ZQyfA": {
+    "timestamp": 1470004262.295995,
+    "msg": "100824/0/300"
+  },
+  "-KO24QWjb9Seo-YI-iUt": {
+    "timestamp": 1470004312.216688,
+    "msg": "150794/96/300"
+  },
+  "-KO24T94Ztc8KXDWKrcj": {
+    "timestamp": 1470004322.990375,
+    "msg": "161545/300/196"
+  },
+  "-KO24VWtnKtJS0jg4lQn": {
+    "timestamp": 1470004332.707388,
+    "msg": "171206/0/300"
+  },
+  "-KO24Vak5fX4CxeK_NzA": {
+    "timestamp": 1470004333.017361,
+    "msg": "171457/0/300"
+  },
+  "-KO24tpcms2uHvb3H-uY": {
+    "coordTimestamp": 1470004436.000104,
+    "timestamp": 1470004436.36944,
+    "coord": [
+      -77.01913536846405,
+      38.9126085229452
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23u45c2XNYovkho3i": {
+    "timestamp": 1470004175.215494,
+    "msg": "13746/300/66"
+  },
+  "-KO24OLhRInK6DHV0--q": {
+    "timestamp": 1470004303.318533,
+    "msg": "141865/0/177"
+  },
+  "-KO23wMVS2RwyR2GzG0J": {
+    "timestamp": 1470004184.585737,
+    "msg": "23128/298/294"
+  },
+  "-KO24N93zr0UHsqtQWkm": {
+    "timestamp": 1470004298.413732,
+    "msg": "136941/126/300"
+  },
+  "-KO24j3CS7qCEVu8KjqJ": {
+    "coordTimestamp": 1470004392.000103,
+    "timestamp": 1470004392.246117,
+    "coord": [
+      -77.01696013107617,
+      38.91265505928445
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23uZX1PxKonyCqzCg": {
+    "timestamp": 1470004177.227323,
+    "msg": "15782/300/0"
+  },
+  "-KO23w1D5D0bBdlBN-0P": {
+    "timestamp": 1470004183.223803,
+    "msg": "21786/300/280"
+  },
+  "-KO24LZD6vGFsJZXlnCD": {
+    "timestamp": 1470004291.895322,
+    "msg": "130372/0/281"
+  },
+  "-KO24K_O6NAjHPzDic4q": {
+    "timestamp": 1470004287.874696,
+    "msg": "126444/0/300"
+  },
+  "-KO24OqY3uodTzSVRdRO": {
+    "timestamp": 1470004305.356457,
+    "msg": "143891/0/300"
+  },
+  "-KO24puMFQO6eJyF02WT": {
+    "coordTimestamp": 1470004420.000102,
+    "timestamp": 1470004420.288404,
+    "coord": [
+      -77.01873897713085,
+      38.91260805060971
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24QBH-fIQ3aFIvs3U": {
+    "timestamp": 1470004310.844347,
+    "msg": "149374/300/45"
+  },
+  "-KO24S69Kep00VOMvMAr": {
+    "timestamp": 1470004318.707391,
+    "msg": "157240/300/0"
+  },
+  "-KO24RdPJmsuMhGVlg52": {
+    "timestamp": 1470004316.804078,
+    "msg": "155353/249/114"
+  },
+  "-KO24RkGeEsO5_CkjoFI": {
+    "timestamp": 1470004317.242156,
+    "msg": "155812/189/300"
+  },
+  "-KO23stcz3jyNLbxBHpK": {
+    "timestamp": 1470004170.385878,
+    "msg": "8957/215/170"
+  },
+  "-KO23w3jUwVFM0gMfcOm": {
+    "timestamp": 1470004183.385047,
+    "msg": "21957/300/284"
+  },
+  "-KO23xvc2y0LQUBYBcQb": {
+    "timestamp": 1470004190.993669,
+    "msg": "29132/0/300"
+  },
+  "-KO24NhCkn6fssuS5-6K": {
+    "timestamp": 1470004300.662828,
+    "msg": "139221/300/175"
+  },
+  "-KO23sECDz9IjDJYKd8t": {
+    "timestamp": 1470004167.67041,
+    "msg": "6227/300/175"
+  },
+  "-KO24k5vtXtPxuTTw5fk": {
+    "coordTimestamp": 1470004396.000103,
+    "timestamp": 1470004396.516634,
+    "coord": [
+      -77.01718635864277,
+      38.91264596491951
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23tTKRxN8_YLFRyaJ": {
+    "timestamp": 1470004172.735137,
+    "msg": "11301/29/214"
+  },
+  "-KO24PgMYGSIt7fA-UjF": {
+    "timestamp": 1470004308.800242,
+    "msg": "147364/0/300"
+  },
+  "-KO24Wm1N_hxYYEPdtDG": {
+    "timestamp": 1470004337.835408,
+    "msg": "176340/0/300"
+  },
+  "-KO24B7AUx9e5TyDkmAT": {
+    "timestamp": 1470004249.140811,
+    "msg": "87684/0/300"
+  },
+  "-KO24X3SMaAzbGi4FvvB": {
+    "timestamp": 1470004339.01435,
+    "msg": "177538/0/300"
+  },
+  "-KO2459xYI0I_Z0FvI6L": {
+    "timestamp": 1470004224.742634,
+    "msg": "63302/4/300"
+  },
+  "-KO23uM8-2QiCsKJ6zyx": {
+    "coordTimestamp": 1470004176.000103,
+    "timestamp": 1470004176.370401,
+    "coord": [
+      -77.00699740096648,
+      38.91149785373258
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO24SUpmfdfqriBapTt": {
+    "coordTimestamp": 1470004320.000103,
+    "timestamp": 1470004320.286801,
+    "coord": [
+      -77.01214297660044,
+      38.91261551982827
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24MRGntajWDmonniW": {
+    "timestamp": 1470004295.482982,
+    "msg": "134051/0/300"
+  },
+  "-KO24Qn63RHik8-TXbwn": {
+    "timestamp": 1470004313.328583,
+    "msg": "151901/110/300"
+  },
+  "-KO24QUhLEmeWvmYunL7": {
+    "timestamp": 1470004312.086633,
+    "msg": "150660/155/0"
+  },
+  "-KO23wNeZ7QgWoINy1R7": {
+    "timestamp": 1470004184.659411,
+    "msg": "23226/300/150"
+  },
+  "-KO23pRAIzvV7_Sny6bB": {
+    "coordTimestamp": 1470004156.208393,
+    "timestamp": 1470004156.212454,
+    "coord": [
+      -77.0072109718593,
+      38.91164742879468
+    ],
+    "horizontalAccuracy": 30
+  },
+  "-KO24PtOSBMuh-ULXpJt": {
+    "timestamp": 1470004309.634666,
+    "msg": "148182/0/300"
+  },
+  "-KO24FdAwQwOi-a5lIG-": {
+    "timestamp": 1470004267.636895,
+    "msg": "106160/300/273"
+  },
+  "-KO24Oiw1n35PYuJjnhW": {
+    "timestamp": 1470004304.869814,
+    "msg": "143370/0/300"
+  },
+  "-KO23wW5HyH6BZEmR0Pe": {
+    "timestamp": 1470004185.199142,
+    "msg": "23775/219/133"
+  },
+  "-KO243el8829xvPeKqQm": {
+    "timestamp": 1470004218.587121,
+    "msg": "57163/300/31"
+  },
+  "-KO24Rb9TuxJVJPVUyEc": {
+    "timestamp": 1470004316.659153,
+    "msg": "155231/300/151"
+  },
+  "-KO241NHolrbjkSgSDwU": {
+    "timestamp": 1470004209.211605,
+    "msg": "47753/0/300"
+  },
+  "-KO24Jv9uOE03Oa8332k": {
+    "timestamp": 1470004285.171979,
+    "msg": "123726/0/300"
+  },
+  "-KO24vK7juqDixpd9_CN": {
+    "coordTimestamp": 1470004442.000103,
+    "timestamp": 1470004442.481882,
+    "coord": [
+      -77.01913067656278,
+      38.9126085178499
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24DrXQp42Cqnw87Q-": {
+    "coordTimestamp": 1470004260.000103,
+    "timestamp": 1470004260.36331,
+    "coord": [
+      -77.00768229209643,
+      38.91258902725706
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO245E4L8F6Og6pj6Y-": {
+    "timestamp": 1470004225.006712,
+    "msg": "63590/8/300"
+  },
+  "-KO23tx7hzDmHeTy0ZrA": {
+    "timestamp": 1470004174.705852,
+    "msg": "13278/103/46"
+  },
+  "-KO23tFqSFCmDlrYY5Lh": {
+    "timestamp": 1470004171.872038,
+    "msg": "10424/220/154"
+  },
+  "-KO24Q5-A9AvkWo7rFvp": {
+    "timestamp": 1470004310.441728,
+    "msg": "149003/300/201"
+  },
+  "-KO24YLkBODvIOuxan5V": {
+    "coordTimestamp": 1470004344.000103,
+    "timestamp": 1470004344.281094,
+    "coord": [
+      -77.01370288676117,
+      38.91261550861859
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24QVp22HRUtJMCLjR": {
+    "timestamp": 1470004312.158556,
+    "msg": "150725/161/300"
+  },
+  "-KO24F-sXsoAo2X-wv1x": {
+    "timestamp": 1470004265.0581,
+    "msg": "103605/134/300"
+  },
+  "-KO24u_lXII_Ah64GMK4": {
+    "coordTimestamp": 1470004439.000103,
+    "timestamp": 1470004439.450679,
+    "coord": [
+      -77.01912516742595,
+      38.91260851173551
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24jYVI_JyQPNuMNqN": {
+    "coordTimestamp": 1470004394.000103,
+    "timestamp": 1470004394.249525,
+    "coord": [
+      -77.01707068837901,
+      38.91265023969012
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO249UIoDFcNvn8hkwe": {
+    "timestamp": 1470004242.428899,
+    "msg": "80923/234/300"
+  },
+  "-KO249IGl_6Gmfu5pJP_": {
+    "timestamp": 1470004241.659083,
+    "msg": "80229/300/115"
+  },
+  "-KO24IOJZUUtqhatlh48": {
+    "timestamp": 1470004278.909888,
+    "msg": "117479/0/300"
+  },
+  "-KO24WCh1DUFT58FV2KS": {
+    "timestamp": 1470004335.510988,
+    "msg": "173763/157/300"
+  },
+  "-KO24lWdhJyWfEPDN5kS": {
+    "coordTimestamp": 1470004402.000103,
+    "timestamp": 1470004402.322267,
+    "coord": [
+      -77.01754258952757,
+      38.91263628382134
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24Vp57LnA-PLZnQbQ": {
+    "timestamp": 1470004333.936027,
+    "msg": "172409/0/300"
+  },
+  "-KO24cl4ru-JWpXmzI37": {
+    "coordTimestamp": 1470004366.000103,
+    "timestamp": 1470004366.447064,
+    "coord": [
+      -77.01517100002093,
+      38.91259789004585
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO243TTi1GphfwBV3cz": {
+    "timestamp": 1470004217.80005,
+    "msg": "56381/300/6"
+  },
+  "-KO244UkN1RPGy-bIlSo": {
+    "timestamp": 1470004221.977465,
+    "msg": "60564/4/300"
+  },
+  "-KO24Rkyaw_eEdUWprE7": {
+    "coordTimestamp": 1470004317.000103,
+    "timestamp": 1470004317.287182,
+    "coord": [
+      -77.01207280468225,
+      38.91261327992899
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24AxPticl0OqzNWTz": {
+    "coordTimestamp": 1470004248.000103,
+    "timestamp": 1470004248.451448,
+    "coord": [
+      -77.0066840016069,
+      38.91264814421433
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23vJfec1Ce7KZtwrI": {
+    "timestamp": 1470004180.308586,
+    "msg": "18893/69/207"
+  },
+  "-KO24MbRPLIsFKEToj6v": {
+    "timestamp": 1470004296.197986,
+    "msg": "134750/0/2"
+  },
+  "-KO23pg8-gPHfpUBh5wI": {
+    "coordTimestamp": 1470004157.000021,
+    "timestamp": 1470004157.234368,
+    "coord": [
+      -77.00707099407633,
+      38.91147572550821
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO243jiqhxrdYcVzDcI": {
+    "timestamp": 1470004218.903633,
+    "msg": "57475/300/38"
+  },
+  "-KO242iQ9uoIqYzqijjx": {
+    "timestamp": 1470004214.724798,
+    "msg": "53279/0/105"
+  },
+  "-KO23swHqfMHwkRlncuW": {
+    "timestamp": 1470004170.555915,
+    "msg": "9107/227/172"
+  },
+  "-KO244ZUE7Kq_vOjRKqI": {
+    "timestamp": 1470004222.28022,
+    "msg": "60856/20/300"
+  },
+  "-KO24UJ83SiZHRjb4Ily": {
+    "timestamp": 1470004327.730357,
+    "msg": "166279/300/287"
+  },
+  "-KO23t7p41niFa-ixJP4": {
+    "timestamp": 1470004171.358757,
+    "msg": "9931/226/183"
+  },
+  "-KO24HsH-WAYtItl-COz": {
+    "timestamp": 1470004276.795248,
+    "msg": "115335/0/300"
+  },
+  "-KO23vFKi0GCBq0M9lfD": {
+    "timestamp": 1470004180.030859,
+    "msg": "18593/300/158"
+  },
+  "-KO24RulAirBkIPha0KY": {
+    "timestamp": 1470004317.914469,
+    "msg": "156430/300/102"
+  },
+  "-KO249ZjzCVIxra2amAT": {
+    "timestamp": 1470004242.776523,
+    "msg": "81324/107/300"
+  },
+  "-KO23rziPZmW_DSnJghb": {
+    "timestamp": 1470004166.67991,
+    "msg": "5224/300/174"
+  },
+  "-KO24-xy5Hl2JoyBvcvR": {
+    "coordTimestamp": 1470004203.000102,
+    "timestamp": 1470004203.431363,
+    "coord": [
+      -77.00645810931641,
+      38.91206547621536
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO23zNRf2XzYYJPNfQf": {
+    "timestamp": 1470004196.933323,
+    "msg": "35468/0/300"
+  },
+  "-KO24Fvphl4rBEvNqeXS": {
+    "timestamp": 1470004268.830686,
+    "msg": "107334/0/300"
+  },
+  "-KO24Th9e4IKXmaMW5ay": {
+    "timestamp": 1470004325.235218,
+    "msg": "163772/0/300"
+  },
+  "-KO24PNDI3ZekkiFh5In": {
+    "timestamp": 1470004307.511923,
+    "msg": "146028/0/300"
+  },
+  "-KO243RsLG1MuPizNXNL": {
+    "timestamp": 1470004217.697215,
+    "msg": "56276/300/6"
+  },
+  "-KO23zCOP3NmCOSNx5xy": {
+    "timestamp": 1470004196.226495,
+    "msg": "34715/0/300"
+  },
+  "-KO243JTzNKop-wMJU4J": {
+    "timestamp": 1470004217.159637,
+    "msg": "55736/0/300"
+  },
+  "-KO24VCXoVEZjMS7Xo7q": {
+    "timestamp": 1470004331.403152,
+    "msg": "169961/0/300"
+  },
+  "-KO23yTssm8KQzt5n4Lt": {
+    "timestamp": 1470004193.249504,
+    "msg": "31790/0/300"
+  },
+  "-KO24Ml3d2tkPsYoho2n": {
+    "timestamp": 1470004296.813852,
+    "msg": "135347/300/176"
+  },
+  "-KO23tpwFvqr-UahZLFP": {
+    "coordTimestamp": 1470004174.000102,
+    "timestamp": 1470004174.245715,
+    "coord": [
+      -77.00701475150605,
+      38.91147065445679
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO23vy55vXzqQTNyxX7": {
+    "timestamp": 1470004182.959666,
+    "msg": "21501/296/299"
+  },
+  "-KO24SQ1hM81AH-Uw76q": {
+    "timestamp": 1470004319.979547,
+    "msg": "158547/0/300"
+  },
+  "-KO245gJcHQvaLWiy0Cd": {
+    "timestamp": 1470004226.877185,
+    "msg": "65451/30/300"
+  },
+  "-KO24RYzxOOMuy8lgjBt": {
+    "timestamp": 1470004316.456946,
+    "msg": "155012/172/300"
+  },
+  "-KO23x9x5XzAIHn9kGqv": {
+    "timestamp": 1470004187.878799,
+    "msg": "26450/0/135"
+  },
+  "-KO245DKTjaAfxRzdBTV": {
+    "timestamp": 1470004224.958483,
+    "msg": "63539/6/300"
+  },
+  "-KO24R4RHT_V8nFDIQFw": {
+    "timestamp": 1470004314.501316,
+    "msg": "153079/148/300"
+  },
+  "-KO24EHFMPaxiSsybjp7": {
+    "timestamp": 1470004262.074436,
+    "msg": "99872/0/300"
+  },
+  "-KO23zSpKSBV26Ny9BFw": {
+    "timestamp": 1470004197.279093,
+    "msg": "35815/150/300"
+  },
+  "-KO24WiPVlp6aGvzJ5Vg": {
+    "timestamp": 1470004337.604036,
+    "msg": "176143/0/300"
+  },
+  "-KO23ufuPaFYyFaM4EtJ": {
+    "timestamp": 1470004177.700049,
+    "msg": "16233/0/300"
+  },
+  "-KO24Bz7N1bBbu67nNS8": {
+    "timestamp": 1470004252.657931,
+    "msg": "91068/0/300"
+  },
+  "-KO24sM2d0XE6cCn9F10": {
+    "coordTimestamp": 1470004430.000103,
+    "timestamp": 1470004430.317049,
+    "coord": [
+      -77.0189230509277,
+      38.91260829569426
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24qvrAvhXT2LVcsc1": {
+    "coordTimestamp": 1470004424.000103,
+    "timestamp": 1470004424.480465,
+    "coord": [
+      -77.01887883966265,
+      38.91260823658863
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO241AfpkCscpLjT_Kx": {
+    "timestamp": 1470004208.404604,
+    "msg": "46907/300/263"
+  },
+  "-KO24QlCnGnOtqy_e80k": {
+    "timestamp": 1470004313.206273,
+    "msg": "151771/136/300"
+  },
+  "-KO24QoOHLB4YvCoiFo5": {
+    "coordTimestamp": 1470004313.000103,
+    "timestamp": 1470004313.410232,
+    "coord": [
+      -77.01190265532205,
+      38.9126078483258
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24NFpUcO5xdmF_0dm": {
+    "timestamp": 1470004298.846344,
+    "msg": "137375/0/300"
+  },
+  "-KO24Gm4BBvgyi54cuMK": {
+    "timestamp": 1470004272.302947,
+    "msg": "110841/0/300"
+  },
+  "-KO23uujRGBmhIXHUm6B": {
+    "timestamp": 1470004178.648723,
+    "msg": "17180/123/230"
+  },
+  "-KO23s7uaayilwKFkf63": {
+    "timestamp": 1470004167.268078,
+    "msg": "5834/300/175"
+  },
+  "-KO23vP248afypT3Wz6B": {
+    "timestamp": 1470004180.6525,
+    "msg": "19222/249/251"
+  },
+  "-KO24ERgDVJgnLQ3Nv7F": {
+    "timestamp": 1470004262.74125,
+    "msg": "101139/0/300"
+  },
+  "-KO23vGWlaxPFSIAACLz": {
+    "timestamp": 1470004180.106729,
+    "msg": "18683/300/272"
+  },
+  "-KO23sj9BmabAAkoetYF": {
+    "timestamp": 1470004169.715735,
+    "msg": "8275/219/190"
+  },
+  "-KO24d0j0IB-iC6UNYxA": {
+    "coordTimestamp": 1470004367.000103,
+    "timestamp": 1470004367.512827,
+    "coord": [
+      -77.01517185130797,
+      38.91259787628851
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24K7vUA4N5D3HWG-O": {
+    "timestamp": 1470004286.052877,
+    "msg": "124612/300/216"
+  },
+  "-KO24QhxfQTGLG70YIPI": {
+    "timestamp": 1470004312.999011,
+    "msg": "150943/119/300"
+  },
+  "-KO24BegmA54TmlQb1R-": {
+    "coordTimestamp": 1470004251.000103,
+    "timestamp": 1470004251.349922,
+    "coord": [
+      -77.00685381896515,
+      38.91264034904438
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23u9zf4IpwbaGJZ8i": {
+    "timestamp": 1470004175.592656,
+    "msg": "14110/295/118"
+  },
+  "-KO24NuIXvCwiB-5APFH": {
+    "coordTimestamp": 1470004301.000103,
+    "timestamp": 1470004301.500114,
+    "coord": [
+      -77.01077529032773,
+      38.91259845409706
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24EkVLoDe2-bT6oRI": {
+    "timestamp": 1470004264.009886,
+    "msg": "102550/0/300"
+  },
+  "-KO24Iern0b3Y5_crvz4": {
+    "timestamp": 1470004280.032893,
+    "msg": "118500/300/69"
+  },
+  "-KO243L42M-OeOhWjPb3": {
+    "timestamp": 1470004217.262146,
+    "msg": "55846/0/300"
+  },
+  "-KO24rQac7hpMXeES_L_": {
+    "coordTimestamp": 1470004426.000103,
+    "timestamp": 1470004426.511522,
+    "coord": [
+      -77.01891827848158,
+      38.91260828907035
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24dzCZ7YmTWORxExh": {
+    "coordTimestamp": 1470004371.000103,
+    "timestamp": 1470004371.446756,
+    "coord": [
+      -77.01553110040446,
+      38.91260443258929
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24N-ZbmLv19sWRGCa": {
+    "timestamp": 1470004297.805601,
+    "msg": "136362/300/172"
+  },
+  "-KO24Qp9JbPcFf54C3iY": {
+    "timestamp": 1470004313.459287,
+    "msg": "152025/111/300"
+  },
+  "-KO24SS60Hn3Zub8cR5Q": {
+    "timestamp": 1470004320.112778,
+    "msg": "158678/300/0"
+  },
+  "-KO24JpI4OQxak5_4yhq": {
+    "timestamp": 1470004284.796788,
+    "msg": "123348/0/300"
+  },
+  "-KO24evBfjOioFPvANL9": {
+    "coordTimestamp": 1470004375.000103,
+    "timestamp": 1470004375.285698,
+    "coord": [
+      -77.01569701879635,
+      38.91259474725643
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23va3m4Esnk0-gKmC": {
+    "timestamp": 1470004181.421931,
+    "msg": "19998/247/234"
+  },
+  "-KO245juHQHv3dPnSisE": {
+    "timestamp": 1470004227.107651,
+    "msg": "65685/28/300"
+  },
+  "-KO24XcH3Zo_2d2W1QjA": {
+    "coordTimestamp": 1470004341.000103,
+    "timestamp": 1470004341.307975,
+    "coord": [
+      -77.01347535483261,
+      38.91263226050782
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24JmAnxnH1gYe9irj": {
+    "timestamp": 1470004284.5965,
+    "msg": "123144/0/300"
+  },
+  "-KO247UVN2d-rLRN1jAH": {
+    "timestamp": 1470004234.249501,
+    "msg": "72782/0/300"
+  },
+  "-KO24XkTLqEJVUgztPM4": {
+    "timestamp": 1470004341.831355,
+    "msg": "180308/0/300"
+  },
+  "-KO24GBXNPAAEDPTdSkA": {
+    "timestamp": 1470004269.899302,
+    "msg": "108341/300/76"
+  },
+  "-KO24WUnf2_RdVuLhiZx": {
+    "timestamp": 1470004336.668712,
+    "msg": "175006/0/300"
+  },
+  "-KO247c242eZMGb_31_H": {
+    "timestamp": 1470004234.796892,
+    "msg": "73351/0/103"
+  },
+  "-KO24ITV6e_VQomyWTAJ": {
+    "timestamp": 1470004279.241575,
+    "msg": "117786/0/300"
+  },
+  "-KO23ruh3fIgkyGKptx7": {
+    "timestamp": 1470004166.35901,
+    "msg": "4924/300/176"
+  },
+  "-KO24TyiBEUO7raX3EeA": {
+    "timestamp": 1470004326.359987,
+    "msg": "164874/0/300"
+  },
+  "-KO24TadqFM_QKFyiQgf": {
+    "timestamp": 1470004324.818331,
+    "msg": "163073/283/300"
+  },
+  "-KO241kRBWvv2Mhg-n0f": {
+    "timestamp": 1470004210.757451,
+    "msg": "49300/300/0"
+  },
+  "-KO24PDj-Q8ZCBIwNY1_": {
+    "timestamp": 1470004306.90453,
+    "msg": "145472/300/0"
+  },
+  "-KO24PBgQsr8CThl3-Gh": {
+    "timestamp": 1470004306.773638,
+    "msg": "145317/0/300"
+  },
+  "-KO247grgsaFZ77sfyDP": {
+    "timestamp": 1470004235.104917,
+    "msg": "73674/300/124"
+  },
+  "-KO2463KjKLpEYvlznao": {
+    "timestamp": 1470004228.414554,
+    "msg": "66937/33/300"
+  },
+  "-KO242ZFboWH-j4gXV3n": {
+    "timestamp": 1470004214.073983,
+    "msg": "52624/0/300"
+  },
+  "-KO245nUfLQ35yHCe4gU": {
+    "timestamp": 1470004227.337094,
+    "msg": "65919/26/127"
+  },
+  "-KO24RDKkCz8994G8fvO": {
+    "timestamp": 1470004315.070218,
+    "msg": "153639/124/300"
+  },
+  "-KO23sFJCYJm4FykbYVi": {
+    "timestamp": 1470004167.741581,
+    "msg": "6314/300/175"
+  },
+  "-KO24SJrSRP1pOiONKxR": {
+    "timestamp": 1470004319.584989,
+    "msg": "158100/81/300"
+  },
+  "-KO23vXc2E-ic8nxZNu5": {
+    "timestamp": 1470004181.201328,
+    "msg": "19740/240/234"
+  },
+  "-KO24A1BuLME1m9WYa34": {
+    "timestamp": 1470004244.661957,
+    "msg": "83243/300/117"
+  },
+  "-KO24VfZU6QkIHy4Y24Y": {
+    "coordTimestamp": 1470004333.000103,
+    "timestamp": 1470004333.325136,
+    "coord": [
+      -77.01295227489027,
+      38.91261583420903
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO244RwESz0w0pmyaBr": {
+    "timestamp": 1470004221.797172,
+    "msg": "60382/4/300"
+  },
+  "-KO24NcEQoDz_tGpjm9v": {
+    "timestamp": 1470004300.344459,
+    "msg": "138788/0/300"
+  },
+  "-KO24QEacBwebNJMfV6u": {
+    "timestamp": 1470004311.056132,
+    "msg": "149613/117/300"
+  },
+  "-KO24DnZltwhb8DHwb3V": {
+    "timestamp": 1470004260.109713,
+    "msg": "98631/300/112"
+  },
+  "-KO24-TCkJfm_yzLtD-t": {
+    "coordTimestamp": 1470004201.000103,
+    "timestamp": 1470004201.398631,
+    "coord": [
+      -77.00645584620256,
+      38.91198572240668
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO24OBuEdmUIVN-g7TZ": {
+    "timestamp": 1470004302.691385,
+    "msg": "141223/0/300"
+  },
+  "-KO247fobVaUYkoP3Hxp": {
+    "timestamp": 1470004235.037213,
+    "msg": "73540/0/112"
+  },
+  "-KO24S7sN9IHHm6rmyNf": {
+    "timestamp": 1470004318.817124,
+    "msg": "157388/0/300"
+  },
+  "-KO24JQg8_iZdWACpMbY": {
+    "timestamp": 1470004283.157889,
+    "msg": "121717/247/300"
+  },
+  "-KO24JhvPn5mMWKHPixY": {
+    "timestamp": 1470004284.324371,
+    "msg": "122900/0/300"
+  },
+  "-KO24RiA6plnwwyIhhu4": {
+    "timestamp": 1470004317.109217,
+    "msg": "155659/295/300"
+  },
+  "-KO24GNQPjaO1lbacOQg": {
+    "timestamp": 1470004270.660309,
+    "msg": "109204/0/300"
+  },
+  "-KO24Ne7arC2VQ8XRcQL": {
+    "coordTimestamp": 1470004300.000103,
+    "timestamp": 1470004300.465382,
+    "coord": [
+      -77.01070517963672,
+      38.91259841690126
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24M9qI4c5jyWk2Du_": {
+    "timestamp": 1470004294.367381,
+    "msg": "132946/0/300"
+  },
+  "-KO24sbkVIeTFl_YqLZv": {
+    "coordTimestamp": 1470004431.000103,
+    "timestamp": 1470004431.385604,
+    "coord": [
+      -77.01912009833904,
+      38.91260850664021
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO242897VI4aEqpxHcS": {
+    "coordTimestamp": 1470004212.000102,
+    "timestamp": 1470004212.339273,
+    "coord": [
+      -77.00644687756616,
+      38.91236751809615
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO23vUdus5lC88mbPUc": {
+    "timestamp": 1470004181.010384,
+    "msg": "19558/300/238"
+  },
+  "-KO247kn4TDc_nRsP9Io": {
+    "timestamp": 1470004235.356728,
+    "msg": "73931/300/139"
+  },
+  "-KO23vhInk0uAMbeMaFp": {
+    "timestamp": 1470004181.884567,
+    "msg": "20450/300/240"
+  },
+  "-KO24PW70QcQfz4J3aqW": {
+    "timestamp": 1470004308.081712,
+    "msg": "146643/0/300"
+  },
+  "-KO244RDL4OaeJLvNw3y": {
+    "timestamp": 1470004221.751179,
+    "msg": "60333/3/300"
+  },
+  "-KO23vcHyPrQ6EUthfSk": {
+    "timestamp": 1470004181.563813,
+    "msg": "20137/300/245"
+  },
+  "-KO23tl73Tdi5wvNipvb": {
+    "timestamp": 1470004173.937729,
+    "msg": "12487/37/31"
+  },
+  "-KO24TdD5_Yu9v3Sm-42": {
+    "timestamp": 1470004324.983295,
+    "msg": "163552/0/300"
+  },
+  "-KO243hlWmP1R0rfGC0z": {
+    "timestamp": 1470004218.779102,
+    "msg": "57345/287/37"
+  },
+  "-KO24N5h54tccvQ0KFfm": {
+    "timestamp": 1470004298.19882,
+    "msg": "136717/300/0"
+  },
+  "-KO24Gp1vC4kM8K64UYT": {
+    "coordTimestamp": 1470004272.000103,
+    "timestamp": 1470004272.49111,
+    "coord": [
+      -77.00845585073694,
+      38.91259509068058
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO247WUi5cjahh7ANWl": {
+    "timestamp": 1470004234.37695,
+    "msg": "72934/0/300"
+  },
+  "-KO23s2UReU9mU_uJzeF": {
+    "timestamp": 1470004166.920311,
+    "msg": "5493/300/176"
+  },
+  "-KO24PpdoNwGm9YIwkPC": {
+    "coordTimestamp": 1470004309.000103,
+    "timestamp": 1470004309.394239,
+    "coord": [
+      -77.0115089758292,
+      38.91259884439806
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24HufYLSThTGeZa2j": {
+    "timestamp": 1470004276.948695,
+    "msg": "115493/300/0"
+  },
+  "-KO24VuryPQR5n011kBc": {
+    "coordTimestamp": 1470004334.000103,
+    "timestamp": 1470004334.304749,
+    "coord": [
+      -77.0130207227885,
+      38.91261598452074
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24bVLov1ynkQ_GY5Z": {
+    "coordTimestamp": 1470004361.000103,
+    "timestamp": 1470004361.279143,
+    "coord": [
+      -77.01488670289109,
+      38.91260245137033
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24R96w5FO2swb6Ydv": {
+    "timestamp": 1470004314.800856,
+    "msg": "153351/140/300"
+  },
+  "-KO2418OjUKlaCOmbKWl": {
+    "timestamp": 1470004208.258602,
+    "msg": "46838/0/300"
+  },
+  "-KO249Y6GR6k8higQJHC": {
+    "timestamp": 1470004242.673033,
+    "msg": "81194/0/300"
+  },
+  "-KO24Ft0ajYjzCb5e7FV": {
+    "timestamp": 1470004268.650268,
+    "msg": "107053/0/300"
+  },
+  "-KO24voLdCcv-lq9uV1f": {
+    "coordTimestamp": 1470004444.000103,
+    "timestamp": 1470004444.479981,
+    "coord": [
+      -77.01913068704016,
+      38.9126085178499
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23yMPrF9kSs7wHTWQ": {
+    "timestamp": 1470004192.771404,
+    "msg": "31322/0/300"
+  },
+  "-KO23zWNmhgfXXvVJhHv": {
+    "timestamp": 1470004197.505916,
+    "msg": "36039/0/300"
+  },
+  "-KO24Qsu2UDmQR7T3cr6": {
+    "timestamp": 1470004313.699523,
+    "msg": "152273/135/300"
+  },
+  "-KO24lzrNPwtbUfuMHbT": {
+    "coordTimestamp": 1470004404.000103,
+    "timestamp": 1470004404.256357,
+    "coord": [
+      -77.017683824596,
+      38.91264131296325
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23tf2TAjFNOt7DK4p": {
+    "timestamp": 1470004173.549076,
+    "msg": "12073/31/28"
+  },
+  "-KO23tIHta-ieS-TQgP2": {
+    "timestamp": 1470004172.027789,
+    "msg": "10507/195/156"
+  },
+  "-KO24h8TK3kGlwcnoDtf": {
+    "coordTimestamp": 1470004384.000103,
+    "timestamp": 1470004384.39115,
+    "coord": [
+      -77.01643644541036,
+      38.91259254251417
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24LmDyatuzSMiKal8": {
+    "timestamp": 1470004292.79143,
+    "msg": "131297/0/300"
+  },
+  "-KO245pShs6CqbpJ0Q20": {
+    "timestamp": 1470004227.462407,
+    "msg": "66033/25/300"
+  },
+  "-KO24EvRpV5tnOziRE0W": {
+    "timestamp": 1470004264.709592,
+    "msg": "103237/0/300"
+  },
+  "-KO23vb89qwhggesHHzx": {
+    "timestamp": 1470004181.490172,
+    "msg": "20066/238/262"
+  },
+  "-KO24NiHnd_sYwj_QDvH": {
+    "timestamp": 1470004300.731246,
+    "msg": "139301/300/175"
+  },
+  "-KO24LfJJq5yIsRaTjsb": {
+    "timestamp": 1470004292.350011,
+    "msg": "130800/0/300"
+  },
+  "-KO23s6hsAUyPPnzHaEi": {
+    "timestamp": 1470004167.19095,
+    "msg": "5752/300/175"
+  },
+  "-KO24T5MUC9uDtB6Kv8r": {
+    "timestamp": 1470004322.752288,
+    "msg": "161290/0/300"
+  },
+  "-KO23ulExHgqmwY01GpU": {
+    "timestamp": 1470004178.041032,
+    "msg": "16563/300/296"
+  },
+  "-KO244NPKKD--S1EKQmT": {
+    "timestamp": 1470004221.507688,
+    "msg": "60083/5/300"
+  },
+  "-KO23wIUa5eNk3F9jQDo": {
+    "timestamp": 1470004184.328134,
+    "msg": "22885/296/291"
+  },
+  "-KO24nSwUvR23J6Po_Hm": {
+    "coordTimestamp": 1470004410.000103,
+    "timestamp": 1470004410.278078,
+    "coord": [
+      -77.0180553943636,
+      38.91263083558428
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO245YIMvBT3Y_rUaYT": {
+    "timestamp": 1470004226.300424,
+    "msg": "64851/0/300"
+  },
+  "-KO24UMWvtzKpxyYQup7": {
+    "timestamp": 1470004327.947055,
+    "msg": "166483/0/300"
+  },
+  "-KO24IbhcJIsGOvoypT-": {
+    "timestamp": 1470004279.830424,
+    "msg": "118405/0/300"
+  },
+  "-KO249evihGQ9GNuhK29": {
+    "timestamp": 1470004243.172481,
+    "msg": "81729/300/144"
+  },
+  "-KO23tXjkN4tGtVH1XvD": {
+    "timestamp": 1470004173.016374,
+    "msg": "11574/32/128"
+  },
+  "-KO244Pkf8FpPPPnfLbR": {
+    "timestamp": 1470004221.657529,
+    "msg": "60238/3/300"
+  },
+  "-KO24ZLVhIWqnvq5XoVB": {
+    "coordTimestamp": 1470004348.000103,
+    "timestamp": 1470004348.362153,
+    "coord": [
+      -77.01397089294811,
+      38.91263368543136
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO2466nT9nV9RUpQNvF": {
+    "timestamp": 1470004228.637028,
+    "msg": "67186/30/300"
+  },
+  "-KO249B2lHzYk87J0e8P": {
+    "coordTimestamp": 1470004241.000103,
+    "timestamp": 1470004241.196151,
+    "coord": [
+      -77.0064311195882,
+      38.91251604542035
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24M9oPYiKj1KFddXi": {
+    "coordTimestamp": 1470004294.000102,
+    "timestamp": 1470004294.365363,
+    "coord": [
+      -77.01018412910344,
+      38.91259814022574
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23sdWHPeNrGbfAI4O": {
+    "coordTimestamp": 1470004169.000102,
+    "timestamp": 1470004169.354712,
+    "coord": [
+      -77.00705858885964,
+      38.9114519209032
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO23pwGAGE_bug169ls": {
+    "coordTimestamp": 1470004158.000053,
+    "timestamp": 1470004158.266985,
+    "coord": [
+      -77.00705775066932,
+      38.91146482903409
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO24QHzx55G-QUmZQNs": {
+    "timestamp": 1470004311.273048,
+    "msg": "149834/300/188"
+  },
+  "-KO24Qj9C9r3Ef-HrLGt": {
+    "timestamp": 1470004313.07601,
+    "msg": "151633/88/300"
+  },
+  "-KO24R1BS0a5iFNfRnIR": {
+    "coordTimestamp": 1470004314.000103,
+    "timestamp": 1470004314.293793,
+    "coord": [
+      -77.01196264421014,
+      38.91260976365384
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24RTkRZtiCGSgxVQ1": {
+    "timestamp": 1470004316.121984,
+    "msg": "154682/230/300"
+  },
+  "-KO24AMDbGdptX7neos0": {
+    "timestamp": 1470004246.007197,
+    "msg": "84284/257/287"
+  },
+  "-KO24HgPUkEuW-4IEb0Y": {
+    "timestamp": 1470004276.035856,
+    "msg": "114558/67/300"
+  },
+  "-KO240VRtanp1Dhe9Qbf": {
+    "timestamp": 1470004205.63782,
+    "msg": "44170/238/300"
+  },
+  "-KO23rwrEYz6CoCT6aQd": {
+    "timestamp": 1470004166.49659,
+    "msg": "5074/300/177"
+  },
+  "-KO23tk1Fma0wSMIbdT0": {
+    "timestamp": 1470004173.868172,
+    "msg": "12442/35/32"
+  },
+  "-KO23x3EsCoYmhdSLsus": {
+    "timestamp": 1470004187.44877,
+    "msg": "26002/300/114"
+  },
+  "-KO24Nww3CPwK6hY0-GZ": {
+    "timestamp": 1470004301.670085,
+    "msg": "140213/0/266"
+  },
+  "-KO241dH4pRy1vbZQExU": {
+    "timestamp": 1470004210.299169,
+    "msg": "48883/0/300"
+  },
+  "-KO243NNaKlCPcB9APeJ": {
+    "timestamp": 1470004217.409254,
+    "msg": "55992/300/11"
+  },
+  "-KO249dewjcqfH7jEhx5": {
+    "timestamp": 1470004243.091752,
+    "msg": "81644/0/300"
+  },
+  "-KO23zsUZTY0UAosf8XR": {
+    "timestamp": 1470004198.984284,
+    "msg": "37512/300/59"
+  },
+  "-KO24PzcN_ViAHHDQjDB": {
+    "timestamp": 1470004310.033303,
+    "msg": "148597/0/300"
+  },
+  "-KO24-oDlUIPPXurmyOD": {
+    "timestamp": 1470004202.808047,
+    "msg": "41377/300/182"
+  },
+  "-KO24584cpjRyflnt0gK": {
+    "timestamp": 1470004224.622422,
+    "msg": "63205/4/300"
+  },
+  "-KO24KRYEEray3zKsysp": {
+    "timestamp": 1470004287.30872,
+    "msg": "125861/300/256"
+  },
+  "-KO24Mnl4ir_vY60Y-35": {
+    "timestamp": 1470004296.986228,
+    "msg": "135498/0/300"
+  },
+  "-KO24D15axMsy9MmCCuy": {
+    "timestamp": 1470004256.943152,
+    "msg": "95139/0/300"
+  },
+  "-KO24ODY_oIwstsLhUby": {
+    "timestamp": 1470004302.79709,
+    "msg": "141329/300/152"
+  },
+  "-KO24LG0TQsz107pg0-e": {
+    "timestamp": 1470004290.666555,
+    "msg": "129187/0/300"
+  },
+  "-KO24IJ3_GLWNvGM_0Uj": {
+    "timestamp": 1470004278.573803,
+    "msg": "117144/0/300"
+  },
+  "-KO24K2GRNHSr1M52pQ5": {
+    "timestamp": 1470004285.691207,
+    "msg": "124197/300/139"
+  },
+  "-KO24UvX-sdZmXdgjbTd": {
+    "timestamp": 1470004330.251368,
+    "msg": "168788/300/137"
+  },
+  "-KO23x-m4tPczNCnZSs3": {
+    "timestamp": 1470004187.227652,
+    "msg": "25767/0/300"
+  },
+  "-KO24XNOvrgZm-iDkSW4": {
+    "timestamp": 1470004340.290469,
+    "msg": "178807/0/300"
+  },
+  "-KO23qfBGRDLExy5d2CK": {
+    "coordTimestamp": 1470004161.00003,
+    "timestamp": 1470004161.2698,
+    "coord": [
+      -77.00705775066932,
+      38.91146482903409
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO24HIVBfZL2vTLw9xI": {
+    "coordTimestamp": 1470004274.000103,
+    "timestamp": 1470004274.442061,
+    "coord": [
+      -77.00853253991227,
+      38.91259569192759
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO245sCHOhW7o7Xe4U9": {
+    "timestamp": 1470004227.639082,
+    "msg": "66207/27/300"
+  },
+  "-KO24nhQhT5qiYrkniFC": {
+    "coordTimestamp": 1470004411.000103,
+    "timestamp": 1470004411.269069,
+    "coord": [
+      -77.0181195997419,
+      38.91263519417393
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24Y6Ei0-Zkl0f-v0I": {
+    "coordTimestamp": 1470004343.000103,
+    "timestamp": 1470004343.288217,
+    "coord": [
+      -77.01358312907679,
+      38.91279662049147
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24PXvebQOkeHlmQI6": {
+    "timestamp": 1470004308.196342,
+    "msg": "146764/0/300"
+  },
+  "-KO23xjdFkAs0mWTlr-n": {
+    "timestamp": 1470004190.226451,
+    "msg": "28755/0/300"
+  },
+  "-KO24KUl-Y5WChnonSM9": {
+    "timestamp": 1470004287.51418,
+    "msg": "125947/300/204"
+  },
+  "-KO243_1RtSa7l05h3wG": {
+    "timestamp": 1470004218.219943,
+    "msg": "56807/300/15"
+  },
+  "-KO23tJ_zuC-PhZx0fXM": {
+    "timestamp": 1470004172.110491,
+    "msg": "10664/215/160"
+  },
+  "-KO23wJ_Deayvib2T5MM": {
+    "timestamp": 1470004184.398871,
+    "msg": "22976/300/295"
+  },
+  "-KO241u9_9idfQmIZ5PZ": {
+    "timestamp": 1470004211.379266,
+    "msg": "49965/0/300"
+  },
+  "-KO23y9bqSix6wnUvRMz": {
+    "timestamp": 1470004191.952952,
+    "msg": "30468/0/300"
+  },
+  "-KO23sQ1oz-EAdn94TJY": {
+    "timestamp": 1470004168.42733,
+    "msg": "6982/300/193"
+  },
+  "-KO24TsVXDjc1XuJCEZx": {
+    "timestamp": 1470004325.961441,
+    "msg": "164533/0/300"
+  },
+  "-KO244OxVWlc0JHyDJfk": {
+    "timestamp": 1470004221.606918,
+    "msg": "60188/4/300"
+  },
+  "-KO23upvADoGjAEu_LSZ": {
+    "timestamp": 1470004178.340561,
+    "msg": "16903/300/237"
+  },
+  "-KO23sxVJ_VUXSrBCnjO": {
+    "timestamp": 1470004170.634089,
+    "msg": "9195/227/175"
+  },
+  "-KO23wH1wcf4oCe8Kr5G": {
+    "timestamp": 1470004184.235519,
+    "msg": "22794/297/285"
+  },
+  "-KO24MEbDlpO_f1lfwen": {
+    "timestamp": 1470004294.673215,
+    "msg": "133248/0/81"
+  },
+  "-KO23veXTjcHbX-f-rL4": {
+    "timestamp": 1470004181.707877,
+    "msg": "20279/300/243"
+  },
+  "-KO24ioUEDEi_PV6wmem": {
+    "coordTimestamp": 1470004391.000103,
+    "timestamp": 1470004391.240408,
+    "coord": [
+      -77.0169033855917,
+      38.91266080088812
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24808KFqOFP_Qe4RV": {
+    "timestamp": 1470004236.402508,
+    "msg": "74926/0/300"
+  },
+  "-KO24NXqb6u37v0vit79": {
+    "timestamp": 1470004299.999167,
+    "msg": "138555/0/300"
+  },
+  "-KO24SisyJyHJwyTr3f3": {
+    "coordTimestamp": 1470004321.000103,
+    "timestamp": 1470004321.249889,
+    "coord": [
+      -77.0121450586521,
+      38.91261558657686
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24Uu-HS-qnimjfJjm": {
+    "timestamp": 1470004330.153497,
+    "msg": "168704/300/96"
+  },
+  "-KO24oCg7sSV5DxG86nH": {
+    "coordTimestamp": 1470004413.000103,
+    "timestamp": 1470004413.333599,
+    "coord": [
+      -77.01826988726576,
+      38.91263938512552
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24IyQ7-DxgzkTm55m": {
+    "coordTimestamp": 1470004281.000103,
+    "timestamp": 1470004281.285007,
+    "coord": [
+      -77.00898921972112,
+      38.91260099156309
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO244a3NolUNW1EVpSA": {
+    "timestamp": 1470004222.382026,
+    "msg": "60964/0/300"
+  },
+  "-KO24WfA2hKJEk1q_yDf": {
+    "coordTimestamp": 1470004337.000103,
+    "timestamp": 1470004337.396929,
+    "coord": [
+      -77.01321107842887,
+      38.91261640284587
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24fdmL7bWxeDLnMLx": {
+    "coordTimestamp": 1470004378.000103,
+    "timestamp": 1470004378.267332,
+    "coord": [
+      -77.01600565422268,
+      38.91259472993237
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24AGTl0bqit7Chnqi": {
+    "timestamp": 1470004245.639685,
+    "msg": "84211/0/300"
+  },
+  "-KO24IWT1HcJRNCh_Gzp": {
+    "coordTimestamp": 1470004279.000103,
+    "timestamp": 1470004279.431398,
+    "coord": [
+      -77.00897738388448,
+      38.91260099156309
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24MWnjUE-DoBejdrF": {
+    "timestamp": 1470004295.836877,
+    "msg": "134367/0/300"
+  },
+  "-KO24SynjxsG2Ocy06R1": {
+    "timestamp": 1470004322.268593,
+    "msg": "160766/0/300"
+  },
+  "-KO23pRB6iAAT6qTS8xu": {
+    "coordTimestamp": 1470004156.208461,
+    "timestamp": 1470004156.213942,
+    "coord": [
+      -77.0072109718593,
+      38.91164742879468
+    ],
+    "horizontalAccuracy": 30
+  },
+  "-KO24Ypj5INEWEKjINva": {
+    "coordTimestamp": 1470004346.000103,
+    "timestamp": 1470004346.264617,
+    "coord": [
+      -77.0138416440012,
+      38.91264868903804
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24WHYBzw2ytaaCfsD": {
+    "timestamp": 1470004335.820748,
+    "msg": "174267/0/300"
+  },
+  "-KO24djQIbPvPBAuxtC6": {
+    "coordTimestamp": 1470004370.000103,
+    "timestamp": 1470004370.436299,
+    "coord": [
+      -77.01545706651814,
+      38.91259617241566
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23wEF2VDOqEVVFZ1X": {
+    "timestamp": 1470004184.057628,
+    "msg": "22606/298/286"
+  },
+  "-KO24M6wrDhN2BFU-NoC": {
+    "timestamp": 1470004294.181322,
+    "msg": "132198/201/300"
+  },
+  "-KO24NMJa_HnGxFw355d": {
+    "timestamp": 1470004299.261796,
+    "msg": "137757/0/300"
+  },
+  "-KO23tiF7YlwZtKObK3V": {
+    "timestamp": 1470004173.753277,
+    "msg": "12307/32/32"
+  },
+  "-KO23sMSosLvgNSrlSMh": {
+    "timestamp": 1470004168.199136,
+    "msg": "6749/300/176"
+  },
+  "-KO24NriK-jv-tX0-ATb": {
+    "timestamp": 1470004301.336039,
+    "msg": "139899/0/300"
+  },
+  "-KO23syZPEoFpiFaWqqY": {
+    "timestamp": 1470004170.701775,
+    "msg": "9271/227/175"
+  },
+  "-KO2457JVQZ-aahh9ZYA": {
+    "timestamp": 1470004224.573993,
+    "msg": "63120/0/300"
+  },
+  "-KO2435YwgoaHqNU4xgC": {
+    "coordTimestamp": 1470004216.000103,
+    "timestamp": 1470004216.268843,
+    "coord": [
+      -77.00641703799087,
+      38.91241382811117
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23uobM0OaUKwmz53k": {
+    "timestamp": 1470004178.256726,
+    "msg": "16815/300/268"
+  },
+  "-KO24H3BnKD2GghHxb06": {
+    "coordTimestamp": 1470004273.000103,
+    "timestamp": 1470004273.461232,
+    "coord": [
+      -77.0085280942294,
+      38.91259565727946
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24KLyA1QcN8pe14vc": {
+    "timestamp": 1470004286.951891,
+    "msg": "125507/0/171"
+  },
+  "-KO243W1SJOdJ1iLPsRu": {
+    "timestamp": 1470004217.963602,
+    "msg": "56539/300/7"
+  },
+  "-KO24W90Ix_E3WSAdauh": {
+    "coordTimestamp": 1470004335.000103,
+    "timestamp": 1470004335.274414,
+    "coord": [
+      -77.01307560690111,
+      38.91261610527964
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24Om4kXnCi9GYE9xM": {
+    "timestamp": 1470004305.071014,
+    "msg": "143627/300/202"
+  },
+  "-KO23tB_JvAuqCbB8gCy": {
+    "timestamp": 1470004171.598997,
+    "msg": "10154/211/186"
+  },
+  "-KO246F6AEXHjbRHbSMH": {
+    "timestamp": 1470004229.168667,
+    "msg": "67743/0/300"
+  },
+  "-KO24AfgQR2UK9mJwDZj": {
+    "timestamp": 1470004247.318039,
+    "msg": "85847/0/300"
+  },
+  "-KO241bh1OkKzziSoOuc": {
+    "timestamp": 1470004210.198688,
+    "msg": "48735/0/300"
+  },
+  "-KO242_gJNCmU4u0q9kf": {
+    "coordTimestamp": 1470004214.000103,
+    "timestamp": 1470004214.165152,
+    "coord": [
+      -77.00643262833077,
+      38.91240641012686
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO248is3KVm8tGhvQoh": {
+    "timestamp": 1470004239.329809,
+    "msg": "77878/0/300"
+  },
+  "-KO24FKpPQgTHAP0btkK": {
+    "timestamp": 1470004266.399017,
+    "msg": "104957/184/300"
+  },
+  "-KO23zbfjUxXPzox_NcK": {
+    "timestamp": 1470004197.908857,
+    "msg": "36448/0/300"
+  },
+  "-KO24Q4iGK3MOPUZTeho": {
+    "coordTimestamp": 1470004310.000102,
+    "timestamp": 1470004310.424412,
+    "coord": [
+      -77.01160302913195,
+      38.91259889433213
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24JwT0cutQKjRh3Xu": {
+    "timestamp": 1470004285.255518,
+    "msg": "123812/300/191"
+  },
+  "-KO24EaIbi1WP3t5lKUd": {
+    "coordTimestamp": 1470004263.000102,
+    "timestamp": 1470004263.357052,
+    "coord": [
+      -77.00790142058395,
+      38.91259074488742
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23taz__CH8a4L1yrF": {
+    "timestamp": 1470004173.288956,
+    "msg": "11841/31/26"
+  },
+  "-KO24Tn9CabnNpNSnqvC": {
+    "timestamp": 1470004325.619679,
+    "msg": "164162/0/300"
+  },
+  "-KO23tRJn7Rnbp5pKt65": {
+    "timestamp": 1470004172.606012,
+    "msg": "11150/29/208"
+  },
+  "-KO24LCPKiicmXTpMyw6": {
+    "timestamp": 1470004290.435383,
+    "msg": "128981/0/300"
+  },
+  "-KO24FJY7JMJ5YNyAaPE": {
+    "timestamp": 1470004266.316837,
+    "msg": "104864/300/151"
+  },
+  "-KO23vnHBL2KkMmyOc9o": {
+    "timestamp": 1470004182.268003,
+    "msg": "20845/300/165"
+  },
+  "-KO24htY3TD06hpRyLVn": {
+    "coordTimestamp": 1470004387.000103,
+    "timestamp": 1470004387.468209,
+    "coord": [
+      -77.0166290459009,
+      38.91262086111951
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23t92mWdvdf9wA_jT": {
+    "timestamp": 1470004171.436537,
+    "msg": "9998/232/184"
+  },
+  "-KO24SZ10Zst5apSNR1b": {
+    "timestamp": 1470004320.555735,
+    "msg": "159118/276/300"
+  },
+  "-KO23s0HPx2Y7M5vT5-3": {
+    "timestamp": 1470004166.780583,
+    "msg": "5322/300/175"
+  },
+  "-KO24MTbJEa5NcJng5OQ": {
+    "timestamp": 1470004295.632645,
+    "msg": "134167/0/300"
+  },
+  "-KO24RzWm2kOr8ZfYyz1": {
+    "timestamp": 1470004318.218319,
+    "msg": "156741/0/231"
+  },
+  "-KO24Ya-tTMseUdtWkpu": {
+    "coordTimestamp": 1470004345.000102,
+    "timestamp": 1470004345.257828,
+    "coord": [
+      -77.01377282857617,
+      38.91265619084137
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24-Ip2f4eZ-hqGbrQ": {
+    "timestamp": 1470004200.734394,
+    "msg": "39283/0/300"
+  },
+  "-KO24Uh1DnRVC3p_i77H": {
+    "coordTimestamp": 1470004329.000103,
+    "timestamp": 1470004329.323978,
+    "coord": [
+      -77.01253227311099,
+      38.91261975301352
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO243OA-7REaRQeDvsd": {
+    "timestamp": 1470004217.460359,
+    "msg": "56041/300/8"
+  },
+  "-KO244604pexsFC2-7-S": {
+    "timestamp": 1470004220.394174,
+    "msg": "58953/0/300"
+  },
+  "-KO24LW1h1yAaV_zOAMB": {
+    "timestamp": 1470004291.691793,
+    "msg": "130257/300/167"
+  },
+  "-KO24IHDs5Cf_Nl8IxDE": {
+    "coordTimestamp": 1470004278.000103,
+    "timestamp": 1470004278.456018,
+    "coord": [
+      -77.00893563644058,
+      38.91260099156309
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO2468DhqYG6xRF1aS2": {
+    "timestamp": 1470004228.728119,
+    "msg": "67255/30/62"
+  },
+  "-KO246fV6m1-LhLKYu2S": {
+    "timestamp": 1470004230.922044,
+    "msg": "69451/0/300"
+  },
+  "-KO24UjDfIAhmJmYsvlk": {
+    "timestamp": 1470004329.463454,
+    "msg": "168031/0/300"
+  },
+  "-KO24FDoXJZyBMjCMbKG": {
+    "timestamp": 1470004265.949778,
+    "msg": "104467/0/300"
+  },
+  "-KO23y4B0yolBocWT3Vy": {
+    "timestamp": 1470004191.605367,
+    "msg": "30089/0/300"
+  },
+  "-KO23tlrc8NVUodceHgC": {
+    "timestamp": 1470004173.984688,
+    "msg": "12557/39/31"
+  },
+  "-KO24HXarFTpuMUKwGUB": {
+    "coordTimestamp": 1470004275.000103,
+    "timestamp": 1470004275.407461,
+    "coord": [
+      -77.0085405086138,
+      38.91259575459995
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24QwQGMcIsJQFVauU": {
+    "timestamp": 1470004313.924677,
+    "msg": "152487/116/300"
+  },
+  "-KO23srGyMWDD81lDS5_": {
+    "timestamp": 1470004170.23444,
+    "msg": "8798/218/158"
+  },
+  "-KO24U9jUcVIGrFYd6WW": {
+    "timestamp": 1470004327.128733,
+    "msg": "165616/0/300"
+  },
+  "-KO23ruTLmkBxG4QADd5": {
+    "coordTimestamp": 1470004166.000103,
+    "timestamp": 1470004166.343143,
+    "coord": [
+      -77.00705858885964,
+      38.9114519209032
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO23tMknGmZdP9iJHdj": {
+    "timestamp": 1470004172.313835,
+    "msg": "10878/34/81"
+  },
+  "-KO24XcoCuNlZcLg2DR-": {
+    "timestamp": 1470004341.34175,
+    "msg": "179891/0/300"
+  },
+  "-KO245AekXruQbWI36RO": {
+    "timestamp": 1470004224.787253,
+    "msg": "63373/4/300"
+  },
+  "-KO245-TP6Ly1hCEa17j": {
+    "timestamp": 1470004224.071451,
+    "msg": "62607/0/300"
+  },
+  "-KO24OrqSYWyXNt8cpqi": {
+    "coordTimestamp": 1470004305.000103,
+    "timestamp": 1470004305.439288,
+    "coord": [
+      -77.0111447171439,
+      38.91259865077615
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24R6dBG40gzwJmmHw": {
+    "timestamp": 1470004314.642152,
+    "msg": "153202/100/300"
+  },
+  "-KO24XTIl7q9pFOXzus1": {
+    "timestamp": 1470004340.668557,
+    "msg": "179195/0/300"
+  },
+  "-KO24C4d2oBdlNuC2QYo": {
+    "timestamp": 1470004253.074288,
+    "msg": "91411/0/300"
+  },
+  "-KO24U0qy55xrY85RW6j": {
+    "timestamp": 1470004326.559236,
+    "msg": "165111/0/300"
+  },
+  "-KO24SE7ytRs4oCYkPTg": {
+    "timestamp": 1470004319.217244,
+    "msg": "157781/0/300"
+  },
+  "-KO23wA-x6JtqtOO39ir": {
+    "timestamp": 1470004183.786038,
+    "msg": "22327/286/144"
+  },
+  "-KO23v94mDKEezwzH-zy": {
+    "timestamp": 1470004179.630926,
+    "msg": "17930/217/138"
+  },
+  "-KO245kiUkspPngBABVj": {
+    "timestamp": 1470004227.159876,
+    "msg": "65740/27/300"
+  },
+  "-KO24543sH3ObvHaJFhi": {
+    "timestamp": 1470004224.365666,
+    "msg": "62945/6/300"
+  },
+  "-KO24Lpw1J3YgoDUnPBS": {
+    "timestamp": 1470004293.029533,
+    "msg": "131543/0/300"
+  },
+  "-KO24JBaiPghxZTJ3oPz": {
+    "timestamp": 1470004282.192028,
+    "msg": "120743/0/300"
+  },
+  "-KO24NzDaQIKTVFDLWPj": {
+    "timestamp": 1470004301.816105,
+    "msg": "140352/0/300"
+  },
+  "-KO24SXjen460p_sgRmc": {
+    "timestamp": 1470004320.472857,
+    "msg": "159007/0/300"
+  },
+  "-KO246RURT88tI5H3Cjk": {
+    "timestamp": 1470004229.960996,
+    "msg": "68452/0/300"
+  },
+  "-KO24Js3jRVXgXKt1jhl": {
+    "timestamp": 1470004284.974413,
+    "msg": "123541/0/150"
+  },
+  "-KO24V4YHgRtU9FarA2L": {
+    "timestamp": 1470004330.892264,
+    "msg": "169432/300/129"
+  },
+  "-KO24TFX15OhXpfmXSIJ": {
+    "timestamp": 1470004323.403451,
+    "msg": "161977/0/114"
+  },
+  "-KO23tYeZqqPl0WC54H3": {
+    "timestamp": 1470004173.075971,
+    "msg": "11635/32/35"
+  },
+  "-KO247Iq36nLRAUTRFDN": {
+    "timestamp": 1470004233.503656,
+    "msg": "72052/0/300"
+  },
+  "-KO24Xr2hHv6yNiWPwrc": {
+    "coordTimestamp": 1470004342.000103,
+    "timestamp": 1470004342.252152,
+    "coord": [
+      -77.01354366734346,
+      38.91263138040799
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24XQtJ7FMbXCbuKbm": {
+    "timestamp": 1470004340.515053,
+    "msg": "178971/0/300"
+  },
+  "-KO244ntYUV_sx_BIdcC": {
+    "timestamp": 1470004223.266928,
+    "msg": "61821/0/300"
+  },
+  "-KO24QxL84sjekEdlKGk": {
+    "timestamp": 1470004313.983512,
+    "msg": "152561/136/300"
+  },
+  "-KO24Ai0a9hZtB3wIWbz": {
+    "coordTimestamp": 1470004247.000103,
+    "timestamp": 1470004247.466159,
+    "coord": [
+      -77.00662281371375,
+      38.91264713838595
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24WOohgdt3Phd9K2j": {
+    "coordTimestamp": 1470004336.000104,
+    "timestamp": 1470004336.285764,
+    "coord": [
+      -77.01315352274833,
+      38.91261627648213
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23zZHb6nEroy5zhGS": {
+    "timestamp": 1470004197.691787,
+    "msg": "36190/0/300"
+  },
+  "-KO23s3iNaAL6b1i4iLG": {
+    "timestamp": 1470004167.000029,
+    "msg": "5562/300/175"
+  },
+  "-KO24RRvHxS6MblEBpbl": {
+    "timestamp": 1470004316.004608,
+    "msg": "154550/274/300"
+  },
+  "-KO23zCqAAmDHYDiKFxR": {
+    "coordTimestamp": 1470004196.000103,
+    "timestamp": 1470004196.255895,
+    "coord": [
+      -77.00645710348803,
+      38.91181867107647
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO24eetRl9EhgRXMTxh": {
+    "coordTimestamp": 1470004374.000103,
+    "timestamp": 1470004374.242269,
+    "coord": [
+      -77.01569264841964,
+      38.91259477324254
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24HbefQc-Efk4sYRu": {
+    "timestamp": 1470004275.731842,
+    "msg": "114053/300/126"
+  },
+  "-KO24KP1P6Os0nl4AOzk": {
+    "timestamp": 1470004287.147435,
+    "msg": "125722/300/98"
+  },
+  "-KO249o0T3LpJqBKgatv": {
+    "timestamp": 1470004243.754726,
+    "msg": "82042/148/300"
+  },
+  "-KO246Be8lGyu4OFe48f": {
+    "timestamp": 1470004228.947893,
+    "msg": "67520/0/300"
+  },
+  "-KO24gA_ow7tme6kW1kL": {
+    "coordTimestamp": 1470004380.000103,
+    "timestamp": 1470004380.430835,
+    "coord": [
+      -77.01614463796432,
+      38.91259472993237
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24DadJ19yMoCgiXZL": {
+    "timestamp": 1470004259.282822,
+    "msg": "97411/300/256"
+  },
+  "-KO24RsudgNyOquD0RFO": {
+    "timestamp": 1470004317.795993,
+    "msg": "156360/300/134"
+  },
+  "-KO23zpeefTV9pRgfclm": {
+    "timestamp": 1470004198.803704,
+    "msg": "37352/300/236"
+  },
+  "-KO24DFd-nVHZG8jNLyL": {
+    "timestamp": 1470004257.874936,
+    "msg": "96374/0/300"
+  },
+  "-KO24kLNGsgvAgdvS5vP": {
+    "coordTimestamp": 1470004397.000103,
+    "timestamp": 1470004397.505755,
+    "coord": [
+      -77.01724519960304,
+      38.91264554582435
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO244FspH9B-4HmtJM-": {
+    "timestamp": 1470004221.02529,
+    "msg": "59574/0/300"
+  },
+  "-KO2474Y2CdKVYCNsE5a": {
+    "timestamp": 1470004232.588295,
+    "msg": "71166/300/0"
+  },
+  "-KO248hZKaayU4nfXcdx": {
+    "coordTimestamp": 1470004239.000103,
+    "timestamp": 1470004239.245624,
+    "coord": [
+      -77.00643262833077,
+      38.91246520917761
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO2481xSa7ySjTQNq2E": {
+    "timestamp": 1470004236.518356,
+    "msg": "75086/0/300"
+  },
+  "-KO23sJV0eUBBpHz8mhI": {
+    "timestamp": 1470004168.010034,
+    "msg": "6555/300/175"
+  },
+  "-KO24B-tV9-QTYR2CHeg": {
+    "timestamp": 1470004248.674641,
+    "msg": "87207/0/300"
+  },
+  "-KO243V9qi69j88LVoDs": {
+    "timestamp": 1470004217.907728,
+    "msg": "56488/300/6"
+  },
+  "-KO24BQZn34TaLS0rzVJ": {
+    "coordTimestamp": 1470004250.000103,
+    "timestamp": 1470004250.38139,
+    "coord": [
+      -77.00680922724028,
+      38.91263972040164
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24A5KggbJPaLwtEdy": {
+    "timestamp": 1470004244.927129,
+    "msg": "83505/300/175"
+  },
+  "-KO249b_HHUOMI42hdnU": {
+    "timestamp": 1470004242.958865,
+    "msg": "81501/300/108"
+  },
+  "-KO240KGtbjIYEo6pZZg": {
+    "timestamp": 1470004204.922895,
+    "msg": "43481/293/300"
+  },
+  "-KO23zy3rg1uQYuKBwPk": {
+    "timestamp": 1470004199.341186,
+    "msg": "37851/0/300"
+  },
+  "-KO244K23oYWAeRmRNuM": {
+    "timestamp": 1470004221.292233,
+    "msg": "59862/6/300"
+  },
+  "-KO23suvz3OpEwuD8F0L": {
+    "timestamp": 1470004170.468822,
+    "msg": "9024/228/170"
+  },
+  "-KO24NCLqYXVvB3trtd0": {
+    "timestamp": 1470004298.624072,
+    "msg": "137162/0/300"
+  },
+  "-KO24QiFSRP7ep3uaEsz": {
+    "coordTimestamp": 1470004312.996948,
+    "timestamp": 1470004313.01766,
+    "coord": [
+      -77.01162023233337,
+      38.9125989035037
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24BXxzmZuAZQJZ-ZW": {
+    "timestamp": 1470004250.85532,
+    "msg": "89418/0/300"
+  },
+  "-KO24DO22mXda_lhSLDO": {
+    "coordTimestamp": 1470004258.000103,
+    "timestamp": 1470004258.412232,
+    "coord": [
+      -77.00749872579763,
+      38.91258758834033
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO241UAnzvWg1WAXXo0": {
+    "timestamp": 1470004209.65231,
+    "msg": "48180/0/300"
+  },
+  "-KO24GGlUdorWqBxv1P2": {
+    "timestamp": 1470004270.23508,
+    "msg": "108773/0/300"
+  },
+  "-KO23u6BkIPU9Bid0g6g": {
+    "coordTimestamp": 1470004175.000102,
+    "timestamp": 1470004175.349707,
+    "coord": [
+      -77.00700611814578,
+      38.91148180238801
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO24S1viGJfCrTQH6iU": {
+    "timestamp": 1470004318.436491,
+    "msg": "156864/256/300"
+  },
+  "-KO24FUUuN1E8JxRVclC": {
+    "timestamp": 1470004267.016936,
+    "msg": "105518/300/277"
+  },
+  "-KO24TxlA7gePLUSDfDm": {
+    "coordTimestamp": 1470004326.000103,
+    "timestamp": 1470004326.298729,
+    "coord": [
+      -77.01250985905062,
+      38.9126195125148
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24A8W8pG98g0oMZD_": {
+    "timestamp": 1470004245.130168,
+    "msg": "83705/0/300"
+  },
+  "-KO244KDZntt-T6YiFsV": {
+    "coordTimestamp": 1470004221.000103,
+    "timestamp": 1470004221.303709,
+    "coord": [
+      -77.00640630915481,
+      38.91241227745908
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24jp7o4WegCaqYu5W": {
+    "coordTimestamp": 1470004395.000103,
+    "timestamp": 1470004395.377099,
+    "coord": [
+      -77.01712718240638,
+      38.91264738984304
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24G3rcmJa6DHmxhKB": {
+    "timestamp": 1470004269.408764,
+    "msg": "107914/300/0"
+  },
+  "-KO244Xmz1YJGBp9wQfg": {
+    "timestamp": 1470004222.172159,
+    "msg": "60713/9/300"
+  },
+  "-KO23smxGpsSI_AyhRPc": {
+    "timestamp": 1470004169.95875,
+    "msg": "8506/214/105"
+  },
+  "-KO24WbplEE5-Sw73Nkz": {
+    "timestamp": 1470004337.182767,
+    "msg": "175707/0/300"
+  },
+  "-KO24BDM2ZmTdvO4rZSX": {
+    "timestamp": 1470004249.536179,
+    "msg": "87997/300/217"
+  },
+  "-KO246VDSZCbujDFxRgl": {
+    "coordTimestamp": 1470004230.000103,
+    "timestamp": 1470004230.199953,
+    "coord": [
+      -77.00640630915481,
+      38.91241227745908
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23vW0ismohr4j-sN2": {
+    "timestamp": 1470004181.098288,
+    "msg": "19656/300/241"
+  },
+  "-KO24ZpLY2yhpqN56cMR": {
+    "coordTimestamp": 1470004350.000103,
+    "timestamp": 1470004350.335368,
+    "coord": [
+      -77.01412252157648,
+      38.91263179950315
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23sKyBaDjZMCGF1IC": {
+    "timestamp": 1470004168.10395,
+    "msg": "6652/300/176"
+  },
+  "-KO23wFqnWEuk-PuzxSs": {
+    "coordTimestamp": 1470004184.000103,
+    "timestamp": 1470004184.159164,
+    "coord": [
+      -77.00674351311942,
+      38.91162090007114
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23t5yvgIGU1XSXDzg": {
+    "coordTimestamp": 1470004171.000103,
+    "timestamp": 1470004171.239675,
+    "coord": [
+      -77.00705858885964,
+      38.9114519209032
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO249iN0fcUjwgzndMI": {
+    "coordTimestamp": 1470004243.000103,
+    "timestamp": 1470004243.393767,
+    "coord": [
+      -77.00643874712009,
+      38.91257865823704
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24-ua-6Wh8uLYSTaN": {
+    "timestamp": 1470004203.215377,
+    "msg": "41748/300/174"
+  },
+  "-KO24O8SuS-WfGrjfBZV": {
+    "timestamp": 1470004302.470929,
+    "msg": "141028/300/173"
+  },
+  "-KO2418dDeVLHk1f_klu": {
+    "coordTimestamp": 1470004208.000103,
+    "timestamp": 1470004208.274468,
+    "coord": [
+      -77.00647009543795,
+      38.91225012954223
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO24iO3caBePNFrh9Xk": {
+    "coordTimestamp": 1470004389.000103,
+    "timestamp": 1470004389.485528,
+    "coord": [
+      -77.01681579470356,
+      38.91267789997059
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23woIAxWqn1pZlcLZ": {
+    "timestamp": 1470004186.428802,
+    "msg": "24979/300/137"
+  },
+  "-KO245qJGHB_PH5inkfw": {
+    "timestamp": 1470004227.517621,
+    "msg": "66094/26/300"
+  },
+  "-KO241ZaJ5TCzAOPuZC3": {
+    "timestamp": 1470004209.999642,
+    "msg": "48574/0/300"
+  },
+  "-KO2414AEsV0wiJdISpb": {
+    "timestamp": 1470004207.988347,
+    "msg": "46540/0/300"
+  },
+  "-KO23z2EjPa1QGIinyiY": {
+    "timestamp": 1470004195.576829,
+    "msg": "34094/0/300"
+  },
+  "-KO24_Mrmi_6Orh6qnxT": {
+    "coordTimestamp": 1470004352.000103,
+    "timestamp": 1470004352.544594,
+    "coord": [
+      -77.01425765349995,
+      38.91261251716072
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24KodlOKieAJtX-cW": {
+    "timestamp": 1470004288.85047,
+    "msg": "127412/178/300"
+  },
+  "-KO24R3Wv7L2Z_4QZ99t": {
+    "timestamp": 1470004314.442226,
+    "msg": "153011/143/300"
+  },
+  "-KO24-3w2uh6kFuE06iO": {
+    "timestamp": 1470004199.781175,
+    "msg": "38291/0/300"
+  },
+  "-KO24JwjOxMoyGGMi0ol": {
+    "coordTimestamp": 1470004285.000103,
+    "timestamp": 1470004285.273058,
+    "coord": [
+      -77.00945313972625,
+      38.91259786100257
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23yuZD6biodMbJDe2": {
+    "timestamp": 1470004195.021219,
+    "msg": "33550/0/300"
+  },
+  "-KO23xQH2Z2xDwpi_sUs": {
+    "timestamp": 1470004188.923692,
+    "msg": "27434/300/138"
+  },
+  "-KO23vlVHL0Yxvb-g2OO": {
+    "coordTimestamp": 1470004182.000103,
+    "timestamp": 1470004182.154006,
+    "coord": [
+      -77.00682758360823,
+      38.91160132832724
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23wUHmPmJHxRIQqfR": {
+    "timestamp": 1470004185.083826,
+    "msg": "23611/227/197"
+  },
+  "-KO23ryB1D1GTp0519-6": {
+    "timestamp": 1470004166.581562,
+    "msg": "5139/300/177"
+  },
+  "-KO2434WinPcq2jF1FxA": {
+    "timestamp": 1470004216.202953,
+    "msg": "54752/0/300"
+  },
+  "-KO247_Krj7P3bDpOLVh": {
+    "timestamp": 1470004234.623087,
+    "msg": "73167/0/300"
+  },
+  "-KO24Wv6Y38eyC38WtzR": {
+    "timestamp": 1470004338.416733,
+    "msg": "176887/300/0"
+  },
+  "-KO23yUBRiVxghXf9_gf": {
+    "coordTimestamp": 1470004193.000103,
+    "timestamp": 1470004193.270052,
+    "coord": [
+      -77.00646037243027,
+      38.91174113847214
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO24GgIcXypDOtXEHI9": {
+    "timestamp": 1470004271.932954,
+    "msg": "110473/300/234"
+  },
+  "-KO24TJ6C2MQsLuzDV8F": {
+    "timestamp": 1470004323.632395,
+    "msg": "162190/0/300"
+  },
+  "-KO246DLb9xvDCc3rIHn": {
+    "timestamp": 1470004229.056067,
+    "msg": "67632/0/300"
+  },
+  "-KO23vCUGhTMQHrOSgeY": {
+    "timestamp": 1470004179.848092,
+    "msg": "18418/300/232"
+  },
+  "-KO24JWK_metr95KLyeP": {
+    "timestamp": 1470004283.518699,
+    "msg": "122072/300/122"
+  },
+  "-KO24OW1ItN3qgGrXYh9": {
+    "timestamp": 1470004303.9799,
+    "msg": "142509/0/300"
+  },
+  "-KO242SxvCrYljpWyFXh": {
+    "timestamp": 1470004213.671057,
+    "msg": "51906/0/300"
+  },
+  "-KO24SvvT8pOIKRLKAxx": {
+    "timestamp": 1470004322.084457,
+    "msg": "160637/300/204"
+  },
+  "-KO24UD1PAtBLJ06IxgC": {
+    "timestamp": 1470004327.339759,
+    "msg": "165880/0/300"
+  },
+  "-KO2416T4Qs8cf2WW7BJ": {
+    "timestamp": 1470004208.135929,
+    "msg": "46694/67/300"
+  },
+  "-KO24TAs905_U5q-dTJK": {
+    "timestamp": 1470004323.105416,
+    "msg": "161671/0/300"
+  },
+  "-KO24X7iQwdRSvYniIsn": {
+    "timestamp": 1470004339.28799,
+    "msg": "177763/0/300"
+  },
+  "-KO247i-Bal8i_zfVUvS": {
+    "timestamp": 1470004235.177911,
+    "msg": "73741/300/112"
+  },
+  "-KO24WXuUrmoDnYmSQso": {
+    "timestamp": 1470004336.867883,
+    "msg": "175419/0/300"
+  },
+  "-KO24Syk3-j8b-bfbk6g": {
+    "coordTimestamp": 1470004322.000103,
+    "timestamp": 1470004322.265099,
+    "coord": [
+      -77.0121450586521,
+      38.91261558657686
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24GLDBSxpffostHaZ": {
+    "coordTimestamp": 1470004270.000103,
+    "timestamp": 1470004270.519342,
+    "coord": [
+      -77.00832440154045,
+      38.91259406040815
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23sXipay7izG0qW1H": {
+    "timestamp": 1470004168.91959,
+    "msg": "7478/56/153"
+  },
+  "-KO23toZ1Th8hCCtkbqT": {
+    "timestamp": 1470004174.157818,
+    "msg": "12722/46/31"
+  },
+  "-KO23wOs9lWJEBtsATlA": {
+    "timestamp": 1470004184.737959,
+    "msg": "23300/300/148"
+  },
+  "-KO24QtyWhC6KnY1FTc3": {
+    "timestamp": 1470004313.768024,
+    "msg": "152336/137/300"
+  },
+  "-KO24RMEHPTeJNVlujgU": {
+    "timestamp": 1470004315.640399,
+    "msg": "154204/300/23"
+  },
+  "-KO24BK-LOIo65B7xPHF": {
+    "timestamp": 1470004249.961904,
+    "msg": "88416/0/300"
+  },
+  "-KO24UQU5M3qqYNNkQvO": {
+    "timestamp": 1470004328.200322,
+    "msg": "166700/0/300"
+  },
+  "-KO249JMWUGz1k6sYK51": {
+    "timestamp": 1470004241.728476,
+    "msg": "80296/300/122"
+  },
+  "-KO24L0KQpJXkLaZFM0h": {
+    "timestamp": 1470004289.662984,
+    "msg": "128227/0/300"
+  },
+  "-KO248SUKyKls0DpZh15": {
+    "coordTimestamp": 1470004238.000103,
+    "timestamp": 1470004238.216826,
+    "coord": [
+      -77.00643355034012,
+      38.9124522172277
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24R7lTG5PzPpZiAre": {
+    "timestamp": 1470004314.714348,
+    "msg": "153284/222/300"
+  },
+  "-KO248tm1biNQ86s6rZo": {
+    "timestamp": 1470004240.027277,
+    "msg": "78586/0/300"
+  },
+  "-KO23yyDLT0yBJXUyqq1": {
+    "coordTimestamp": 1470004195.000102,
+    "timestamp": 1470004195.255383,
+    "coord": [
+      -77.00645760640222,
+      38.91179159752923
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO24EbcgJVi6Npof2kg": {
+    "timestamp": 1470004263.44117,
+    "msg": "101903/0/300"
+  },
+  "-KO248SlpVbxTJGJf_tJ": {
+    "timestamp": 1470004238.234643,
+    "msg": "76783/0/300"
+  },
+  "-KO24ANcPHQrKSLQVfNc": {
+    "timestamp": 1470004246.097896,
+    "msg": "84646/160/254"
+  },
+  "-KO24R5PrNNJn4koN0tJ": {
+    "timestamp": 1470004314.563358,
+    "msg": "153138/134/300"
+  },
+  "-KO24KcUYgXw204QkTSC": {
+    "timestamp": 1470004288.072929,
+    "msg": "126627/0/300"
+  },
+  "-KO24OS_AW8w5T_GPlWP": {
+    "timestamp": 1470004303.75849,
+    "msg": "142262/0/300"
+  },
+  "-KO24O7FRcDcJseCl0y7": {
+    "timestamp": 1470004302.393645,
+    "msg": "140921/0/300"
+  },
+  "-KO243R27TQChLpISDOL": {
+    "timestamp": 1470004217.644992,
+    "msg": "56202/300/10"
+  },
+  "-KO23vQ1TX4Y0QmIhoDA": {
+    "timestamp": 1470004180.715433,
+    "msg": "19294/261/199"
+  },
+  "-KO24VRxvHbRabwGe_-c": {
+    "timestamp": 1470004332.390252,
+    "msg": "170944/300/102"
+  },
+  "-KO24QXxit-Tq0NAjpGT": {
+    "coordTimestamp": 1470004312.000103,
+    "timestamp": 1470004312.294348,
+    "coord": [
+      -77.01162023233337,
+      38.9125989035037
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24Qq9E5EjcyVYl02P": {
+    "timestamp": 1470004313.523684,
+    "msg": "152096/135/300"
+  },
+  "-KO23vjnJWuAOV4JQFX0": {
+    "timestamp": 1470004182.044773,
+    "msg": "20614/273/255"
+  },
+  "-KO245NGpzf15DK3662m": {
+    "timestamp": 1470004225.594659,
+    "msg": "63842/14/300"
+  },
+  "-KO23uhqy0tpvRkv-eam": {
+    "timestamp": 1470004177.823495,
+    "msg": "16384/0/300"
+  },
+  "-KO24KwZikgZNh6t2PRc": {
+    "coordTimestamp": 1470004289.000103,
+    "timestamp": 1470004289.357158,
+    "coord": [
+      -77.0096586980435,
+      38.91259786100257
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO249gsw_hrmaPf4Xq4": {
+    "timestamp": 1470004243.297278,
+    "msg": "81865/152/300"
+  },
+  "-KO24P7ryowJHdXjJOBF": {
+    "coordTimestamp": 1470004306.000103,
+    "timestamp": 1470004306.528494,
+    "coord": [
+      -77.01123203791212,
+      38.91259869714351
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO247nwNaIOH4SG938g": {
+    "timestamp": 1470004235.557373,
+    "msg": "74129/300/132"
+  },
+  "-KO24KDJX5pqH7I89UGJ": {
+    "timestamp": 1470004286.398077,
+    "msg": "124978/0/300"
+  },
+  "-KO24kpEH4g-bS8aCwDP": {
+    "coordTimestamp": 1470004399.000103,
+    "timestamp": 1470004399.48035,
+    "coord": [
+      -77.01735843911489,
+      38.91264495909112
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24VLvYkXuKwhybob3": {
+    "timestamp": 1470004332.004765,
+    "msg": "170564/129/300"
+  },
+  "-KO244J4Rkn_4wEXftZ0": {
+    "timestamp": 1470004221.23091,
+    "msg": "59812/6/300"
+  },
+  "-KO24JDyNIX9YSo3TBbz": {
+    "timestamp": 1470004282.344032,
+    "msg": "120898/300/111"
+  },
+  "-KO24k_ep-FwW1uXlgQI": {
+    "coordTimestamp": 1470004398.000103,
+    "timestamp": 1470004398.483808,
+    "coord": [
+      -77.01730169363042,
+      38.9126451686387
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23wlOUx_VkFj6YKzf": {
+    "coordTimestamp": 1470004186.000103,
+    "timestamp": 1470004186.243033,
+    "coord": [
+      -77.00663169853111,
+      38.91162919815528
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24GyTN2b5pZRMIDss": {
+    "timestamp": 1470004273.096054,
+    "msg": "111629/0/300"
+  },
+  "-KO24R-Zz0suR_RONIjf": {
+    "timestamp": 1470004314.190069,
+    "msg": "152765/91/300"
+  },
+  "-KO23wFcN7mft_8-bsDq": {
+    "timestamp": 1470004184.14581,
+    "msg": "22705/293/283"
+  },
+  "-KO24RjACCyPjyfkfdF4": {
+    "timestamp": 1470004317.17213,
+    "msg": "155742/300/92"
+  },
+  "-KO23x77tn0ps1sZgNM2": {
+    "timestamp": 1470004187.697371,
+    "msg": "26267/300/120"
+  },
+  "-KO24OMe7PqkKGsYOA91": {
+    "coordTimestamp": 1470004303.000102,
+    "timestamp": 1470004303.379265,
+    "coord": [
+      -77.01095592950878,
+      38.91259855039848
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24RlKnvmUF8zudMB5": {
+    "timestamp": 1470004317.310788,
+    "msg": "155882/194/300"
+  },
+  "-KO23vHjvesKqpoHcpSC": {
+    "timestamp": 1470004180.184901,
+    "msg": "18757/279/290"
+  },
+  "-KO24TSIDz_0kCzEmiIj": {
+    "timestamp": 1470004324.221028,
+    "msg": "162759/0/300"
+  },
+  "-KO24Xo6jkj28QMAZvS6": {
+    "timestamp": 1470004342.064289,
+    "msg": "180508/0/300"
+  },
+  "-KO24RB2hEZIieLPq8tn": {
+    "timestamp": 1470004314.924374,
+    "msg": "153491/167/300"
+  },
+  "-KO24KBUG0ye4LSbvjbi": {
+    "coordTimestamp": 1470004286.000103,
+    "timestamp": 1470004286.280913,
+    "coord": [
+      -77.00951238570269,
+      38.91259786100257
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24I-sXgUTmJdRFtId": {
+    "timestamp": 1470004277.346008,
+    "msg": "115820/90/300"
+  },
+  "-KO24DwE6hMlzU9skgkI": {
+    "timestamp": 1470004260.664309,
+    "msg": "99139/0/300"
+  },
+  "-KO24HDfcFBL0zw-Qst5": {
+    "timestamp": 1470004274.132889,
+    "msg": "112672/189/300"
+  },
+  "-KO23zRDKFL7X775_fjO": {
+    "timestamp": 1470004197.175689,
+    "msg": "35687/0/300"
+  },
+  "-KO23un8lMcpCD6NmCCv": {
+    "timestamp": 1470004178.162203,
+    "msg": "16727/0/273"
+  },
+  "-KO241y9pApzB2H4mm_7": {
+    "timestamp": 1470004211.635162,
+    "msg": "50191/66/300"
+  },
+  "-KO2451mmEOH0NJJEWuU": {
+    "timestamp": 1470004224.219864,
+    "msg": "62806/0/300"
+  },
+  "-KO23sg_qrA696OpwX_u": {
+    "timestamp": 1470004169.550356,
+    "msg": "8114/167/189"
+  },
+  "-KO24842LB64yx3AJZCY": {
+    "timestamp": 1470004236.652954,
+    "msg": "75201/0/300"
+  },
+  "-KO23tPz9sopFqTYbaKu": {
+    "timestamp": 1470004172.521129,
+    "msg": "11076/29/199"
+  },
+  "-KO24VeEH-_eF_JO_qAf": {
+    "timestamp": 1470004333.24031,
+    "msg": "171767/0/300"
+  },
+  "-KO24R0aihIIScCkWkqx": {
+    "timestamp": 1470004314.255337,
+    "msg": "152826/102/300"
+  },
+  "-KO242EyCsFWG7-GnJFn": {
+    "timestamp": 1470004212.775302,
+    "msg": "51342/132/82"
+  },
+  "-KO246WI9x0tHwFjNgVc": {
+    "timestamp": 1470004230.268675,
+    "msg": "68851/0/300"
+  },
+  "-KO24JL32d4-50pVERd4": {
+    "timestamp": 1470004282.797504,
+    "msg": "121362/131/237"
+  },
+  "-KO23sfRXVz-Ny911gBM": {
+    "timestamp": 1470004169.477973,
+    "msg": "7996/218/176"
+  },
+  "-KO247ydPczyxch13rKx": {
+    "coordTimestamp": 1470004236.000103,
+    "timestamp": 1470004236.243009,
+    "coord": [
+      -77.0064176247241,
+      38.91243918336826
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24gP_q2BlZkqyUDOp": {
+    "coordTimestamp": 1470004381.000103,
+    "timestamp": 1470004381.390662,
+    "coord": [
+      -77.01616891405138,
+      38.91259472993237
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24KzUl0BqrXto7UhT": {
+    "timestamp": 1470004289.54463,
+    "msg": "128068/0/300"
+  },
+  "-KO24O8EtS-f5x4IRfFc": {
+    "coordTimestamp": 1470004302.000103,
+    "timestamp": 1470004302.456286,
+    "coord": [
+      -77.01086620385468,
+      38.91259850250253
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO247-RSNWSvrECqaqY": {
+    "timestamp": 1470004232.262028,
+    "msg": "70822/0/300"
+  },
+  "-KO24HkRtVpCJB8VHl0l": {
+    "timestamp": 1470004276.293528,
+    "msg": "114824/271/300"
+  },
+  "-KO23tUaaKfi_LXMMEEH": {
+    "timestamp": 1470004172.815928,
+    "msg": "11367/26/223"
+  },
+  "-KO248KtxvInQo--miEu": {
+    "timestamp": 1470004237.730947,
+    "msg": "76310/213/300"
+  },
+  "-KO24mGppmDwMokiK_CZ": {
+    "coordTimestamp": 1470004405.000103,
+    "timestamp": 1470004405.406575,
+    "coord": [
+      -77.01774098917564,
+      38.91263418834555
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO247EeKe7TB-vr0GGw": {
+    "coordTimestamp": 1470004233.000103,
+    "timestamp": 1470004233.235409,
+    "coord": [
+      -77.00640630915481,
+      38.91241227745908
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24-jvkY2GPhhLFGOX": {
+    "coordTimestamp": 1470004202.000103,
+    "timestamp": 1470004202.53221,
+    "coord": [
+      -77.00645551092643,
+      38.91202423725176
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO245xdtpUzGOGICrU3": {
+    "timestamp": 1470004227.986834,
+    "msg": "66537/300/0"
+  },
+  "-KO24DQYt75sLnJkYWTb": {
+    "timestamp": 1470004258.572979,
+    "msg": "97107/254/175"
+  },
+  "-KO24OFDxECL9apfKmN8": {
+    "timestamp": 1470004302.903876,
+    "msg": "141468/0/135"
+  },
+  "-KO24GDNnDGOhf81Er4w": {
+    "timestamp": 1470004270.017902,
+    "msg": "108579/0/300"
+  },
+  "-KO23v3pUENWTFm-o0QZ": {
+    "timestamp": 1470004179.294788,
+    "msg": "17870/216/143"
+  },
+  "-KO24OXw4gnP7s5TOUek": {
+    "timestamp": 1470004304.101352,
+    "msg": "142625/232/300"
+  },
+  "-KO23u7Fmw_AMH6t2T6I": {
+    "timestamp": 1470004175.417527,
+    "msg": "13961/300/296"
+  },
+  "-KO23uNz0MN9gAOrSYuL": {
+    "timestamp": 1470004176.488686,
+    "msg": "15017/0/300"
+  },
+  "-KO24Mw8SvMgejfWelHa": {
+    "timestamp": 1470004297.522449,
+    "msg": "136041/0/300"
+  },
+  "-KO24Gv1ttLDU1o-MAiX": {
+    "timestamp": 1470004272.876092,
+    "msg": "111402/243/300"
+  },
+  "-KO2429_ydYvcKTaORVq": {
+    "timestamp": 1470004212.430255,
+    "msg": "50999/76/28"
+  },
+  "-KO245Wb1kULQHbYqsL3": {
+    "coordTimestamp": 1470004226.000103,
+    "timestamp": 1470004226.192269,
+    "coord": [
+      -77.00640630915481,
+      38.91241227745908
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24PYkzm_S_hOFIfye": {
+    "timestamp": 1470004308.249911,
+    "msg": "146830/300/89"
+  },
+  "-KO24Xajy5xyodeZv3BW": {
+    "timestamp": 1470004341.208279,
+    "msg": "179695/0/300"
+  },
+  "-KO240DQV6jf_sNSCrAr": {
+    "timestamp": 1470004204.485179,
+    "msg": "43004/0/300"
+  },
+  "-KO24PUFfjjM84ZLiSIw": {
+    "timestamp": 1470004307.961441,
+    "msg": "146487/0/300"
+  },
+  "-KO2428jbGQWxQmaSO_B": {
+    "timestamp": 1470004212.377118,
+    "msg": "50889/0/300"
+  },
+  "-KO23w0wgCCWr4s9RwVt": {
+    "coordTimestamp": 1470004183.000102,
+    "timestamp": 1470004183.205227,
+    "coord": [
+      -77.00679095469137,
+      38.91161272771555
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24NOhhunfZKUnkwkG": {
+    "coordTimestamp": 1470004299.000102,
+    "timestamp": 1470004299.414199,
+    "coord": [
+      -77.01061990785092,
+      38.91259837155297
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24GTM73kpjoWZGyiJ": {
+    "timestamp": 1470004271.040375,
+    "msg": "109578/241/300"
+  },
+  "-KO24Igg5n0J0lg2TZ-O": {
+    "timestamp": 1470004280.150048,
+    "msg": "118716/0/300"
+  },
+  "-KO248mGY681O_ALf9Ah": {
+    "timestamp": 1470004239.54636,
+    "msg": "78084/0/300"
+  },
+  "-KO243ZKxm5G7cP4FuSM": {
+    "timestamp": 1470004218.174227,
+    "msg": "56758/300/37"
+  },
+  "-KO24VAedil6bcnpmPEi": {
+    "timestamp": 1470004331.283556,
+    "msg": "169817/0/300"
+  },
+  "-KO24A6o0-HzJRbhPJbe": {
+    "timestamp": 1470004245.02166,
+    "msg": "83602/300/141"
+  },
+  "-KO24Q0T_1Vos754xIJd": {
+    "timestamp": 1470004310.151766,
+    "msg": "148715/0/300"
+  },
+  "-KO24K6cqlzAvN3pErI9": {
+    "timestamp": 1470004285.969391,
+    "msg": "124507/300/288"
+  },
+  "-KO23ssaxgr7CZDxAHWY": {
+    "timestamp": 1470004170.319708,
+    "msg": "8882/220/170"
+  },
+  "-KO24MsYJXDvLKkdkyVC": {
+    "timestamp": 1470004297.29291,
+    "msg": "135826/0/300"
+  },
+  "-KO23vwNYcS-R04-D8-1": {
+    "timestamp": 1470004182.849729,
+    "msg": "21407/300/271"
+  },
+  "-KO2451VpQOzCukTyAYQ": {
+    "coordTimestamp": 1470004224.000102,
+    "timestamp": 1470004224.201278,
+    "coord": [
+      -77.00640630915481,
+      38.91241227745908
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24FH4Fto2wYlEG2Hy": {
+    "timestamp": 1470004266.158982,
+    "msg": "104692/127/300"
+  },
+  "-KO24FnY7PzcnyB2Hrrs": {
+    "timestamp": 1470004268.30102,
+    "msg": "106843/189/300"
+  },
+  "-KO24MY-T3-2-ewvs6tW": {
+    "timestamp": 1470004295.913392,
+    "msg": "134474/300/136"
+  },
+  "-KO24mzdA7IEjVHKbTyb": {
+    "coordTimestamp": 1470004408.000103,
+    "timestamp": 1470004408.338746,
+    "coord": [
+      -77.01793176129182,
+      38.91262672845173
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO245PhDquewxaL7KvB": {
+    "timestamp": 1470004225.751022,
+    "msg": "64332/27/300"
+  },
+  "-KO24SVSxVrYtLKBkl6z": {
+    "timestamp": 1470004320.326125,
+    "msg": "158864/0/300"
+  },
+  "-KO23t_wBXuQCS4EFbH2": {
+    "timestamp": 1470004173.221762,
+    "msg": "11751/46/28"
+  },
+  "-KO24W4of94Ti-XKYBV5": {
+    "timestamp": 1470004335.005404,
+    "msg": "173555/0/300"
+  },
+  "-KO24RCH8zYmYv-oJq4u": {
+    "timestamp": 1470004315.003192,
+    "msg": "153561/137/300"
+  },
+  "-KO242APO2cK0YTUINGu": {
+    "timestamp": 1470004212.483179,
+    "msg": "51053/71/41"
+  },
+  "-KO24JV1qgBlFLOAETUO": {
+    "timestamp": 1470004283.435311,
+    "msg": "122008/223/300"
+  },
+  "-KO23w-tEobpKZhZY2NO": {
+    "timestamp": 1470004183.138368,
+    "msg": "21705/300/284"
+  },
+  "-KO245GnMfpKNmFjPAMz": {
+    "coordTimestamp": 1470004225.000103,
+    "timestamp": 1470004225.180881,
+    "coord": [
+      -77.00640630915481,
+      38.91241227745908
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23v2tFcoV78ZjGPsj": {
+    "timestamp": 1470004179.234264,
+    "msg": "17796/218/155"
+  },
+  "-KO24A4NqBe-a9K-yhYr": {
+    "timestamp": 1470004244.865202,
+    "msg": "83415/0/300"
+  },
+  "-KO24Fm3Wv2-5TwdCl4M": {
+    "timestamp": 1470004268.205443,
+    "msg": "106708/0/300"
+  },
+  "-KO24TCSYTIVFlwGiF6P": {
+    "timestamp": 1470004323.206685,
+    "msg": "161780/0/146"
+  },
+  "-KO24GRhsPB9-LF5RouP": {
+    "timestamp": 1470004270.934488,
+    "msg": "109412/0/300"
+  },
+  "-KO248_EblQ3x2H01Qmw": {
+    "timestamp": 1470004238.713044,
+    "msg": "77270/0/300"
+  },
+  "-KO244wYn4u-GUdDWgjA": {
+    "timestamp": 1470004223.820611,
+    "msg": "62338/0/300"
+  },
+  "-KO23s9cHsOfBD3HBADH": {
+    "timestamp": 1470004167.377576,
+    "msg": "5917/300/175"
+  },
+  "-KO23u2S4mIhnh7NCjhB": {
+    "timestamp": 1470004175.110803,
+    "msg": "13621/300/60"
+  },
+  "-KO23rtVnlEJ_aPve-Dt": {
+    "timestamp": 1470004166.281374,
+    "msg": "4856/81/127"
+  },
+  "-KO24qAU_66djkLXzH6M": {
+    "coordTimestamp": 1470004421.000102,
+    "timestamp": 1470004421.384198,
+    "coord": [
+      -77.01876731516677,
+      38.91260808831503
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24FpS8wjW0udKKCMC": {
+    "coordTimestamp": 1470004268.000103,
+    "timestamp": 1470004268.422906,
+    "coord": [
+      -77.00818542696652,
+      38.91259297103007
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24PareiN47Goy9BPU": {
+    "timestamp": 1470004308.44893,
+    "msg": "147004/0/300"
+  },
+  "-KO24S_i9aIvDim68nZZ": {
+    "timestamp": 1470004320.663391,
+    "msg": "159191/300/105"
+  },
+  "-KO23tAHeiqTjgQoZxKX": {
+    "timestamp": 1470004171.515222,
+    "msg": "10075/187/184"
+  },
+  "-KO24PeWrfA1wIPNXArj": {
+    "timestamp": 1470004308.682154,
+    "msg": "147201/0/300"
+  },
+  "-KO24RNO3uhZ6ngKbpvw": {
+    "timestamp": 1470004315.714535,
+    "msg": "154278/247/192"
+  },
+  "-KO24JZWN9eGQb7B20Pu": {
+    "timestamp": 1470004283.722522,
+    "msg": "122281/300/134"
+  },
+  "-KO24F7GHLIqcKlEAD8p": {
+    "timestamp": 1470004265.530336,
+    "msg": "104060/0/300"
+  },
+  "-KO23wQE0A3kpDXeOwnN": {
+    "timestamp": 1470004184.824626,
+    "msg": "23384/256/296"
+  },
+  "-KO240tIQIwUWFNI1G01": {
+    "timestamp": 1470004207.228858,
+    "msg": "45772/0/300"
+  },
+  "-KO241p1YFu4aNAw9Zza": {
+    "timestamp": 1470004211.051301,
+    "msg": "49603/0/300"
+  },
+  "-KO249GGb2IcoMql15Hy": {
+    "timestamp": 1470004241.530267,
+    "msg": "80098/0/222"
+  },
+  "-KO24_acKe5SkTRBXwkB": {
+    "coordTimestamp": 1470004353.000102,
+    "timestamp": 1470004353.489456,
+    "coord": [
+      -77.0142589265015,
+      38.91261250442244
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23u5VGh4GUXC0SIIs": {
+    "timestamp": 1470004175.305309,
+    "msg": "13859/290/77"
+  },
+  "-KO23vg1DDwjYLQ9tyyB": {
+    "timestamp": 1470004181.803817,
+    "msg": "20354/300/245"
+  },
+  "-KO24D6tP9jACOwW0bNw": {
+    "coordTimestamp": 1470004257.000103,
+    "timestamp": 1470004257.314871,
+    "coord": [
+      -77.00740852931631,
+      38.91258688162025
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24HOFU3uI_SrUoipO": {
+    "timestamp": 1470004274.809783,
+    "msg": "113316/0/300"
+  },
+  "-KO24XOigdvAh5JGdv_u": {
+    "coordTimestamp": 1470004340.000103,
+    "timestamp": 1470004340.375682,
+    "coord": [
+      -77.01341835789104,
+      38.91264630019563
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23wrvqkWWu9WEmWXe": {
+    "timestamp": 1470004186.660955,
+    "msg": "25234/300/159"
+  },
+  "-KO24TqmezTxiOPtbwNd": {
+    "timestamp": 1470004325.852002,
+    "msg": "164371/0/300"
+  },
+  "-KO24Y3na--8_RQxiKpa": {
+    "timestamp": 1470004343.132926,
+    "msg": "180919/0/300"
+  },
+  "-KO24VCmsLfcyyv2qPIA": {
+    "coordTimestamp": 1470004331.000103,
+    "timestamp": 1470004331.419643,
+    "coord": [
+      -77.01282499241643,
+      38.9126158973909
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24Il-9d0GkAgk1pmQ": {
+    "timestamp": 1470004280.425176,
+    "msg": "118902/0/300"
+  },
+  "-KO24FjFssNRUmDWqGF0": {
+    "timestamp": 1470004268.025188,
+    "msg": "106577/76/300"
+  },
+  "-KO243_pR2lQ6NJ4ocL-": {
+    "timestamp": 1470004218.27034,
+    "msg": "56852/300/16"
+  },
+  "-KO23vJ7jfCUdFAn-_V3": {
+    "coordTimestamp": 1470004180.000103,
+    "timestamp": 1470004180.273239,
+    "coord": [
+      -77.00690218254645,
+      38.91157039910453
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO24PhwTasYUE0oBn09": {
+    "timestamp": 1470004308.901537,
+    "msg": "147438/300/172"
+  },
+  "-KO23re_lxd605jlS-JM": {
+    "coordTimestamp": 1470004165.000103,
+    "timestamp": 1470004165.326558,
+    "coord": [
+      -77.00707577176114,
+      38.91145229808885
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO245Ou-orwFv4vm6hL": {
+    "timestamp": 1470004225.69925,
+    "msg": "64280/25/300"
+  },
+  "-KO24JYH74JN80jWSCWh": {
+    "timestamp": 1470004283.643837,
+    "msg": "122211/287/183"
+  },
+  "-KO24v4CcjLX5wjujitX": {
+    "coordTimestamp": 1470004441.000103,
+    "timestamp": 1470004441.462462,
+    "coord": [
+      -77.01913154618524,
+      38.91260851886896
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24I1ono-6u8H4Ue7F": {
+    "timestamp": 1470004277.469321,
+    "msg": "116028/0/300"
+  },
+  "-KO24ArjGc-NPTtPojyj": {
+    "timestamp": 1470004248.088965,
+    "msg": "86590/0/300"
+  },
+  "-KO23vl3pD16nJVEuiB1": {
+    "timestamp": 1470004182.12587,
+    "msg": "20692/300/259"
+  },
+  "-KO24LQWMmb2ccMT88sy": {
+    "timestamp": 1470004291.338465,
+    "msg": "129879/0/300"
+  },
+  "-KO241cyQ1dMf8TAcCEG": {
+    "coordTimestamp": 1470004210.000102,
+    "timestamp": 1470004210.279375,
+    "coord": [
+      -77.00646607212443,
+      38.91231257472086
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO24P_c6Gpxg1zYYpWi": {
+    "coordTimestamp": 1470004308.000103,
+    "timestamp": 1470004308.370037,
+    "coord": [
+      -77.01141393470607,
+      38.91259879344494
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24Slq_z6iwGsyZTTm": {
+    "timestamp": 1470004321.439211,
+    "msg": "159969/0/300"
+  },
+  "-KO24-M_eCX-90yeT1l4": {
+    "timestamp": 1470004200.974673,
+    "msg": "39488/0/300"
+  },
+  "-KO24Sbd-srHzk-gRR9H": {
+    "timestamp": 1470004320.786555,
+    "msg": "159344/0/300"
+  },
+  "-KO24BW7g5-yTPuKf1hM": {
+    "timestamp": 1470004250.738155,
+    "msg": "89239/0/300"
+  },
+  "-KO24MzImWgrANnUSNIc": {
+    "timestamp": 1470004297.724508,
+    "msg": "136269/300/174"
+  },
+  "-KO24OakWQvbkrOXmZvX": {
+    "coordTimestamp": 1470004304.000103,
+    "timestamp": 1470004304.345282,
+    "coord": [
+      -77.01104460873466,
+      38.91259859727536
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24OcogUAOOkMOLM8e": {
+    "timestamp": 1470004304.477865,
+    "msg": "143012/0/300"
+  },
+  "-KO24I74e8CaoJ64CuAt": {
+    "timestamp": 1470004277.807105,
+    "msg": "116347/102/300"
+  },
+  "-KO2411-53jMZEh67XS1": {
+    "timestamp": 1470004207.785692,
+    "msg": "46041/0/300"
+  },
+  "-KO24MOJfMpx6SDCI7Pm": {
+    "timestamp": 1470004295.293304,
+    "msg": "133858/300/137"
+  },
+  "-KO24AAMlYz81w_M3fqz": {
+    "timestamp": 1470004245.248911,
+    "msg": "83814/0/300"
+  },
+  "-KO24dWG6l9VTXDW9uP-": {
+    "coordTimestamp": 1470004369.000103,
+    "timestamp": 1470004369.530613,
+    "coord": [
+      -77.01540104790183,
+      38.91259650513964
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO243Yye9ljEceh0BLc": {
+    "coordTimestamp": 1470004218.000102,
+    "timestamp": 1470004218.151759,
+    "coord": [
+      -77.00641796000022,
+      38.91241667795825
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23rP8OS9ujFKMv_3l": {
+    "coordTimestamp": 1470004164.000103,
+    "timestamp": 1470004164.274969,
+    "coord": [
+      -77.00707577176114,
+      38.91145229808885
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO247jnltd4zWiqecR1": {
+    "timestamp": 1470004235.292182,
+    "msg": "73873/300/110"
+  },
+  "-KO247llCjQmvK2tdUhB": {
+    "timestamp": 1470004235.418743,
+    "msg": "73994/300/108"
+  },
+  "-KO242W35IApQNqiBAtt": {
+    "timestamp": 1470004213.86951,
+    "msg": "52425/0/300"
+  },
+  "-KO24Qr3w8_Bl5T0DY_L": {
+    "timestamp": 1470004313.582028,
+    "msg": "152161/157/300"
+  },
+  "-KO23sbWWnLkrKszJakQ": {
+    "timestamp": 1470004169.226117,
+    "msg": "7786/218/155"
+  },
+  "-KO24F44gP-TVbakm5vk": {
+    "timestamp": 1470004265.326976,
+    "msg": "103846/0/300"
+  },
+  "-KO24Qo5f_Afl98qoDV9": {
+    "timestamp": 1470004313.391092,
+    "msg": "151963/98/300"
+  },
+  "-KO24RK6rvfykewQcPI4": {
+    "timestamp": 1470004315.504281,
+    "msg": "154055/0/300"
+  },
+  "-KO244IImRl7sF8k2__j": {
+    "timestamp": 1470004221.180249,
+    "msg": "59763/7/300"
+  },
+  "-KO23up2riJfmhROgb9B": {
+    "coordTimestamp": 1470004178.000103,
+    "timestamp": 1470004178.284521,
+    "coord": [
+      -77.00697024360021,
+      38.91153473410654
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO245CYNv1unaGOwbzO": {
+    "timestamp": 1470004224.908165,
+    "msg": "63484/217/300"
+  },
+  "-KO24-ss3AXJmNmC6YNh": {
+    "timestamp": 1470004203.105872,
+    "msg": "41666/300/177"
+  },
+  "-KO24a3a0pUyhn_HShI4": {
+    "coordTimestamp": 1470004355.000103,
+    "timestamp": 1470004355.407471,
+    "coord": [
+      -77.01451170963992,
+      38.9126084674063
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO245oVjfoeB6I9uixk": {
+    "timestamp": 1470004227.40208,
+    "msg": "65969/26/300"
+  },
+  "-KO23yhEUNkmlcJ7s2U4": {
+    "timestamp": 1470004194.168861,
+    "msg": "32712/0/300"
+  },
+  "-KO23ziyrwZ59_eZ5Epb": {
+    "coordTimestamp": 1470004198.000103,
+    "timestamp": 1470004198.375698,
+    "coord": [
+      -77.00645450509805,
+      38.91187516510385
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO24WsvttmYephknpz_": {
+    "coordTimestamp": 1470004338.000103,
+    "timestamp": 1470004338.276588,
+    "coord": [
+      -77.0132958982857,
+      38.91266490802067
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO249rnnyhFjeE_5sPF": {
+    "timestamp": 1470004243.996421,
+    "msg": "82572/300/199"
+  },
+  "-KO23v3BLvhZSew1JJEU": {
+    "coordTimestamp": 1470004179.000103,
+    "timestamp": 1470004179.253694,
+    "coord": [
+      -77.00694040402492,
+      38.911553132384
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO24EhAnH1KMoUSgafG": {
+    "timestamp": 1470004263.797064,
+    "msg": "102333/0/300"
+  },
+  "-KO24MqFnmIrV6TseZCz": {
+    "timestamp": 1470004297.1453,
+    "msg": "135690/300/32"
+  },
+  "-KO23uBsYKOA_x58dzVT": {
+    "timestamp": 1470004175.713806,
+    "msg": "14278/0/300"
+  },
+  "-KO24MdFa5UMYOijYaJZ": {
+    "timestamp": 1470004296.314043,
+    "msg": "134881/0/300"
+  },
+  "-KO24Ia3TyJXxFacuP1I": {
+    "timestamp": 1470004279.725272,
+    "msg": "118260/300/47"
+  },
+  "-KO24R2UKBWMNh6mUdWc": {
+    "timestamp": 1470004314.376682,
+    "msg": "152893/95/300"
+  },
+  "-KO241eu2V8yOuULxsit": {
+    "timestamp": 1470004210.403384,
+    "msg": "48984/0/300"
+  },
+  "-KO244U3G8JL1jXrlSsi": {
+    "timestamp": 1470004221.933926,
+    "msg": "60510/3/300"
+  },
+  "-KO24UWpc8dhWYUD9vvM": {
+    "timestamp": 1470004328.607019,
+    "msg": "167178/300/240"
+  },
+  "-KO23tNj8ztjNFcv99zA": {
+    "timestamp": 1470004172.376412,
+    "msg": "10942/32/189"
+  },
+  "-KO24JyTMYah1OmRIkXk": {
+    "timestamp": 1470004285.38357,
+    "msg": "123939/0/300"
+  },
+  "-KO241sL4lL_bgUTHXfZ": {
+    "timestamp": 1470004211.263834,
+    "msg": "49806/0/300"
+  },
+  "-KO243JWw9G6L7wyIIpZ": {
+    "coordTimestamp": 1470004217.000103,
+    "timestamp": 1470004217.16306,
+    "coord": [
+      -77.00641796000022,
+      38.91241667795825
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24Coul_jfJkUdmOjM": {
+    "timestamp": 1470004256.100166,
+    "msg": "94445/0/300"
+  },
+  "-KO246UjOBAbFltLBzAy": {
+    "timestamp": 1470004230.168382,
+    "msg": "68645/0/300"
+  },
+  "-KO24CNsa9wHo41ta3Hs": {
+    "coordTimestamp": 1470004254.000103,
+    "timestamp": 1470004254.305354,
+    "coord": [
+      -77.00712679652497,
+      38.91258467280148
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO245HF9rsWyAp6pwTh": {
+    "timestamp": 1470004225.209778,
+    "msg": "63791/13/300"
+  },
+  "-KO24eR3YTMDcwNl0dWQ": {
+    "coordTimestamp": 1470004373.000103,
+    "timestamp": 1470004373.293729,
+    "coord": [
+      -77.01567015617807,
+      38.91262333378094
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24qfxSxAZYkHON-y1": {
+    "coordTimestamp": 1470004423.000103,
+    "timestamp": 1470004423.46219,
+    "coord": [
+      -77.01885287606274,
+      38.91260820194051
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO244-WNDTkFdNehRlh": {
+    "timestamp": 1470004219.978638,
+    "msg": "58526/0/300"
+  },
+  "-KO23zo8v-DPl5d_M4Au": {
+    "timestamp": 1470004198.707117,
+    "msg": "37235/0/300"
+  },
+  "-KO249QIRZYV2Kjjq312": {
+    "timestamp": 1470004242.172585,
+    "msg": "80716/299/300"
+  },
+  "-KO24UU9x59xrahLkfko": {
+    "timestamp": 1470004328.436129,
+    "msg": "166987/0/300"
+  },
+  "-KO24JTwjDNTujiWoQA9": {
+    "timestamp": 1470004283.365785,
+    "msg": "121945/14/0"
+  },
+  "-KO24bG7RXwi3wy-jkrj": {
+    "coordTimestamp": 1470004360.000103,
+    "timestamp": 1470004360.305578,
+    "coord": [
+      -77.01482345684781,
+      38.91260346584716
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23y0T-_1xkUj6WZ8p": {
+    "coordTimestamp": 1470004191.000102,
+    "timestamp": 1470004191.368077,
+    "coord": [
+      -77.00647680096048,
+      38.91167705882239
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO2469yCoYO3EdFEqjp": {
+    "timestamp": 1470004228.839314,
+    "msg": "67413/0/300"
+  },
+  "-KO23wuUckH9cFiNmFzG": {
+    "timestamp": 1470004186.824434,
+    "msg": "25377/300/146"
+  },
+  "-KO24S9XRJQcdeGJGwYj": {
+    "timestamp": 1470004318.923267,
+    "msg": "157498/0/300"
+  },
+  "-KO24FMJDvIySZXr35N1": {
+    "coordTimestamp": 1470004266.000102,
+    "timestamp": 1470004266.493547,
+    "coord": [
+      -77.00808171466633,
+      38.9125921583275
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24MjMl_RS4boNDXrx": {
+    "timestamp": 1470004296.704648,
+    "msg": "135232/0/300"
+  },
+  "-KO24IwVo4NtnKKXTdte": {
+    "timestamp": 1470004281.162245,
+    "msg": "119610/0/112"
+  },
+  "-KO24W-o7VbmS2DQTGKP": {
+    "timestamp": 1470004334.685238,
+    "msg": "173052/0/300"
+  },
+  "-KO24QycqJTtyoHJpTF8": {
+    "timestamp": 1470004314.066074,
+    "msg": "152618/107/300"
+  },
+  "-KO24Sf8LNlQPgDoTb_q": {
+    "timestamp": 1470004321.011001,
+    "msg": "159537/0/300"
+  },
+  "-KO24pPb--zG7WovM6tr": {
+    "coordTimestamp": 1470004418.000103,
+    "timestamp": 1470004418.256219,
+    "coord": [
+      -77.01860675595422,
+      38.91264751557159
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24H3kH9ARWlqpu_g1": {
+    "timestamp": 1470004273.497152,
+    "msg": "112049/0/300"
+  },
+  "-KO24V7GG0npthX6zwna": {
+    "timestamp": 1470004331.066851,
+    "msg": "169637/300/207"
+  },
+  "-KO23sWdsxtZ14tN9YLc": {
+    "timestamp": 1470004168.850917,
+    "msg": "7071/300/194"
+  },
+  "-KO24IMY7K1byX9zwYy6": {
+    "timestamp": 1470004278.796496,
+    "msg": "117303/300/187"
+  },
+  "-KO248nK0vKzs3sS_i9a": {
+    "timestamp": 1470004239.614559,
+    "msg": "78182/86/300"
+  },
+  "-KO24ovgOpYGHeSQlFao": {
+    "coordTimestamp": 1470004416.000103,
+    "timestamp": 1470004416.277176,
+    "coord": [
+      -77.018474423312,
+      38.91260769903313
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23vIwSjT-Ui18jlFM": {
+    "timestamp": 1470004180.261609,
+    "msg": "18834/300/260"
+  },
+  "-KO23tnhjqo7D43CPp7W": {
+    "timestamp": 1470004174.102214,
+    "msg": "12675/44/31"
+  },
+  "-KO24vZeF1Bv12vg62jl": {
+    "coordTimestamp": 1470004443.000104,
+    "timestamp": 1470004443.475901,
+    "coord": [
+      -77.01913068180147,
+      38.9126085178499
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24G0pt0yfpY5Ziqmj": {
+    "timestamp": 1470004269.214112,
+    "msg": "107751/0/300"
+  },
+  "-KO24UhRHtnWx3FbXn00": {
+    "timestamp": 1470004329.349854,
+    "msg": "167911/0/300"
+  },
+  "-KO24WzG94hJUc30mN7a": {
+    "timestamp": 1470004338.682484,
+    "msg": "177167/0/300"
+  },
+  "-KO24VDtdD81pnqrwp0U": {
+    "timestamp": 1470004331.490375,
+    "msg": "170040/300/151"
+  },
+  "-KO23uxKGLWf9r_1sOx2": {
+    "timestamp": 1470004178.81527,
+    "msg": "17353/133/125"
+  },
+  "-KO24KK5P4uS0qG6QIeE": {
+    "timestamp": 1470004286.831446,
+    "msg": "125379/0/300"
+  },
+  "-KO23zdlF15RTlV9A06j": {
+    "timestamp": 1470004198.042862,
+    "msg": "36600/0/300"
+  },
+  "-KO240IuJcE8nkRFam55": {
+    "timestamp": 1470004204.835498,
+    "msg": "43387/0/300"
+  },
+  "-KO24SBEqDJy7hMiZ3q5": {
+    "timestamp": 1470004319.032145,
+    "msg": "157604/0/300"
+  },
+  "-KO242C8OA3Y7hgsIt2M": {
+    "timestamp": 1470004212.594354,
+    "msg": "51175/34/24"
+  },
+  "-KO24JHVV7F6zTuIST4T": {
+    "timestamp": 1470004282.569278,
+    "msg": "121097/0/300"
+  },
+  "-KO245vL-WIixpM40ywB": {
+    "timestamp": 1470004227.839563,
+    "msg": "66393/0/300"
+  },
+  "-KO23uXGzySKa4xAdxry": {
+    "timestamp": 1470004177.08291,
+    "msg": "15618/0/300"
+  },
+  "-KO240Nu5QJeCaoLrKgS": {
+    "timestamp": 1470004205.155211,
+    "msg": "43677/0/300"
+  },
+  "-KO23y-xVo_0HYzWtOnK": {
+    "timestamp": 1470004191.335025,
+    "msg": "29855/0/300"
+  },
+  "-KO243cFSWBw4d_lqc3u": {
+    "timestamp": 1470004218.426247,
+    "msg": "57006/300/24"
+  },
+  "-KO23vT51nFXhDwZe5BG": {
+    "timestamp": 1470004180.911658,
+    "msg": "19447/235/249"
+  },
+  "-KO24geJ-vvXYF3yRNNN": {
+    "coordTimestamp": 1470004382.000103,
+    "timestamp": 1470004382.39781,
+    "coord": [
+      -77.01616891405138,
+      38.91259472993237
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24TH9qT9TbWThAinx": {
+    "timestamp": 1470004323.507231,
+    "msg": "162085/0/300"
+  },
+  "-KO24JDWLspJ0Re_Kw9d": {
+    "coordTimestamp": 1470004282.000102,
+    "timestamp": 1470004282.314924,
+    "coord": [
+      -77.00898921972112,
+      38.91260099156309
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24CiX0DnS7eFl-HT1": {
+    "timestamp": 1470004255.691897,
+    "msg": "94135/0/300"
+  },
+  "-KO249VJne5jpqqDT-Wj": {
+    "timestamp": 1470004242.493709,
+    "msg": "81067/101/300"
+  },
+  "-KO24BRbGorzpzIhwn5c": {
+    "timestamp": 1470004250.44856,
+    "msg": "88880/165/115"
+  },
+  "-KO23vsaWhXTEjwA4MK4": {
+    "timestamp": 1470004182.608082,
+    "msg": "21172/300/235"
+  },
+  "-KO245hAy9IuFhRn_tEG": {
+    "timestamp": 1470004226.932363,
+    "msg": "65511/29/300"
+  },
+  "-KO24Nps4AhSGbexP6Vm": {
+    "timestamp": 1470004301.217374,
+    "msg": "139761/297/300"
+  },
+  "-KO24AQcrZV_6nPvOviE": {
+    "timestamp": 1470004246.289707,
+    "msg": "84836/300/254"
+  },
+  "-KO24AUAhn-Sq-muldbJ": {
+    "coordTimestamp": 1470004246.000103,
+    "timestamp": 1470004246.516725,
+    "coord": [
+      -77.0064847637685,
+      38.9126721164574
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23x4S6GJtk9lUqdob": {
+    "timestamp": 1470004187.526512,
+    "msg": "26087/300/119"
+  },
+  "-KO24MP5agb1LY03Dhex": {
+    "coordTimestamp": 1470004295.000103,
+    "timestamp": 1470004295.343872,
+    "coord": [
+      -77.01029827130697,
+      38.91259820085997
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24dGnEZQubsQfs7-L": {
+    "coordTimestamp": 1470004368.000103,
+    "timestamp": 1470004368.540581,
+    "coord": [
+      -77.01517185130797,
+      38.91259787628851
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24-ORyfPdnObJw0uQ": {
+    "timestamp": 1470004201.093797,
+    "msg": "39661/0/300"
+  },
+  "-KO24HFPwYdkojQ9C1--": {
+    "timestamp": 1470004274.243228,
+    "msg": "112780/286/300"
+  },
+  "-KO24NthmZytMih5aVXI": {
+    "timestamp": 1470004301.462948,
+    "msg": "140017/0/300"
+  },
+  "-KO24U5cInAwfryjtk1T": {
+    "timestamp": 1470004326.86512,
+    "msg": "165416/0/300"
+  },
+  "-KO24QJl4bpChAUjSPKu": {
+    "timestamp": 1470004311.386828,
+    "msg": "149954/0/300"
+  },
+  "-KO24X97b-r2q0SypCOo": {
+    "coordTimestamp": 1470004339.000103,
+    "timestamp": 1470004339.377167,
+    "coord": [
+      -77.01335993602594,
+      38.91266289636391
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24AWH__slrAEb9zY7": {
+    "timestamp": 1470004246.651428,
+    "msg": "85150/0/300"
+  },
+  "-KO24H1_1F41t-T2UcKl": {
+    "timestamp": 1470004273.358924,
+    "msg": "111853/0/300"
+  },
+  "-KO243WqyKJBx8LO841O": {
+    "timestamp": 1470004218.015863,
+    "msg": "56595/300/8"
+  },
+  "-KO241lsCGPQS_w9DTp4": {
+    "timestamp": 1470004210.849416,
+    "msg": "49400/300/205"
+  },
+  "-KO23vYs9SFT_SKKC1ki": {
+    "timestamp": 1470004181.281436,
+    "msg": "19847/300/234"
+  },
+  "-KO243MZc9F_SHFXqHLw": {
+    "timestamp": 1470004217.357458,
+    "msg": "55942/300/13"
+  },
+  "-KO23yl95gWuZWPR8EyS": {
+    "timestamp": 1470004194.419753,
+    "msg": "32924/0/300"
+  },
+  "-KO24DTZx4jx2s2Khi-k": {
+    "timestamp": 1470004258.765181,
+    "msg": "97214/259/249"
+  },
+  "-KO24-C61lJizqc0LZtH": {
+    "coordTimestamp": 1470004200.000102,
+    "timestamp": 1470004200.304439,
+    "coord": [
+      -77.00645475655514,
+      38.91194398052889
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO24R_2fDgpqZLzX0MS": {
+    "timestamp": 1470004316.524871,
+    "msg": "155094/209/300"
+  },
+  "-KO23wvkbDDUi_tv4Lbl": {
+    "timestamp": 1470004186.906167,
+    "msg": "25451/104/94"
+  },
+  "-KO23wjSAdxd5v9Kruco": {
+    "timestamp": 1470004186.118301,
+    "msg": "24682/300/167"
+  },
+  "-KO24cVbC-anbM0Tt9zQ": {
+    "coordTimestamp": 1470004365.000103,
+    "timestamp": 1470004365.392593,
+    "coord": [
+      -77.01513020307175,
+      38.91259854479363
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24Rg5ZfJKHxzGEjy2": {
+    "timestamp": 1470004316.975871,
+    "msg": "155545/300/124"
+  },
+  "-KO24UDtkOdvYXLlb80e": {
+    "coordTimestamp": 1470004327.000103,
+    "timestamp": 1470004327.395677,
+    "coord": [
+      -77.01253442113739,
+      38.91261977645196
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO243OwO2qAY8kOrC0A": {
+    "timestamp": 1470004217.509859,
+    "msg": "56092/300/8"
+  },
+  "-KO24P8QjarJtmI0M3TY": {
+    "timestamp": 1470004306.565048,
+    "msg": "145106/94/300"
+  },
+  "-KO24CuT-y24UbAP582w": {
+    "timestamp": 1470004256.455785,
+    "msg": "94744/300/249"
+  },
+  "-KO247iufd1199vnjyRB": {
+    "timestamp": 1470004235.235827,
+    "msg": "73815/300/122"
+  },
+  "-KO23ucRTRXwG0FEpbLD": {
+    "timestamp": 1470004177.477673,
+    "msg": "16036/290/300"
+  },
+  "-KO245O5DaO1MGZLlWwU": {
+    "timestamp": 1470004225.647437,
+    "msg": "64226/24/300"
+  },
+  "-KO24-ibgAEs9M00BzNM": {
+    "timestamp": 1470004202.448428,
+    "msg": "39884/0/300"
+  },
+  "-KO24KwQwHdDb8aAef8o": {
+    "timestamp": 1470004289.348991,
+    "msg": "127905/223/300"
+  },
+  "-KO24CcGdmvjJtgo_RSf": {
+    "timestamp": 1470004255.290853,
+    "msg": "92178/0/300"
+  },
+  "-KO24Uf_0jnK532vuI0D": {
+    "timestamp": 1470004329.2307,
+    "msg": "167790/252/300"
+  },
+  "-KO242BYgCaARICBvz8e": {
+    "timestamp": 1470004212.55705,
+    "msg": "51101/47/23"
+  },
+  "-KO23wKp5uJi4gjqPoNd": {
+    "timestamp": 1470004184.478384,
+    "msg": "23042/300/202"
+  },
+  "-KO244LYN50EdsvfFOIs": {
+    "timestamp": 1470004221.389036,
+    "msg": "59976/6/300"
+  },
+  "-KO24Rx5jS9dlJfUpcSk": {
+    "timestamp": 1470004318.064096,
+    "msg": "156633/250/300"
+  },
+  "-KO24PjokWbHUIzC3WMw": {
+    "timestamp": 1470004309.02185,
+    "msg": "147575/300/145"
+  },
+  "-KO24QY9Wa2MEyGzoXGX": {
+    "timestamp": 1470004312.308049,
+    "msg": "150851/106/300"
+  },
+  "-KO23wCfIIYtAQDvfA5u": {
+    "timestamp": 1470004183.95708,
+    "msg": "22525/291/290"
+  },
+  "-KO243UMdPc10iC3UpLk": {
+    "timestamp": 1470004217.856653,
+    "msg": "56431/300/6"
+  },
+  "-KO241HU1MItckZKMqRg": {
+    "timestamp": 1470004208.840826,
+    "msg": "47381/0/300"
+  },
+  "-KO24M8DNK2gFqiLS_W2": {
+    "timestamp": 1470004294.263567,
+    "msg": "132830/300/149"
+  },
+  "-KO24Vfq7YdzzJ3_SBke": {
+    "timestamp": 1470004333.343767,
+    "msg": "171920/0/300"
+  },
+  "-KO24I24YlSL1GCjAQ_9": {
+    "coordTimestamp": 1470004277.000103,
+    "timestamp": 1470004277.486861,
+    "coord": [
+      -77.00885708261922,
+      38.91260099156309
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24UeG9rpYnPJj1gN4": {
+    "timestamp": 1470004329.146927,
+    "msg": "167714/0/300"
+  },
+  "-KO23u0Uvs_WyMiPteqV": {
+    "timestamp": 1470004174.985041,
+    "msg": "13553/300/65"
+  },
+  "-KO240_6F0uZ0u13kMZ5": {
+    "timestamp": 1470004205.936956,
+    "msg": "44488/0/300"
+  },
+  "-KO24JK-EGAh9qg49Wwt": {
+    "timestamp": 1470004282.730272,
+    "msg": "121239/184/177"
+  },
+  "-KO24Tet-Nc2ScDcO25P": {
+    "timestamp": 1470004325.090349,
+    "msg": "163665/0/300"
+  },
+  "-KO24-rbm3rw3yEeDQga": {
+    "timestamp": 1470004203.025049,
+    "msg": "41545/0/300"
+  },
+  "-KO24nE078Yq9nC0T3G2": {
+    "coordTimestamp": 1470004409.000103,
+    "timestamp": 1470004409.322351,
+    "coord": [
+      -77.01799454174657,
+      38.91262006483871
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO2402aolo7edjJN687": {
+    "timestamp": 1470004203.792214,
+    "msg": "42335/0/300"
+  },
+  "-KO23s8aktztrVL-Kwww": {
+    "coordTimestamp": 1470004167.000103,
+    "timestamp": 1470004167.31148,
+    "coord": [
+      -77.00705858885964,
+      38.9114519209032
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23vMJlSZehraENcLo": {
+    "timestamp": 1470004180.477525,
+    "msg": "19048/251/247"
+  },
+  "-KO240B4c9JYVGuy4i-i": {
+    "coordTimestamp": 1470004204.000104,
+    "timestamp": 1470004204.335069,
+    "coord": [
+      -77.00646380901057,
+      38.91210478734124
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO23tWhjdQG-sxTl8lk": {
+    "timestamp": 1470004172.950515,
+    "msg": "11511/28/209"
+  },
+  "-KO248GbGW0GFFyAvKdr": {
+    "timestamp": 1470004237.456971,
+    "msg": "76030/0/300"
+  },
+  "-KO247uOMs1fQtiYhxnj": {
+    "timestamp": 1470004235.970651,
+    "msg": "74525/0/300"
+  },
+  "-KO24OgBxKmlD3IuGMZf": {
+    "timestamp": 1470004304.694067,
+    "msg": "143226/0/300"
+  },
+  "-KO23uUwscxEvhSiAiHV": {
+    "timestamp": 1470004176.933397,
+    "msg": "15505/0/300"
+  },
+  "-KO242r4DfLJ1CfL76sA": {
+    "timestamp": 1470004215.278684,
+    "msg": "53829/76/300"
+  },
+  "-KO23x0qzbCeoMRFIakc": {
+    "timestamp": 1470004187.295326,
+    "msg": "25864/300/144"
+  },
+  "-KO24T1PErF6JiPiBgfH": {
+    "timestamp": 1470004322.500043,
+    "msg": "161052/0/300"
+  },
+  "-KO23vBIdPSfFgxCrXoX": {
+    "timestamp": 1470004179.772525,
+    "msg": "18340/192/116"
+  },
+  "-KO247mtN_Z-db-mSVGW": {
+    "timestamp": 1470004235.490946,
+    "msg": "74056/300/122"
+  },
+  "-KO24VPbowTArvPKmhgM": {
+    "timestamp": 1470004332.240632,
+    "msg": "170787/0/300"
+  },
+  "-KO24GikF73VvQCg3U17": {
+    "timestamp": 1470004272.08924,
+    "msg": "110603/0/86"
+  },
+  "-KO23uKRBYyMYjrWZ5T9": {
+    "timestamp": 1470004176.261891,
+    "msg": "14792/0/300"
+  },
+  "-KO24-02nUI2mSaI3jC2": {
+    "timestamp": 1470004199.532972,
+    "msg": "38026/0/300"
+  },
+  "-KO24RGHs8r2aIKPyZft": {
+    "coordTimestamp": 1470004315.000103,
+    "timestamp": 1470004315.259655,
+    "coord": [
+      -77.01201688789297,
+      38.91261149504105
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO248rquBDv0etWw9Xr": {
+    "timestamp": 1470004239.903465,
+    "msg": "78480/0/300"
+  },
+  "-KO23quM4jjMF1gkIctv": {
+    "coordTimestamp": 1470004162.000055,
+    "timestamp": 1470004162.240801,
+    "coord": [
+      -77.00705775066932,
+      38.91146482903409
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO24Tv0d9k8WgXGorXn": {
+    "timestamp": 1470004326.122299,
+    "msg": "164643/0/300"
+  },
+  "-KO240gLwxrpvJ35GkL7": {
+    "timestamp": 1470004206.399407,
+    "msg": "44942/0/300"
+  },
+  "-KO23uvu1ktSKfnpQTpJ": {
+    "timestamp": 1470004178.723218,
+    "msg": "17286/129/161"
+  },
+  "-KO240bO41vyYMWXbto4": {
+    "timestamp": 1470004206.082777,
+    "msg": "44634/0/300"
+  },
+  "-KO23qQKiNVeMUscZr8V": {
+    "coordTimestamp": 1470004160.000126,
+    "timestamp": 1470004160.254766,
+    "coord": [
+      -77.00705775066932,
+      38.91146482903409
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO244TCv_AtLXpfltZk": {
+    "timestamp": 1470004221.878881,
+    "msg": "60428/4/300"
+  },
+  "-KO24qROOjNhLxhzbInP": {
+    "coordTimestamp": 1470004422.000103,
+    "timestamp": 1470004422.46673,
+    "coord": [
+      -77.01880307380634,
+      38.91260813570144
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24O3-Z6--SsyyNtlg": {
+    "timestamp": 1470004302.121732,
+    "msg": "140681/300/0"
+  },
+  "-KO24mjzjheNcZWQwf02": {
+    "coordTimestamp": 1470004407.000103,
+    "timestamp": 1470004407.336493,
+    "coord": [
+      -77.01786629862805,
+      38.91262366905707
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24VKjhGEftGgOCfee": {
+    "timestamp": 1470004331.928391,
+    "msg": "170456/300/0"
+  },
+  "-KO23t32sIz3WbC7xhtB": {
+    "timestamp": 1470004171.053004,
+    "msg": "9622/229/179"
+  },
+  "-KO24bk_UhWQDZRigkDy": {
+    "coordTimestamp": 1470004362.000103,
+    "timestamp": 1470004362.318507,
+    "coord": [
+      -77.0149474140635,
+      38.91260147714645
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO249SE3k_1__wG3u8e": {
+    "coordTimestamp": 1470004242.000103,
+    "timestamp": 1470004242.296519,
+    "coord": [
+      -77.00643396943528,
+      38.91254513062435
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24A0J7D2aAie-7brm": {
+    "timestamp": 1470004244.605354,
+    "msg": "83180/0/300"
+  },
+  "-KO24LPZez1twUeotlYD": {
+    "coordTimestamp": 1470004291.000103,
+    "timestamp": 1470004291.277103,
+    "coord": [
+      -77.00991323319613,
+      38.91259799602838
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23tn2oj4B2miJijbS": {
+    "timestamp": 1470004174.060146,
+    "msg": "12604/41/31"
+  },
+  "-KO240faL9FLYc3B1-Zq": {
+    "coordTimestamp": 1470004206.000103,
+    "timestamp": 1470004206.351889,
+    "coord": [
+      -77.00646867051441,
+      38.91217879954624
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO24G5BoAxvXsSXkfWa": {
+    "coordTimestamp": 1470004269.000103,
+    "timestamp": 1470004269.493343,
+    "coord": [
+      -77.00824662730156,
+      38.91259345100863
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24LAgsTGTPi3EwPqT": {
+    "coordTimestamp": 1470004290.000103,
+    "timestamp": 1470004290.325571,
+    "coord": [
+      -77.00984959818015,
+      38.91259796239931
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24LUtZkEHr3wcsqct": {
+    "timestamp": 1470004291.618998,
+    "msg": "130189/247/216"
+  },
+  "-KO24RQCBYb_I_xBFVIQ": {
+    "timestamp": 1470004315.894993,
+    "msg": "154397/33/300"
+  },
+  "-KO2450FrzaJKcdnjDzF": {
+    "timestamp": 1470004224.12178,
+    "msg": "62702/6/300"
+  },
+  "-KO23tLqQNSnVEQ2z52w": {
+    "timestamp": 1470004172.255524,
+    "msg": "10748/228/165"
+  },
+  "-KO24FOzv56biEZ5SBNr": {
+    "timestamp": 1470004266.664263,
+    "msg": "105189/300/117"
+  },
+  "-KO24Rc6OGv-ThZBv8Tw": {
+    "timestamp": 1470004316.720705,
+    "msg": "155292/225/145"
+  },
+  "-KO248dzL3iZThyPVY6M": {
+    "timestamp": 1470004239.016531,
+    "msg": "77573/0/300"
+  },
+  "-KO24SNBeDXudgJOF2rW": {
+    "timestamp": 1470004319.79754,
+    "msg": "158336/0/300"
+  },
+  "-KO23xcj_8myBVJc2TAH": {
+    "timestamp": 1470004189.784991,
+    "msg": "28348/0/300"
+  },
+  "-KO23vpsQHp93MSJZkrY": {
+    "timestamp": 1470004182.433187,
+    "msg": "20981/300/243"
+  },
+  "-KO24t7Ybxs0bsygBAAa": {
+    "coordTimestamp": 1470004433.000103,
+    "timestamp": 1470004433.48439,
+    "coord": [
+      -77.01914712473808,
+      38.91260853517396
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO248JL2hCfUnDyKyqn": {
+    "timestamp": 1470004237.631893,
+    "msg": "76210/0/300"
+  },
+  "-KO24E5a0X8TCEIr8275": {
+    "coordTimestamp": 1470004261.000103,
+    "timestamp": 1470004261.327969,
+    "coord": [
+      -77.00774239754537,
+      38.9125894985736
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23tbur0ZQ2RozO8U7": {
+    "timestamp": 1470004173.347738,
+    "msg": "11907/31/23"
+  },
+  "-KO23ub06U7Ph52rTpEg": {
+    "timestamp": 1470004177.386843,
+    "msg": "15912/0/300"
+  },
+  "-KO24OIbKvImAweTMDhE": {
+    "timestamp": 1470004303.120692,
+    "msg": "141649/0/197"
+  },
+  "-KO24XYiSctAjik2fKTs": {
+    "timestamp": 1470004341.015317,
+    "msg": "179402/0/300"
+  },
+  "-KO24EpnMRMqLo6WCNGE": {
+    "coordTimestamp": 1470004264.000103,
+    "timestamp": 1470004264.348782,
+    "coord": [
+      -77.00796121891472,
+      38.9125912136563
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24N2smK1bfo7nclZb": {
+    "timestamp": 1470004298.017321,
+    "msg": "136559/0/300"
+  },
+  "-KO245GS0cbFQes4zQhL": {
+    "timestamp": 1470004225.15852,
+    "msg": "63738/12/300"
+  },
+  "-KO245EpPpEw1biwP6jd": {
+    "timestamp": 1470004225.05502,
+    "msg": "63638/9/300"
+  },
+  "-KO248zNtN7v1HwnIMdT": {
+    "timestamp": 1470004240.38608,
+    "msg": "78940/0/300"
+  },
+  "-KO24VRW5gKwTPA2tZvG": {
+    "coordTimestamp": 1470004332.000103,
+    "timestamp": 1470004332.362286,
+    "coord": [
+      -77.01288560143439,
+      38.91261568746405
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24-ECkivLmwBO8k-A": {
+    "timestamp": 1470004200.438885,
+    "msg": "38990/300/171"
+  },
+  "-KO23tSJvIe5tyt_ahdz": {
+    "timestamp": 1470004172.669823,
+    "msg": "11235/29/221"
+  },
+  "-KO23vdMmAJDjYxN5Cs2": {
+    "timestamp": 1470004181.632369,
+    "msg": "20212/300/235"
+  },
+  "-KO23x1sKNF1pVhMI1hS": {
+    "timestamp": 1470004187.361634,
+    "msg": "25940/218/300"
+  },
+  "-KO23sYPvExoMU4byv81": {
+    "timestamp": 1470004168.963955,
+    "msg": "7547/55/154"
+  },
+  "-KO240FjK9REa_7QHwRO": {
+    "timestamp": 1470004204.632707,
+    "msg": "43168/0/300"
+  },
+  "-KO24UGXRSA4gL3d5I1J": {
+    "timestamp": 1470004327.563578,
+    "msg": "166093/0/300"
+  },
+  "-KO24DccTvbN3BSSKORf": {
+    "coordTimestamp": 1470004259.000103,
+    "timestamp": 1470004259.409419,
+    "coord": [
+      -77.0075788901886,
+      38.91258821659257
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24_paYCVVUmHq-lE-": {
+    "coordTimestamp": 1470004354.000103,
+    "timestamp": 1470004354.447844,
+    "coord": [
+      -77.0142589265015,
+      38.91261250442244
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23szwiP13Py8bL5X5": {
+    "timestamp": 1470004170.789258,
+    "msg": "9340/222/176"
+  },
+  "-KO24MPUaanmp4xIOmAx": {
+    "timestamp": 1470004295.368465,
+    "msg": "133929/300/138"
+  },
+  "-KO24QN7gL0iNabo5kEZ": {
+    "timestamp": 1470004311.601736,
+    "msg": "150122/0/300"
+  },
+  "-KO23xBLl_M7MTvC8r7P": {
+    "timestamp": 1470004187.967555,
+    "msg": "26518/300/133"
+  },
+  "-KO23yia_s9_4ys0bolz": {
+    "coordTimestamp": 1470004194.000103,
+    "timestamp": 1470004194.255871,
+    "coord": [
+      -77.00645794167835,
+      38.91176624227214
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO23tjKOCn-EwflF4Wc": {
+    "timestamp": 1470004173.822556,
+    "msg": "12372/34/34"
+  },
+  "-KO24PmifMK32CTOAyOf": {
+    "timestamp": 1470004309.207785,
+    "msg": "147722/25/300"
+  },
+  "-KO247TfNWjOQTCICsT-": {
+    "coordTimestamp": 1470004234.000103,
+    "timestamp": 1470004234.196548,
+    "coord": [
+      -77.00640630915481,
+      38.91241227745908
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23vtsp3YAEShZnnDJ": {
+    "timestamp": 1470004182.689834,
+    "msg": "21255/300/258"
+  },
+  "-KO242lbHcPqDIjkb7h6": {
+    "timestamp": 1470004214.928137,
+    "msg": "53513/0/300"
+  },
+  "-KO24aJhJGHOfNXsKZwh": {
+    "coordTimestamp": 1470004356.000103,
+    "timestamp": 1470004356.438771,
+    "coord": [
+      -77.01457405855763,
+      38.91260746668688
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24G_-d9vId2KjgnWF": {
+    "timestamp": 1470004271.46607,
+    "msg": "109996/0/300"
+  },
+  "-KO23twJshJMX7Qmqf7k": {
+    "timestamp": 1470004174.654069,
+    "msg": "12884/51/35"
+  },
+  "-KO23xg4QjhSw740Gzjf": {
+    "timestamp": 1470004189.99885,
+    "msg": "28539/0/300"
+  },
+  "-KO243EHtD1g3SMK78OT": {
+    "timestamp": 1470004216.827282,
+    "msg": "55378/0/300"
+  },
+  "-KO23sOdLeCWatjSE02f": {
+    "timestamp": 1470004168.338946,
+    "msg": "6889/58/150"
+  },
+  "-KO241CknaLos2vsiB1w": {
+    "timestamp": 1470004208.537678,
+    "msg": "47106/0/300"
+  },
+  "-KO24LustUoyxJWCQ7C9": {
+    "coordTimestamp": 1470004293.000103,
+    "timestamp": 1470004293.345885,
+    "coord": [
+      -77.0100980332063,
+      38.91259809436792
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24G7S7rkyV74LrU1F": {
+    "timestamp": 1470004269.638624,
+    "msg": "108162/0/300"
+  },
+  "-KO244VVrxBSdUmrJ3MD": {
+    "timestamp": 1470004222.025462,
+    "msg": "60609/5/300"
+  },
+  "-KO23wh8Wrm_VPDREV4N": {
+    "timestamp": 1470004185.971071,
+    "msg": "23835/217/145"
+  },
+  "-KO23wpZ-gNsMNaR1wNw": {
+    "timestamp": 1470004186.509868,
+    "msg": "25068/300/125"
+  },
+  "-KO24W2nL46xQbCfly8y": {
+    "timestamp": 1470004334.877333,
+    "msg": "173365/0/300"
+  },
+  "-KO24961YcSIu7LTtwAX": {
+    "timestamp": 1470004240.876088,
+    "msg": "79421/0/300"
+  },
+  "-KO24ohaCb71cbmJA4jA": {
+    "coordTimestamp": 1470004415.000103,
+    "timestamp": 1470004415.375957,
+    "coord": [
+      -77.018406954885,
+      38.91260760935563
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO246FSE7tcPUDdmtkl": {
+    "coordTimestamp": 1470004229.000103,
+    "timestamp": 1470004229.191001,
+    "coord": [
+      -77.00640630915481,
+      38.91241227745908
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24T-Ou9s9huOd-dtk": {
+    "timestamp": 1470004322.370738,
+    "msg": "160950/0/300"
+  },
+  "-KO248D_jGUHcS2Ax435": {
+    "coordTimestamp": 1470004237.000103,
+    "timestamp": 1470004237.262644,
+    "coord": [
+      -77.00643329888302,
+      38.91244303904372
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO243HnFBTssHiJR8nM": {
+    "timestamp": 1470004217.052209,
+    "msg": "55581/0/300"
+  },
+  "-KO2458pCUzk5BhwGPdC": {
+    "timestamp": 1470004224.67108,
+    "msg": "63254/4/300"
+  },
+  "-KO24I52RSF2ST5-Qs8d": {
+    "timestamp": 1470004277.676437,
+    "msg": "116205/300/0"
+  },
+  "-KO24Qk5Y_2UPt0Qnh3Y": {
+    "timestamp": 1470004313.135701,
+    "msg": "151711/122/300"
+  },
+  "-KO24D6Z_mSbRt9OMEDz": {
+    "timestamp": 1470004257.293425,
+    "msg": "95791/91/300"
+  },
+  "-KO249a78lRnaGb7kN1v": {
+    "timestamp": 1470004242.865825,
+    "msg": "81420/300/226"
+  },
+  "-KO24LJamIUGMp36PThd": {
+    "timestamp": 1470004290.895837,
+    "msg": "129445/0/130"
+  },
+  "-KO24JiyuTFNJkyZS0bH": {
+    "timestamp": 1470004284.391773,
+    "msg": "122963/153/300"
+  },
+  "-KO23tqDa2rBcahhnkHB": {
+    "timestamp": 1470004174.263682,
+    "msg": "12828/51/37"
+  },
+  "-KO23wRJ9Fsa9oBgRbLd": {
+    "timestamp": 1470004184.893276,
+    "msg": "23460/231/136"
+  },
+  "-KO23tD36891uNqkkRG7": {
+    "timestamp": 1470004171.693264,
+    "msg": "10234/213/188"
+  },
+  "-KO24F9zbuXSWtC247G-": {
+    "timestamp": 1470004265.704618,
+    "msg": "104224/192/14"
+  },
+  "-KO24fuLSiq3Is7uhcw_": {
+    "coordTimestamp": 1470004379.000103,
+    "timestamp": 1470004379.327894,
+    "coord": [
+      -77.01608976203715,
+      38.91259472993237
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO249vVzWYc-6S9DO2i": {
+    "timestamp": 1470004244.233337,
+    "msg": "82786/0/300"
+  },
+  "-KO2464D6EQ5qjabvgr2": {
+    "timestamp": 1470004228.47139,
+    "msg": "67047/30/300"
+  },
+  "-KO24EY4gm5fI0nT8J1c": {
+    "timestamp": 1470004263.150451,
+    "msg": "101599/0/300"
+  },
+  "-KO24Ra7WT1RxtWCF-tM": {
+    "timestamp": 1470004316.593818,
+    "msg": "155165/205/300"
+  },
+  "-KO24TUfRCixAQna0ydt": {
+    "timestamp": 1470004324.372569,
+    "msg": "162902/0/300"
+  },
+  "-KO23wt66--G5IJ60-Jg": {
+    "timestamp": 1470004186.736671,
+    "msg": "25306/300/127"
+  },
+  "-KO247Aqc4AS7MFMSb-a": {
+    "timestamp": 1470004232.991539,
+    "msg": "71545/0/300"
+  },
+  "-KO24TL73Knji5U1UE4v": {
+    "timestamp": 1470004323.761696,
+    "msg": "162313/0/300"
+  },
+  "-KO24MD7Ixijy3Nc28x4": {
+    "timestamp": 1470004294.577984,
+    "msg": "133152/0/300"
+  },
+  "-KO24XI4OrZwC7Pmgxej": {
+    "timestamp": 1470004339.951,
+    "msg": "177967/0/300"
+  },
+  "-KO245rB7zta_lq_17la": {
+    "timestamp": 1470004227.573685,
+    "msg": "66149/26/300"
+  },
+  "-KO24gutzAAHel1AjLJh": {
+    "coordTimestamp": 1470004383.000103,
+    "timestamp": 1470004383.45879,
+    "coord": [
+      -77.01616891405138,
+      38.91259472993237
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24L99cLwG4NdP-4lj": {
+    "timestamp": 1470004290.227202,
+    "msg": "128762/300/216"
+  },
+  "-KO24-n2AUE5tCK-RhGJ": {
+    "timestamp": 1470004202.732875,
+    "msg": "41295/300/180"
+  },
+  "-KO24AYAOrhGzAk_K_ZA": {
+    "timestamp": 1470004246.772768,
+    "msg": "85323/92/300"
+  },
+  "-KO2453F9plvHmX_Gz0o": {
+    "timestamp": 1470004224.31351,
+    "msg": "62899/5/300"
+  },
+  "-KO23t0G7VG3bD8vJkwF": {
+    "timestamp": 1470004170.874937,
+    "msg": "9432/222/178"
+  },
+  "-KO24UcV-iXs1rF4MnuL": {
+    "timestamp": 1470004329.033475,
+    "msg": "167556/0/300"
+  },
+  "-KO24eD08YekgiGS_Ahj": {
+    "coordTimestamp": 1470004372.000102,
+    "timestamp": 1470004372.394469,
+    "coord": [
+      -77.01560477733334,
+      38.91261218584972
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO23sZDLIhDInQYRjSg": {
+    "timestamp": 1470004169.015188,
+    "msg": "7591/97/112"
+  },
+  "-KO24RrnH1EWks8CLkFP": {
+    "timestamp": 1470004317.724907,
+    "msg": "156263/0/300"
+  },
+  "-KO24HmH3cv0LbTerWTO": {
+    "coordTimestamp": 1470004276.000103,
+    "timestamp": 1470004276.411145,
+    "coord": [
+      -77.00878621984884,
+      38.91260099156309
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24mXAYq-lu-5_kb5S": {
+    "coordTimestamp": 1470004406.000103,
+    "timestamp": 1470004406.452688,
+    "coord": [
+      -77.01780661947747,
+      38.91263117086041
+    ],
+    "horizontalAccuracy": 10
+  },
+  "-KO24OkvyFHEkOmTE-gb": {
+    "timestamp": 1470004304.996488,
+    "msg": "143507/300/168"
+  },
+  "-KO23xKmNgpChkYxUjPq": {
+    "timestamp": 1470004188.571429,
+    "msg": "27117/300/144"
+  },
+  "-KO24JamzAcudswHckjH": {
+    "timestamp": 1470004283.867846,
+    "msg": "122439/0/292"
+  },
+  "-KO23saIjRN4NMr2oVKU": {
+    "timestamp": 1470004169.148612,
+    "msg": "7724/220/197"
+  },
+  "-KO23zkb3-OYR-2RXeQf": {
+    "timestamp": 1470004198.480712,
+    "msg": "37029/0/300"
+  },
+  "-KO24SuZPO8XKLkPDh07": {
+    "timestamp": 1470004321.997778,
+    "msg": "160525/0/300"
+  },
+  "-KO240PpzDGXWtfNq3bF": {
+    "coordTimestamp": 1470004205.000104,
+    "timestamp": 1470004205.278584,
+    "coord": [
+      -77.00646531775314,
+      38.91214095525342
+    ],
+    "horizontalAccuracy": 5
+  },
+  "-KO23sGXBWnzgvLB2vgY": {
+    "timestamp": 1470004167.819681,
+    "msg": "6384/300/175"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "-KNZwJvDG5xdJzCwr-Fy": {
+    "coord": [
+      -122.02359009,
+      37.33304913
+    ],
+    "timestamp": 1469498609.800548,
+    "horizontalAccuracy": 10,
+    "coordTimestamp": 1469498609.79825
+  },
+  "-KNZwJvZMlPamd3vcHrG": {
+    "coord": [
+      -122.02359009,
+      37.33304913
+    ],
+    "timestamp": 1469498609.822478,
+    "horizontalAccuracy": 10,
+    "coordTimestamp": 1469498609.798318
+  },
+  "-KNZwJvkwS0n4Ty5T0Ov": {
+    "coord": [
+      -122.02359009,
+      37.33304913
+    ],
+    "timestamp": 1469498609.834683,
+    "horizontalAccuracy": 10,
+    "coordTimestamp": 1469498609.798386
+  },
+  "-KNZwKHf5Ha6iqhaoZu1": {
+    "coord": [
+      -122.02360543,
+      37.3331848
+    ],
+    "timestamp": 1469498611.30126,
+    "horizontalAccuracy": 10,
+    "coordTimestamp": 1469498611.300144
+  },
+  "-KNZwK1xIjgd748ERrZm": {
+    "coord": [
+      -122.02360022,
+      37.33315311
+    ],
+    "timestamp": 1469498610.295839,
+    "horizontalAccuracy": 5,
+    "coordTimestamp": 1469498610.29488
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "-KNZvhSquruv8C_t1HSw": {
+    "coord": [
+      -122.03076853,
+      37.33115792
+    ],
+    "coordTimestamp": 1469498447.856482,
+    "timestamp": 1469498447.857333,
+    "horizontalAccuracy": 30
+  },
+  "-KNZvfzlrNfpF5oEXSyX": {
+    "coord": [
+      -122.0307334,
+      37.33154242
+    ],
+    "coordTimestamp": 1469498441.832884,
+    "timestamp": 1469498441.837174,
+    "horizontalAccuracy": 30
+  },
+  "-KNZvhhYNeUs96PpEtRT": {
+    "coord": [
+      -122.0307725,
+      37.3310798
+    ],
+    "coordTimestamp": 1469498448.861664,
+    "timestamp": 1469498448.862546,
+    "horizontalAccuracy": 30
+  },
+  "-KNZvgyUpux9i9fry4-4": {
+    "coord": [
+      -122.03075659,
+      37.33131185
+    ],
+    "coordTimestamp": 1469498445.849786,
+    "timestamp": 1469498445.851095,
+    "horizontalAccuracy": 30
+  },
+  "-KNZvhDA_ZxNInTD6PD6": {
+    "coord": [
+      -122.03076342,
+      37.33123666
+    ],
+    "coordTimestamp": 1469498446.853974,
+    "timestamp": 1469498446.854964,
+    "horizontalAccuracy": 30
+  },
+  "-KNZvgU6KtMHlW6t7rDp": {
+    "coord": [
+      -122.03075535,
+      37.33144466
+    ],
+    "coordTimestamp": 1469498443.841757,
+    "timestamp": 1469498443.842771,
+    "horizontalAccuracy": 30
+  },
+  "-KNZvgEQN2a3i3b6inPc": {
+    "coord": [
+      -122.03074488,
+      37.33149482
+    ],
+    "coordTimestamp": 1469498442.837696,
+    "timestamp": 1469498442.838915,
+    "horizontalAccuracy": 30
+  },
+  "-KNZvgimf9Yk0EHkaDMJ": {
+    "coord": [
+      -122.03075743,
+      37.33138305
+    ],
+    "coordTimestamp": 1469498444.844564,
+    "timestamp": 1469498444.845586,
+    "horizontalAccuracy": 30
+  }
+}
