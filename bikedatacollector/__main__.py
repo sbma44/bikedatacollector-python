@@ -4,13 +4,13 @@ import csv
 import json
 import pyrebase
 
-writer = csv.writer(sys.stdout)
+writer = csv.writer(sys.stdout, delimiter='\t')
 
 if '--help' in sys.argv or len(sys.argv) < 2:
   print('Usage:')
   print('  python -m bikedatacollector list')
   print('  python -m bikedatacollector fetch jobid')
-  print('  python -m bikedatacollector geojson filename')
+  print('  python -m bikedatacollector parse filename')
   sys.exit(0)
 
 task = sys.argv[1].strip().lower()
@@ -32,7 +32,7 @@ if task in ('fetch', 'list'):
       print('\n'.join(runs.pyres))
       sys.exit(0)
 
-  job_name = sys.argv[1].strip()
+  job_name = sys.argv[2].strip()
   if not job_name in runs.pyres:
       sys.stderr.write("{} not found in record list\n".format(job_name))
       sys.exit(1)
@@ -41,16 +41,23 @@ if task in ('fetch', 'list'):
 
   print(json.dumps(job_data.val(), indent=2, ensure_ascii=False))
 
-elif task == 'geojson':
+elif task == 'parse':
   with open(sys.argv[2]) as f:
     j = json.load(f)
+
+  if len(sys.argv) >= 4:
+    out_dir = os.path.normpath(sys.argv[3])
+  else:
+    out_dir = os.getcwd()
 
   version = 'v1'
   for k in j:
     for expected_key in ('msg', 'timestamp', 'coordTimestamp', 'coord', 'horizontalAccuracy'):
       if expected_key not in j[k]:
         version = 'v2'
-        break
+    if version != 'v1':
+      break
+
 
   sys.stderr.write('detected record format {}\n'.format(version))
 
@@ -89,9 +96,57 @@ elif task == 'geojson':
       })
       writer.writerow([item['timestamp'], item['msg']])
 
-    # print(json.dumps(fc))
+  if version == 'v2':
+    # assemble GPS points
+    locations = [ i for (k, i) in j.items() if 'coord' in i ]
+    locations.sort(key=lambda x: x['timestamp'])
 
+    # grab non-GPS points
+    messages = [ i for (k, i) in j.items() if 'msg' in i and ':' not in i.get('msg') ]
+    for i in range(0, len(messages)):
+      parts = messages[i]['msg'].split('/')
+      messages[i]['deviceTimestamp'] = float(parts.pop(0)) / 1000.0
+      for sensor_i in range(len(parts)):
+        messages[i]['sensor' + str(sensor_i)] = int(parts[sensor_i])
+    messages.sort(key=lambda x: x['timestamp'])
+
+    # find shortest gap between timestamps
+    # measures gap b/w phone & uc is about 0.001%
+    min_dist_pair = sorted([ (m['timestamp'] - m['deviceTimestamp'], m['timestamp'], m['deviceTimestamp']) for m in messages ], key=lambda x: x[0])[0]
+    device_delta = min_dist_pair[1] - min_dist_pair[2]
+
+    # adjust uC timestamps with delta
+    for i in range(0, len(messages)):
+      if 'deviceTimestamp' in messages[i]:
+        messages[i]['adjustedDeviceTimestamp'] = messages[i]['deviceTimestamp'] + device_delta
+
+    # record distances to JSON file
+    with open(os.path.normcase('{}/{}-sonar.json'.format(out_dir, os.path.basename(sys.argv[2]).replace('.json', ''))), 'w') as json_f:
+      json.dump(list(map(lambda x: (x['adjustedDeviceTimestamp'], x['sensor0'], x['sensor1']), [m for m in messages if 'msg' in m])), json_f, indent=2)
+
+    # create geoJSON
+    fc = {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "timestamp": list(map(lambda x: x['timestamp'], locations)),
+            "horizontalAccuracy": list(map(lambda x: x['horizontalAccuracy'], locations))
+
+          },
+          "geometry": {
+            "type": "LineString",
+            "coordinates": list(map(lambda x: x['coord'], locations))
+          }
+        }
+      ]
+    }
+
+    with open(os.path.normcase('{}/{}.geojson'.format(out_dir, os.path.basename(sys.argv[2]).replace('.json', ''))), 'w') as json_f:
+      json.dump(fc, json_f, indent=2)
 
   else:
-    pass
+    sys.stderr.write('Nothing to do, quitting\n')
+    sys.exit(1)
 
