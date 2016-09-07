@@ -62,6 +62,8 @@ elif task == 'parse':
   sys.stderr.write('detected record format {}\n'.format(version))
 
   if version == 'v1':
+    print('skipping v1 file')
+    sys.exit(1)
     locations = {}
     ranges = []
 
